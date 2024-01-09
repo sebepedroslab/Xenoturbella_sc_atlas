@@ -1,4 +1,14 @@
 ###Tested with R version 3.5.
+library(metacell)
+library(plyr)
+library(reshape2)
+library(dplyr)
+library(zoo)
+library('RColorBrewer')
+library(scales)
+library(pheatmap)
+library(ggplot2)
+
 
 scr_load_cell_type_table=function(input_table,mc_object){
   
@@ -74,55 +84,6 @@ scr_recompute_fp=function(cell_classification,mc_object,mat_object){ #cell_class
 	ct_table@cell_names=names(cell_classification)
 	return(ct_table)
 }
-
-scr_cell_type_fp_from_raw_mc_counts=function(mc_annot_table,mc_counts_table){  ##compute cell_tep footprint based on a standard metacell->cell type definition table, using same strategy as mc_fp.
-	cell_type_table=read.table(mc_annot_table,h=TRUE,sep="\t",comment.char="")
-	rownames(cell_type_table)=cell_type_table$metacell
-	
-	mc_counts=read.table(mc_counts_table,h=T,sep="\t",quote="",row.names=1)
-
-	ct_counts=t(apply(mc_counts,1,function(x) tapply(x, cell_type_table$cell_type, sum)))
-	ct_size=colSums(ct_counts)
-	ct_umifrac=t(apply(ct_counts,1,function(x) x*1000/ct_size))
-	ct_umifrac_n=(0.1 + ct_umifrac)/apply(0.1 + ct_umifrac, 1, median)
-	return(ct_umifrac_n)
-}
-
-
-colorize_by_confusion_mat = function(mc_id = t_nk_id, graph_id=filt_id, supmc_file=NULL, marks_file=NULL, res=NULL) 
-{
-	if (is.null(res)) {	
-		mc_hc = mcell_mc_hclust_confu(mc_id=mc_id,
-																	graph_id=graph_id)
-	}
-	else {
-		mc_hc = res$mc_hc
-	}
-	
-	if (is.null(res)) {
-		mc_sup = mcell_mc_hierarchy(mc_id=mc_id,
-																mc_hc=mc_hc, T_gap=0.04)
-	}
-	else {
-		mc_sup = res$mc_sup
-	}
-	
-	mcell_mc_plot_hierarchy(mc_id=mc_id,
-													graph_id=graph_id,
-													mc_order=mc_hc$order,
-													sup_mc = mc_sup,
-													width=1600, heigh=3000, min_nmc=2)
-	if (!is.null(supmc_file)) {
-		mc_colorize_sup_hierarchy(mc_id=mc_id,
-															supmc = mc_sup,
-															supmc_key = supmc_file,
-															gene_key= marks_file)
-	}
-	
-	list(mc_hc=mc_hc, mc_sup=mc_sup)
-}
-
-
 
 scr_plot_cmod_markers_ct_colors = function(mc_object,mat_object,output_file,gene_annot_file,sn_table=NULL,mc_object_gene_selection=NULL,black_list=c(),genes_to_add=c(),
 										height=60, width=60,transversality_N=ncol(mc_object@mc_fp),per_clust_genes=25,
