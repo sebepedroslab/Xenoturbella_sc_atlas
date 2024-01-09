@@ -90,10 +90,19 @@ proteobact_tot=tapply(proteobact[names(mc@mc)],mc@mc,sum)
 
 mc_counts=scr_mc_gene_counts(mc,mat_no_bact,5)
 mc_sizes=colSums(mc_counts)
-barplot(chlamydia_tot/(chlamydia_tot+proteobact_tot+mc_sizes),col=mc_f3@colors)
-barplot(proteobact_tot/(proteobact_tot+chlamydia_tot+mc_sizes),col=mc_f3@colors)
+chlam_norm=chlamydia_tot*100/(chlamydia_tot+proteobact_tot+mc_sizes)
+proteobact_norm=proteobact_tot*100/(proteobact_tot+chlamydia_tot+mc_sizes)
 
+##Figure 4A - metacell bacterial signal
+pdf("bacterial_signal_per_mc.pdf",h=8,w=8,useDingbats=F)
+plot(proteobact_norm,chlam_norm,pch=20,cex=4,col=as.character(xboc_ct_info$mc_color))
+text(proteobact_norm,chlam_norm,labels=names(proteobact_norm),col=ifelse(pmax(proteobact_norm,chlam_norm)>4,"black",alpha("black",0)))
+dev.off()
 
+##Figure 4B/C - sc bacterial signal 2D projections
+mc2d=scdb_mc2d("2dproj_v3")
+scp_plot_gene_2d_metacell_bacteria(mc2d,mc,chlam_norm,out_fn="Chlamydia_2d.png",plot_mc=F,log=F)
+scp_plot_gene_2d_metacell_bacteria(mc2d,mc,out_fn="Proteobacteria_2d.png",proteobact_norm,plot_mc=F,log=F)
 
 ##Figure 4E - fraction of infected/bacterial-containing cells per animal
 cell_animal=as.vector(mat@cell_metadata[names(mc@mc),"dataset"])
@@ -106,5 +115,5 @@ par(mfrow=c(2,1))
 barplot(frac_proteobact_cells,ylab="% infected cells",col="gray30",ylim=c(0,10),main="Proteobacteria")
 barplot(frac_chlam_cells,ylab="% infected cells",col="gray30",ylim=c(0,10),main="Chalmydia")
 dev.off()
-
+```
 
