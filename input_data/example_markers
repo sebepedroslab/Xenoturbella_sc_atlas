@@ -1,0 +1,143 @@
+model_7522	peptidyl-proly isomerase	Secretory
+model_5697	sulfatase	Secretory
+model_1633	henna-like	Secretory
+model_6792	disulfide-isomerase	Secretory
+model_8813	SCO-spondin	Secretory
+model_7670	SCO-spondin	Secretory
+model_8812	SCO-spondin	Secretory
+model_12554	mucin	Secretory
+model_287	mucin-16	Secretory
+model_5816	SCO-spondin	Secretory
+model_1910	SCO-spondin	Secretory
+model_10760	ITM2B protein	Excretory
+model_14146	no hits	Excretory
+model_11845	sodium coupled transporter	Excretory
+model_11844	sodium coupled transporter	Excretory
+model_9758	transmembrane protein 163-like	Excretory
+model_1071	annexin	Excretory
+model_3192	no hits	Excretory
+model_10833	ammonium transporter Rh	Excretory
+model_2501	aquaporin-8	Excretory
+model_3134	cathepsin L	Epithelium
+model_8484	apolipophorins	Epithelium
+model_6364	fibropellin	Epithelium
+model_4602	mucin 5A	Epithelium
+model_6521	YHYH protein	Epithelium
+model_4211	alpha-1-antitrypsin	Epithelium
+model_1141	cathepsin L	Epithelium
+model_10963	cathepsin Z	Epithelium
+model_10796	cathepsin Z	Epithelium
+model_8556	arylsulfatase B	Epithelium
+model_2157	arylsulfatase J	Epithelium
+model_2625	arylsulfatase B	Epithelium
+model_3337	cilia and flagella associated protein	Epithelium
+model_572	apolipophorins	Epithelium
+model_11836	distal-less	Epithelium
+model_10039	arylsulfatase-like	Epithelium
+model_12152	matrix metalloproteinase	Epithelium
+model_10362	myocilin	Epithelium
+model_1190	sortilin receptor	Epithelium
+model_4237	no hits	Epithelium
+model_13686	tubulin aplha	Cilia
+model_9738	rootletin	Cilia
+g5180	calmodulin	Cilia
+model_5206	foxJ1	Cilia
+model_3072	foxQ1	Cilia
+model_4732	tubby	Cilia
+model_174	etv6	Cilia
+model_8639	golgin subfamily B	Cilia
+model_6875	ets	Cilia
+model_10686	hemicentin	Cilia
+model_5258	NTPDase2	Cilia
+model_2872	neuroblast differentiation	Cilia
+model_8587	caveolin-1/3-like	Cilia
+model_3829	tetraspanin	Cilia
+model_2931	protocadherin	Cilia
+model_14229	fibropellin	Cilia
+model_11992	cadherin-23	Cilia
+model_13687	four and a half lim domains	Cilia
+model_11380	xb-spec	Cilia
+model_6819	xb-spec	Cilia
+model_2480	pkd1	Cilia
+model_11496	aurora kinase	Cilia
+model_10797	src kinase-associated phosphoprotein	Cilia
+g7257	prosaposin	Cilia
+model_14059	coiled-coil domain-containing 138	Cilia
+model_13454	LITAF	Cilia
+model_12738	LITAF	Cilia
+model_11869	NFkB	Cilia
+model_6248	tyrosinase	Pigment
+model_7170	tyrosinase	Pigment
+model_8266	tyrosinase	Pigment
+model_9339	tyrosinase	Pigment
+model_5022	tyrosinase	Pigment
+model_111	tyrosinase	Pigment
+model_12654	tyrosinase	Pigment
+model_7724	tyrosinase	Pigment
+model_7495	tyrosinase	Pigment
+model_14178	tyrosinase	Pigment
+model_7474	tyrosinase	Pigment
+model_9764	tyrosinase	Pigment
+model_9765	tyrosinase	Pigment
+model_6569	tyrosinase	Pigment
+model_8535	tyrosinase	Pigment
+model_11063	tyrosinase	Pigment
+model_10193	tyrosinase	Pigment
+model_8715	tyrosinase	Pigment
+model_7763	tyrosinase	Pigment
+model_4946	prospero	Pigment
+model_2862	ptf1	Pigment
+model_7501	sulfotransferae 1C4	Pigment
+model_11580	sulfotransferase cytosolic 1B	Pigment
+model_1145	SNAP-25	Neural
+model_1991	synaptotagmin-5/6	Neural
+model_3304	synaptotagmin-1	Neural
+model_8066	secretagogin	Neural
+model_5792	xb-spec	Neural
+model_6289	islet	Neural
+model_5059	elav	Neural
+model_10360	ZXDA	Neural
+model_11366	vgt	Neural
+model_4641	shaw	Neural
+model_6300	acetylcholine receptor	Neural
+g2174	andrenergic receptor	Neural
+model_5530	lim1	Neural
+model_5505	barH-like	Neural
+model_6297	acetylcholine receptor	Neural
+model_12449	pou4	Neural
+model_5531	atf6	Neural
+model_11729	shaw	Neural
+model_4697	achaete scute	Neural
+model_12774	gephryin	Neural
+model_7468	erg	Neural
+model_5793	NEC2 convertase	Neural
+model_11914	peptidylglycine alpha-hydroxylating monooxygenase	Neural
+model_1859	peptidylglycine alpha-hydroxylating monooxygenase	Neural
+model_5337	isotocin-neurophysin	Neural
+model_9886	polycystin-1	Neural
+model_8905	pkd1	Neural
+model_1123	pkd1	Neural
+model_3526	pkd2	Neural
+model_179	xb-spec	Neural
+model_14024	xb-spec	Neural
+model_4365	troponin T	Muscle
+model_6660	troponin I	Muscle
+model_1093	MHC striated	Muscle
+model_8500	MLC	Muscle
+model_6778	muscle LIM	Muscle
+model_6438	calponin	Muscle
+model_3275	calmodulin	Muscle
+model_2740	tropomyosin	Muscle
+model_3478	xb-spec	Muscle
+model_11432	myopodin	Muscle
+model_4573	ankyrin	Muscle
+model_6930	foxF1	Muscle
+g10007	foxG1	Muscle
+model_9993	musculin	Muscle
+model_12149	foxQ1	Muscle
+model_1171	xb-spec	Muscle
+model_3471	unc-89	Muscle
+model_5689	titin	Muscle
+model_3472	titin	Muscle
+model_9129	foxM1	Muscle
+model_11931	MHC smooth	Muscle
