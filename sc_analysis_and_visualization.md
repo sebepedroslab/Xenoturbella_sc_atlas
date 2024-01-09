@@ -63,7 +63,7 @@ ct_umifrac=scr_mc_gene_umifrac(ct_mc,mat,ct_counts,5)
 mcell_mc2d_plot(mc2d_id="2dproj_v3")
 
 ##Figure 1D
-scr_plot_cmod_markers_ct_colors(mc,mat,clust_ord=niche_order,output_file="Global_gene_expression.png",gene_annot_file="input_data/xboc_gene_annotation",per_clust_genes=30,height=10000,gene_min_fold=2,sn_table="input_data/cell_type_annotation.txt")
+scr_plot_cmod_markers_ct_colors(mc,mat,clust_ord=1:ncol(mc@mc_fp),output_file="Global_gene_expression.png",gene_annot_file="input_data/xboc_gene_annotation",per_clust_genes=30,height=10000,gene_min_fold=2,sn_table="input_data/cell_type_annotation.txt")
 
 ##Dotmap example (Figures 1H, 2B, 2F, 3A, 3E and S3A)
 scr_dot_plot_map(mc_umifrac,mc,"input_data/Specific_lists/example_markers",xboc_ct_info,out_fn="example_dotmap")
