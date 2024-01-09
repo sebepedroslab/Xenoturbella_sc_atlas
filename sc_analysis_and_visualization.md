@@ -42,7 +42,7 @@ mcell_mc2d_plot_by_factor("2dproj","mat_nobact_100","dataset",single_plot=T)
 ##Note: Bad metacells (low UMIs, no markers, etc) were filtered as described in the Methods section of the original article.
 ```
 
-# Data visualization
+# Metacell data visualization
 ```
 ##Initialize metacell database and load metacell and UMI matrix objects
 scdb_init("mc_db",force_reinit=T)
@@ -67,10 +67,8 @@ scr_plot_cmod_markers_ct_colors(mc,mat,clust_ord=niche_order,output_file="Global
 
 ##Dotmap example (Figures 1H, 2B, 2F, 3A, 3E and S3A)
 scr_dot_plot_map(mc_umifrac,mc,"input_data/Specific_lists/example_markers",xboc_ct_info,out_fn="example_dotmap")
-
-
-
 ```
 
+# Bacterial symbionts analysis
 
 
