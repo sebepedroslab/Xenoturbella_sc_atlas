@@ -4,8 +4,8 @@ library(metacell)
 source("xboc_functions.R")
 ```
 
-# create gene intervals
-Needed the first time for each new species.
+# Run metacell clustering
+Optional. You can also start from the final metacell clustering object (provided in the "input_data/" folder, see below).
 
 1. Direct mapping of MARS-seq reads, using FASTX-toolkit and STAR. Consisder using only a subset of reads. 
 
