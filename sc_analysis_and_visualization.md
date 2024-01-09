@@ -67,8 +67,44 @@ scr_plot_cmod_markers_ct_colors(mc,mat,clust_ord=niche_order,output_file="Global
 
 ##Dotmap example (Figures 1H, 2B, 2F, 3A, 3E and S3A)
 scr_dot_plot_map(mc_umifrac,mc,"input_data/Specific_lists/example_markers",xboc_ct_info,out_fn="example_dotmap")
+
+##Figure S2 - TF heatmap
+scr_barplot_heatmap_markers(mc,mat,mc_counts,"input_data/xboc_tfs",heatmap_file="TFs_heatmap.pdf",min_gene_fc=1.8,print_barplots=F,pmin=3.5,mc_col=xboc_ct_info$mc_color,sort_markers=T)
 ```
 
 # Bacterial symbionts analysis
+```
+##Initialize metacell database and oad UMI matrix containing bacterial counts
+scdb_init("mc_db",force_reinit=T)
+mat_bact=scdb_mat("mat")
+mat_no_bact=scdb_mat("mat_nobact_100")
+mc=scdb_mc("mc_filt3")
+
+#Count bacterial signal per metacell
+chlamydia=colSums(as.matrix(mat_bact@mat[grepl("Chlamydia",rownames(mat_bact@mat)),names(mc@mc)]))
+proteobact=colSums(as.matrix(mat_bact@mat[grepl("Proteobact",rownames(mat_bact@mat)),names(mc@mc)]))
+
+bact_tot=colSums(rbind(chlamydia,proteobact))
+chlamydia_tot=tapply(chlamydia[names(mc@mc)],mc@mc,sum)
+proteobact_tot=tapply(proteobact[names(mc@mc)],mc@mc,sum)
+
+mc_counts=scr_mc_gene_counts(mc,mat_no_bact,5)
+mc_sizes=colSums(mc_counts)
+barplot(chlamydia_tot/(chlamydia_tot+proteobact_tot+mc_sizes),col=mc_f3@colors)
+barplot(proteobact_tot/(proteobact_tot+chlamydia_tot+mc_sizes),col=mc_f3@colors)
+
+
+
+##Figure 4E - fraction of infected/bacterial-containing cells per animal
+cell_animal=as.vector(mat@cell_metadata[names(mc@mc),"dataset"])
+names(cell_animal)=names(mc@mc)
+frac_proteobact_cells=table(cell_animal[proteobact_positive_cells])*100/table(cell_animal)
+frac_chlam_cells=table(cell_animal[chlam_positive_cells])*100/table(cell_animal)
+
+pdf("Frac_infected_cells_per_animal.pdf",h=10,w=6,useDingbats=F)
+par(mfrow=c(2,1))
+barplot(frac_proteobact_cells,ylab="% infected cells",col="gray30",ylim=c(0,10),main="Proteobacteria")
+barplot(frac_chlam_cells,ylab="% infected cells",col="gray30",ylim=c(0,10),main="Chalmydia")
+dev.off()
 
 
