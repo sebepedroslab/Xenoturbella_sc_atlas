@@ -10,26 +10,6 @@ out_fn = "results_alignment_samap/"
 
 ## Preprocess ##
 
-# # reference species
-# spi = "Xboc"
-
-# # read
-# print("# loading %s" % (spi))
-# mat_i = sc.read_mtx("data/expression/%s_UMI_table.mtx" % spi)
-# sct_i = pd.read_csv("data/expression/%s_cellID_cell_type" % spi, sep="\t", header = None, names = ["cell","celltype"])
-# gen_i = pd.read_csv("data/expression/%s_features.tsv" % spi, sep="\t", header = None, names = ["gene"])
-
-# # create SAM objects for concatenated dataset
-# print("# run SAM %s" % (spi))
-# sam_i = samalg.SAM(counts=[mat_i.X.transpose(), gen_i["gene"].values,sct_i["cell"].values ])
-# sam_i.preprocess_data()
-# for i in range(sct_i.shape[1]):
-# 	sam_i.adata.obs[sct_i.columns[i]] = sct_i.iloc[:,i].values
-# sam_i.run()
-
-# # save precomputed sam object
-# sam_i.save_anndata("%s/data.%s.sam_object.h5ad" % (out_fn, spi))
-
 
 # query species
 for spj in ["Xboc","Hmia","Spur","Isopu","Nvec"]:

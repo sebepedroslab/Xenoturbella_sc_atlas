@@ -13,7 +13,6 @@ out_fn = "results_alignment_samap/"
 
 # list of pairwise species comparisons
 com_list = [ ["Xboc","Spur"], ["Xboc","Hmia"], ["Xboc","Isopu"], ["Xboc","Nvec"] ]
-com_list = [ ["Xboc","Nvec"] ]
 
 for n,com in enumerate(com_list):
 	
