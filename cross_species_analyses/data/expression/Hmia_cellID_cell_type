@@ -1,0 +1,8405 @@
+J1_bcAABB	Muscle
+J1_bcAAHL	Unknown
+J1_bcAASP	Muscle
+J1_bcAAWG	Neural
+J1_bcAAXB	Endodermal Progenitor
+J1_bcAAYX	Neural
+J1_bcAAZD	Epidermal
+J1_bcABQM	Muscle
+J1_bcABTP	Neural
+J1_bcABWR	Muscle
+J1_bcABXF	Epidermal Progenitor
+J1_bcACHD	Endoerm-like III
+J1_bcACJM	Neural
+J1_bcACKR	Neural
+J1_bcACKY	Epidermal
+J1_bcACQC	Neural
+J1_bcACUB	Neural
+J1_bcACYS	Epidermal
+J1_bcADAD	Digestive
+J1_bcADBS	Epidermal
+J1_bcADCD	Muscle
+J1_bcADEQ	Endoderm-like I
+J1_bcADXI	Endodermal Progenitor
+J1_bcADYD	Endodermal Progenitor
+J1_bcAEBI	Neural
+J1_bcAECK	Muscle
+J1_bcAEKN	Neural
+J1_bcAEKY	Neural
+J1_bcAELW	Neoblast
+J1_bcAEOP	Neoblast
+J1_bcAEWP	Epidermal Progenitor
+J1_bcAFEH	Neoblast
+J1_bcAFFQ	Endoderm-like II
+J1_bcAFLM	Neural
+J1_bcAFLN	Endodermal Progenitor
+J1_bcAFOW	Neural
+J1_bcAFPD	Digestive
+J1_bcAFPK	Neoblast
+J1_bcAFPL	Unknown
+J1_bcAFSB	Epidermal
+J1_bcAFTE	Endodermal Progenitor
+J1_bcAFVY	Digestive
+J1_bcAFWU	Endoerm-like III
+J1_bcAFXW	Digestive
+J1_bcAFZL	Muscle
+J1_bcAGAL	Neoblast
+J1_bcAGBL	Digestive
+J1_bcAGKL	Endoerm-like III
+J1_bcAGQP	Muscle
+J1_bcAGRH	Muscle
+J1_bcAGSX	Neoblast
+J1_bcAGYE	Endoderm-like I
+J1_bcAGZF	Neural
+J1_bcAGZJ	Neural
+J1_bcAHGB	Endoerm-like III
+J1_bcAHHQ	Digestive
+J1_bcAHKT	Endoerm-like III
+J1_bcAHQN	Unknown
+J1_bcAHSL	Neural
+J1_bcAHUP	Neural
+J1_bcAHWI	Muscle
+J1_bcAIAA	Unknown
+J1_bcAIAZ	Neoblast
+J1_bcAIJJ	Unknown
+J1_bcAIKG	Digestive
+J1_bcAIKN	Muscle
+J1_bcAINP	Neural
+J1_bcAIOT	Digestive
+J1_bcAJBN	Neural
+J1_bcAJCS	Endoderm-like II
+J1_bcAJJR	Muscle
+J1_bcAJOI	Digestive
+J1_bcAJPU	Muscle
+J1_bcAJQH	Unknown
+J1_bcAKDQ	Endoderm-like II
+J1_bcAKEL	Digestive
+J1_bcAKFV	Epidermal
+J1_bcAKHS	Muscle
+J1_bcAKJG	Endoderm-like I
+J1_bcAKOE	Epidermal
+J1_bcAKSI	Neural
+J1_bcAKTI	Neural
+J1_bcAKXR	Neoblast
+J1_bcAKZY	Digestive
+J1_bcALDM	Endodermal Progenitor
+J1_bcALDU	Unknown
+J1_bcALEK	Digestive
+J1_bcALFC	Epidermal
+J1_bcALID	Neural
+J1_bcALIY	Muscle
+J1_bcALJT	Neoblast
+J1_bcALMC	Neural
+J1_bcALMP	Unknown
+J1_bcALOJ	Muscle
+J1_bcAMAG	Endoderm-like I
+J1_bcAMBR	Neural
+J1_bcAMGU	Digestive
+J1_bcAMJP	Endoderm-like I
+J1_bcAMMC	Neoblast
+J1_bcAMOK	Neural
+J1_bcAMOM	Muscle
+J1_bcAMPK	Epidermal Progenitor
+J1_bcAMRW	Neoblast
+J1_bcAMUX	Neural
+J1_bcANAZ	Epidermal
+J1_bcANLW	Endoderm-like I
+J1_bcANNE	Neural
+J1_bcANRI	Digestive
+J1_bcANRV	Neural
+J1_bcANSF	Muscle
+J1_bcANTU	Muscle
+J1_bcANUJ	Neural
+J1_bcANWP	Secretory
+J1_bcANYM	Secretory
+J1_bcAOBC	Neural
+J1_bcAODA	Muscle
+J1_bcAOOF	Endoderm-like II
+J1_bcAOOY	Endoderm-like I
+J1_bcAORA	Muscle
+J1_bcAORD	Neoblast
+J1_bcAORI	Muscle
+J1_bcAORR	Digestive
+J1_bcAOUN	Muscle
+J1_bcAOUP	Neural
+J1_bcAPDH	Muscle
+J1_bcAPET	Secretory
+J1_bcAPPO	Digestive
+J1_bcAPUF	Neural
+J1_bcAPWD	Muscle
+J1_bcAQDV	Neural
+J1_bcAQHH	Endodermal Progenitor
+J1_bcAQLZ	Muscle
+J1_bcAQNZ	Digestive
+J1_bcAQTY	Unknown
+J1_bcAQWW	Neoblast
+J1_bcAQXE	Muscle
+J1_bcAQZJ	Muscle
+J1_bcAQZK	Neural
+J1_bcAREA	Endoderm-like I
+J1_bcARHO	Endoerm-like III
+J1_bcARII	Endoderm-like I
+J1_bcARKO	Unknown
+J1_bcARNK	Neoblast
+J1_bcAROQ	Endoerm-like III
+J1_bcARSP	Neoblast
+J1_bcARVD	Digestive
+J1_bcASLT	Digestive
+J1_bcASOX	Epidermal
+J1_bcASRK	Neoblast
+J1_bcASTV	Neural
+J1_bcASUA	Endodermal Progenitor
+J1_bcASVG	Endoderm-like I
+J1_bcASWY	Muscle
+J1_bcASXD	Neural
+J1_bcASZD	Neural
+J1_bcATAF	Digestive
+J1_bcATCU	Muscle
+J1_bcATEO	Epidermal
+J1_bcATGF	Endoderm-like II
+J1_bcATHK	Endoerm-like III
+J1_bcATHN	Digestive
+J1_bcATWE	Digestive
+J1_bcATXX	Neoblast
+J1_bcAUGB	Neoblast
+J1_bcAULR	Unknown
+J1_bcAUOD	Neural
+J1_bcAUWH	Unknown
+J1_bcAUWQ	Neural
+J1_bcAUYD	Digestive
+J1_bcAUZP	Neural
+J1_bcAVEM	Muscle
+J1_bcAVGD	Neural
+J1_bcAVGU	Neural
+J1_bcAVJW	Neural
+J1_bcAVMV	Neural
+J1_bcAVQG	Digestive
+J1_bcAVWC	Endoerm-like III
+J1_bcAWAD	Neural
+J1_bcAWBK	Digestive
+J1_bcAWDJ	Endodermal Progenitor
+J1_bcAWIC	Neural
+J1_bcAWJD	Muscle
+J1_bcAWMU	Endoderm-like II
+J1_bcAWNB	Endoerm-like III
+J1_bcAWSW	Digestive
+J1_bcAXBA	Digestive
+J1_bcAXEW	Digestive
+J1_bcAXIO	Neural
+J1_bcAXJY	Secretory
+J1_bcAXMA	Unknown
+J1_bcAXTR	Endoderm-like I
+J1_bcAXWR	Secretory
+J1_bcAYAT	Neural
+J1_bcAYAU	Neoblast
+J1_bcAYGO	Muscle
+J1_bcAYGR	Secretory
+J1_bcAYGX	Muscle
+J1_bcAYKH	Digestive
+J1_bcAYKO	Endoderm-like II
+J1_bcAYLB	Digestive
+J1_bcAYLI	Endodermal Progenitor
+J1_bcAYLV	Endoderm-like I
+J1_bcAYTL	Endodermal Progenitor
+J1_bcAYYT	Muscle
+J1_bcAZBP	Neural
+J1_bcAZBX	Neural
+J1_bcAZCU	Endoderm-like II
+J1_bcAZDI	Neoblast
+J1_bcAZJC	Endoerm-like III
+J1_bcAZKZ	Digestive
+J1_bcAZME	Endoderm-like I
+J1_bcAZMG	Neural
+J1_bcAZMN	Endodermal Progenitor
+J1_bcAZOF	Endoderm-like I
+J1_bcAZOK	Muscle
+J1_bcAZOL	Digestive
+J1_bcAZRE	Endoderm-like II
+J1_bcAZRQ	Neoblast
+J1_bcAZSJ	Neural
+J1_bcAZSK	Neoblast
+J1_bcAZVR	Secretory
+J1_bcBAAY	Muscle
+J1_bcBACF	Neural
+J1_bcBAIX	Digestive
+J1_bcBAKK	Neural
+J1_bcBAON	Neural
+J1_bcBAPP	Neural
+J1_bcBBGC	Unknown
+J1_bcBBJL	Muscle
+J1_bcBBKQ	Endodermal Progenitor
+J1_bcBBOO	Muscle
+J1_bcBBWJ	Muscle
+J1_bcBBYL	Secretory
+J1_bcBBYR	Neural
+J1_bcBCGN	Neural
+J1_bcBCJH	Neural
+J1_bcBCLQ	Epidermal Progenitor
+J1_bcBCPD	Unknown
+J1_bcBCRI	Digestive
+J1_bcBCVO	Muscle
+J1_bcBCYO	Unknown
+J1_bcBDBQ	Epidermal
+J1_bcBDDE	Endodermal Progenitor
+J1_bcBDMA	Digestive
+J1_bcBDMZ	Endoderm-like I
+J1_bcBEEA	Digestive
+J1_bcBELU	Muscle
+J1_bcBERM	Digestive
+J1_bcBERP	Digestive
+J1_bcBETS	Endodermal Progenitor
+J1_bcBEXL	Endoderm-like I
+J1_bcBEYR	Digestive
+J1_bcBFDI	Epidermal
+J1_bcBFHA	Neural
+J1_bcBFOA	Digestive
+J1_bcBFRK	Neoblast
+J1_bcBFXN	Neoblast
+J1_bcBFXX	Endodermal Progenitor
+J1_bcBFXZ	Epidermal Progenitor
+J1_bcBFYI	Epidermal Progenitor
+J1_bcBGIR	Unknown
+J1_bcBGMO	Endodermal Progenitor
+J1_bcBGUT	Neural
+J1_bcBGXE	Epidermal Progenitor
+J1_bcBGYV	Secretory
+J1_bcBGZR	Neural
+J1_bcBHEC	Neural
+J1_bcBHLA	Muscle
+J1_bcBHLL	Digestive
+J1_bcBHWD	Neural
+J1_bcBHZE	Muscle
+J1_bcBIAJ	Digestive
+J1_bcBIBL	Muscle
+J1_bcBIEZ	Muscle
+J1_bcBIHE	Neoblast
+J1_bcBIPC	Unknown
+J1_bcBJCH	Neoblast
+J1_bcBJEZ	Neural
+J1_bcBJFN	Neural
+J1_bcBJMM	Unknown
+J1_bcBJMT	Muscle
+J1_bcBJPB	Neural
+J1_bcBJPC	Neural
+J1_bcBJWA	Endoderm-like II
+J1_bcBJZU	Neural
+J1_bcBJZZ	Endoderm-like I
+J1_bcBKEP	Endoderm-like I
+J1_bcBKFX	Endoderm-like II
+J1_bcBKHW	Digestive
+J1_bcBKIP	Endoerm-like III
+J1_bcBKNG	Endodermal Progenitor
+J1_bcBKSU	Endoderm-like I
+J1_bcBKVT	Endoderm-like I
+J1_bcBKXS	Muscle
+J1_bcBKZQ	Epidermal
+J1_bcBLAZ	Neural
+J1_bcBLCY	Muscle
+J1_bcBLIM	Neural
+J1_bcBLIY	Neoblast
+J1_bcBLJD	Neural
+J1_bcBLJQ	Digestive
+J1_bcBLLK	Neoblast
+J1_bcBLNC	Endoerm-like III
+J1_bcBLOJ	Digestive
+J1_bcBLPM	Digestive
+J1_bcBLSG	Digestive
+J1_bcBLSY	Muscle
+J1_bcBLTJ	Epidermal Progenitor
+J1_bcBLUH	Muscle
+J1_bcBLVM	Muscle
+J1_bcBLZY	Muscle
+J1_bcBMDM	Digestive
+J1_bcBMFT	Neural
+J1_bcBMGR	Neoblast
+J1_bcBMKR	Neoblast
+J1_bcBMMS	Digestive
+J1_bcBMNQ	Digestive
+J1_bcBMNT	Muscle
+J1_bcBMZF	Endodermal Progenitor
+J1_bcBNAN	Digestive
+J1_bcBNBO	Endodermal Progenitor
+J1_bcBNDL	Muscle
+J1_bcBNEZ	Neural
+J1_bcBNGD	Endoderm-like I
+J1_bcBNHZ	Muscle
+J1_bcBNLY	Neoblast
+J1_bcBNMT	Neural
+J1_bcBNSW	Digestive
+J1_bcBNTA	Neoblast
+J1_bcBNTI	Endoderm-like II
+J1_bcBNUG	Endodermal Progenitor
+J1_bcBNUM	Neoblast
+J1_bcBNVK	Neural
+J1_bcBNVX	Neural
+J1_bcBNXC	Muscle
+J1_bcBOGI	Neural
+J1_bcBOHF	Neoblast
+J1_bcBOJR	Neural
+J1_bcBOUB	Muscle
+J1_bcBOWA	Digestive
+J1_bcBOWD	Muscle
+J1_bcBOWG	Digestive
+J1_bcBOXD	Neoblast
+J1_bcBOYY	Digestive
+J1_bcBPBW	Neural
+J1_bcBPDH	Neural
+J1_bcBPFL	Epidermal
+J1_bcBPIK	Muscle
+J1_bcBPKX	Digestive
+J1_bcBPLA	Digestive
+J1_bcBPPQ	Muscle
+J1_bcBPPS	Digestive
+J1_bcBPPW	Neural
+J1_bcBPRY	Digestive
+J1_bcBPSF	Unknown
+J1_bcBPTY	Neoblast
+J1_bcBPVM	Endoderm-like I
+J1_bcBQCE	Endodermal Progenitor
+J1_bcBQCY	Muscle
+J1_bcBQDA	Secretory
+J1_bcBQDX	Digestive
+J1_bcBQIJ	Epidermal Progenitor
+J1_bcBQLE	Digestive
+J1_bcBQPA	Neural
+J1_bcBQPN	Muscle
+J1_bcBQQK	Muscle
+J1_bcBQRL	Muscle
+J1_bcBQRM	Endoderm-like I
+J1_bcBQWM	Endodermal Progenitor
+J1_bcBQXE	Unknown
+J1_bcBQYH	Neural
+J1_bcBQZJ	Muscle
+J1_bcBRCP	Muscle
+J1_bcBRKR	Muscle
+J1_bcBROS	Digestive
+J1_bcBRYI	Muscle
+J1_bcBSEM	Muscle
+J1_bcBSET	Neural
+J1_bcBSFD	Neoblast
+J1_bcBSKE	Epidermal
+J1_bcBSLJ	Digestive
+J1_bcBSQY	Neural
+J1_bcBSTD	Neural
+J1_bcBSTT	Neural
+J1_bcBTHL	Neural
+J1_bcBTHW	Digestive
+J1_bcBTII	Endoderm-like I
+J1_bcBTJO	Muscle
+J1_bcBTKF	Unknown
+J1_bcBTMP	Neoblast
+J1_bcBTMY	Endoderm-like I
+J1_bcBTNN	Neural
+J1_bcBTNV	Neoblast
+J1_bcBTPK	Neural
+J1_bcBTPU	Muscle
+J1_bcBTPW	Unknown
+J1_bcBTSU	Neural
+J1_bcBTSV	Muscle
+J1_bcBTXE	Neoblast
+J1_bcBTXK	Endodermal Progenitor
+J1_bcBUDF	Neural
+J1_bcBUEW	Neural
+J1_bcBUMK	Epidermal
+J1_bcBUOU	Secretory
+J1_bcBURU	Endoderm-like I
+J1_bcBURY	Endodermal Progenitor
+J1_bcBUVU	Digestive
+J1_bcBUWM	Secretory
+J1_bcBVCI	Neural
+J1_bcBVES	Unknown
+J1_bcBVFE	Digestive
+J1_bcBVMY	Digestive
+J1_bcBVNL	Endoerm-like III
+J1_bcBVPW	Endoderm-like I
+J1_bcBVTA	Muscle
+J1_bcBVTU	Digestive
+J1_bcBVYP	Neoblast
+J1_bcBWAG	Neural
+J1_bcBWBD	Neural
+J1_bcBWIB	Digestive
+J1_bcBWIL	Neural
+J1_bcBWIY	Epidermal
+J1_bcBWKS	Endoerm-like III
+J1_bcBWML	Neoblast
+J1_bcBWNC	Neural
+J1_bcBWRY	Muscle
+J1_bcBWSG	Muscle
+J1_bcBWUH	Neural
+J1_bcBWUJ	Neural
+J1_bcBWVZ	Neoblast
+J1_bcBWWY	Neural
+J1_bcBWXY	Muscle
+J1_bcBWYS	Digestive
+J1_bcBXLW	Digestive
+J1_bcBXMR	Neural
+J1_bcBXRC	Muscle
+J1_bcBYCA	Muscle
+J1_bcBYCE	Muscle
+J1_bcBYFA	Neural
+J1_bcBYGC	Epidermal Progenitor
+J1_bcBYLE	Neural
+J1_bcBYMS	Digestive
+J1_bcBYNR	Endoderm-like I
+J1_bcBYQR	Epidermal Progenitor
+J1_bcBYRA	Neoblast
+J1_bcBYRZ	Neural
+J1_bcBYTT	Epidermal
+J1_bcBYZD	Neural
+J1_bcBZBA	Digestive
+J1_bcBZEU	Muscle
+J1_bcBZIT	Muscle
+J1_bcBZJA	Neural
+J1_bcBZKE	Neural
+J1_bcBZPA	Endoerm-like III
+J1_bcBZPV	Endoderm-like I
+J1_bcBZRD	Neural
+J1_bcBZTB	Neural
+J1_bcBZTH	Digestive
+J1_bcBZTU	Neural
+J1_bcBZXY	Epidermal Progenitor
+J1_bcCADQ	Muscle
+J1_bcCAGB	Neural
+J1_bcCAGV	Muscle
+J1_bcCAIW	Muscle
+J1_bcCAMH	Endodermal Progenitor
+J1_bcCAPO	Digestive
+J1_bcCASL	Digestive
+J1_bcCAWB	Neural
+J1_bcCAYI	Neural
+J1_bcCBCQ	Neural
+J1_bcCBIG	Digestive
+J1_bcCBMV	Neoblast
+J1_bcCBRU	Muscle
+J1_bcCBUM	Muscle
+J1_bcCBVC	Neural
+J1_bcCBWB	Secretory
+J1_bcCBXU	Unknown
+J1_bcCBXW	Muscle
+J1_bcCCAX	Endoerm-like III
+J1_bcCCFS	Secretory
+J1_bcCCJG	Neural
+J1_bcCCNB	Endodermal Progenitor
+J1_bcCCOU	Endoderm-like I
+J1_bcCCQD	Neural
+J1_bcCCQI	Endoerm-like III
+J1_bcCCTH	Digestive
+J1_bcCCYA	Neoblast
+J1_bcCCZG	Unknown
+J1_bcCCZV	Muscle
+J1_bcCDBG	Neoblast
+J1_bcCDBK	Endoderm-like II
+J1_bcCDBP	Neoblast
+J1_bcCDMO	Neural
+J1_bcCDNW	Endoderm-like II
+J1_bcCDQQ	Digestive
+J1_bcCDVL	Unknown
+J1_bcCDXN	Endodermal Progenitor
+J1_bcCEDW	Muscle
+J1_bcCEEK	Secretory
+J1_bcCEHZ	Muscle
+J1_bcCEIG	Digestive
+J1_bcCEIQ	Unknown
+J1_bcCEIT	Muscle
+J1_bcCENA	Digestive
+J1_bcCEUX	Endoderm-like I
+J1_bcCEVZ	Neural
+J1_bcCEWD	Neural
+J1_bcCEWL	Neoblast
+J1_bcCFBS	Muscle
+J1_bcCFDO	Endodermal Progenitor
+J1_bcCFLK	Neural
+J1_bcCFLW	Neural
+J1_bcCFTG	Secretory
+J1_bcCFTX	Endoderm-like I
+J1_bcCFUG	Digestive
+J1_bcCGAT	Neural
+J1_bcCGDN	Neural
+J1_bcCGDR	Muscle
+J1_bcCGIM	Muscle
+J1_bcCGJQ	Digestive
+J1_bcCGJY	Neural
+J1_bcCGNJ	Endoerm-like III
+J1_bcCGNP	Muscle
+J1_bcCGRC	Unknown
+J1_bcCHDK	Endoerm-like III
+J1_bcCHEL	Digestive
+J1_bcCHJZ	Endoderm-like I
+J1_bcCHKE	Digestive
+J1_bcCHLM	Neural
+J1_bcCHLN	Neural
+J1_bcCHNL	Secretory
+J1_bcCHOG	Endoderm-like I
+J1_bcCHQS	Muscle
+J1_bcCHSD	Epidermal
+J1_bcCHYY	Muscle
+J1_bcCIEO	Muscle
+J1_bcCIID	Endoderm-like I
+J1_bcCIMS	Endoerm-like III
+J1_bcCIRS	Digestive
+J1_bcCISV	Neural
+J1_bcCITV	Endoderm-like II
+J1_bcCIUN	Unknown
+J1_bcCIUR	Digestive
+J1_bcCIVC	Neural
+J1_bcCIVM	Muscle
+J1_bcCIXE	Endoderm-like II
+J1_bcCJEZ	Neural
+J1_bcCJRZ	Neural
+J1_bcCJSO	Neural
+J1_bcCJTP	Digestive
+J1_bcCJVU	Muscle
+J1_bcCKAV	Muscle
+J1_bcCKEW	Endodermal Progenitor
+J1_bcCKEX	Muscle
+J1_bcCKFB	Endoderm-like II
+J1_bcCKGD	Muscle
+J1_bcCKIK	Neural
+J1_bcCKLI	Endodermal Progenitor
+J1_bcCKQI	Neural
+J1_bcCKRA	Endoerm-like III
+J1_bcCKUJ	Secretory
+J1_bcCKXU	Secretory
+J1_bcCLAU	Muscle
+J1_bcCLGS	Digestive
+J1_bcCLIG	Digestive
+J1_bcCLJK	Neural
+J1_bcCLKQ	Endoerm-like III
+J1_bcCLOP	Epidermal
+J1_bcCLPX	Digestive
+J1_bcCLPY	Endodermal Progenitor
+J1_bcCLSW	Muscle
+J1_bcCLYE	Neural
+J1_bcCMAH	Epidermal Progenitor
+J1_bcCMAW	Digestive
+J1_bcCMBK	Neoblast
+J1_bcCMGO	Endoderm-like I
+J1_bcCMIK	Epidermal
+J1_bcCMTT	Digestive
+J1_bcCMUP	Endodermal Progenitor
+J1_bcCMWI	Unknown
+J1_bcCMWL	Neural
+J1_bcCMYO	Digestive
+J1_bcCNAU	Unknown
+J1_bcCNER	Neural
+J1_bcCNFC	Endoderm-like I
+J1_bcCNLC	Neoblast
+J1_bcCNUS	Digestive
+J1_bcCNVT	Neoblast
+J1_bcCNWQ	Neoblast
+J1_bcCNYZ	Endoderm-like I
+J1_bcCOHJ	Neural
+J1_bcCOMO	Digestive
+J1_bcCORR	Digestive
+J1_bcCOTT	Endoderm-like II
+J1_bcCOXZ	Neoblast
+J1_bcCPDX	Digestive
+J1_bcCPGK	Epidermal
+J1_bcCPGM	Muscle
+J1_bcCPHF	Neural
+J1_bcCPIL	Epidermal Progenitor
+J1_bcCPIW	Epidermal
+J1_bcCPXG	Digestive
+J1_bcCPXL	Digestive
+J1_bcCPZM	Digestive
+J1_bcCQBY	Neural
+J1_bcCQGS	Unknown
+J1_bcCQLY	Muscle
+J1_bcCQMO	Endodermal Progenitor
+J1_bcCQOC	Endoerm-like III
+J1_bcCQSL	Muscle
+J1_bcCQTI	Epidermal
+J1_bcCQTZ	Muscle
+J1_bcCQVZ	Digestive
+J1_bcCQWL	Neural
+J1_bcCQXN	Digestive
+J1_bcCQZJ	Digestive
+J1_bcCRKL	Endoderm-like I
+J1_bcCRPM	Digestive
+J1_bcCRPP	Neural
+J1_bcCRTD	Neural
+J1_bcCRTL	Epidermal
+J1_bcCRUO	Neural
+J1_bcCRVE	Digestive
+J1_bcCRVU	Digestive
+J1_bcCRWD	Endoderm-like I
+J1_bcCRXE	Endodermal Progenitor
+J1_bcCRXN	Neoblast
+J1_bcCRXU	Digestive
+J1_bcCRZG	Epidermal
+J1_bcCSEV	Muscle
+J1_bcCSGA	Unknown
+J1_bcCSGF	Epidermal Progenitor
+J1_bcCSHA	Neural
+J1_bcCSJS	Neural
+J1_bcCSMV	Neural
+J1_bcCSQW	Epidermal
+J1_bcCSTC	Unknown
+J1_bcCSXH	Neural
+J1_bcCSXZ	Neural
+J1_bcCSYW	Secretory
+J1_bcCTBM	Unknown
+J1_bcCTBU	Neural
+J1_bcCTDA	Neural
+J1_bcCTLW	Neural
+J1_bcCTNH	Endoderm-like I
+J1_bcCTXW	Neural
+J1_bcCUBI	Endoderm-like I
+J1_bcCUCS	Endodermal Progenitor
+J1_bcCUHV	Digestive
+J1_bcCUJA	Neoblast
+J1_bcCUKR	Muscle
+J1_bcCUPF	Neoblast
+J1_bcCUTK	Epidermal
+J1_bcCUXW	Neural
+J1_bcCUZD	Neural
+J1_bcCVAL	Epidermal
+J1_bcCVBA	Endodermal Progenitor
+J1_bcCVBF	Muscle
+J1_bcCVFZ	Neural
+J1_bcCVIN	Neural
+J1_bcCVJW	Digestive
+J1_bcCVKZ	Endoderm-like I
+J1_bcCVQN	Neural
+J1_bcCVRA	Digestive
+J1_bcCVRU	Digestive
+J1_bcCVXM	Secretory
+J1_bcCVYN	Epidermal
+J1_bcCVZG	Digestive
+J1_bcCWAD	Endodermal Progenitor
+J1_bcCWAI	Epidermal
+J1_bcCWBF	Neoblast
+J1_bcCWBL	Muscle
+J1_bcCWBV	Neural
+J1_bcCWEN	Neural
+J1_bcCWKM	Digestive
+J1_bcCWMM	Digestive
+J1_bcCWOW	Digestive
+J1_bcCWQS	Neoblast
+J1_bcCWQT	Muscle
+J1_bcCWRH	Muscle
+J1_bcCWRV	Digestive
+J1_bcCWTZ	Digestive
+J1_bcCWWH	Digestive
+J1_bcCWWO	Endoderm-like I
+J1_bcCXBL	Neural
+J1_bcCXCG	Epidermal
+J1_bcCXCR	Neural
+J1_bcCXLC	Digestive
+J1_bcCXLT	Neural
+J1_bcCXOJ	Endoerm-like III
+J1_bcCXZF	Neural
+J1_bcCYJH	Digestive
+J1_bcCYOK	Digestive
+J1_bcCYUD	Neural
+J1_bcCYUX	Unknown
+J1_bcCYVB	Digestive
+J1_bcCYZF	Muscle
+J1_bcCZHJ	Digestive
+J1_bcCZJA	Digestive
+J1_bcCZMA	Endodermal Progenitor
+J1_bcCZRY	Neural
+J1_bcCZSE	Neural
+J1_bcCZYC	Endodermal Progenitor
+J1_bcDABN	Neoblast
+J1_bcDACH	Endoderm-like I
+J1_bcDAHL	Secretory
+J1_bcDAMS	Secretory
+J1_bcDANN	Endodermal Progenitor
+J1_bcDAOY	Muscle
+J1_bcDAQW	Muscle
+J1_bcDARS	Digestive
+J1_bcDASC	Neural
+J1_bcDAVH	Neural
+J1_bcDAVU	Neural
+J1_bcDAWI	Neoblast
+J1_bcDAWU	Neoblast
+J1_bcDAXI	Neural
+J1_bcDAXZ	Unknown
+J1_bcDBCV	Endoderm-like II
+J1_bcDBEM	Neoblast
+J1_bcDBFJ	Endoderm-like I
+J1_bcDBKT	Digestive
+J1_bcDBLP	Endoerm-like III
+J1_bcDBMJ	Muscle
+J1_bcDBQL	Neural
+J1_bcDBSR	Unknown
+J1_bcDBTM	Digestive
+J1_bcDBVX	Muscle
+J1_bcDCAP	Epidermal Progenitor
+J1_bcDCJA	Neoblast
+J1_bcDCOY	Neural
+J1_bcDCTU	Endoerm-like III
+J1_bcDCUG	Neoblast
+J1_bcDCVK	Muscle
+J1_bcDCXI	Neural
+J1_bcDDDM	Endoerm-like III
+J1_bcDDDS	Unknown
+J1_bcDDDZ	Digestive
+J1_bcDDES	Endoderm-like I
+J1_bcDDKX	Muscle
+J1_bcDDOB	Neural
+J1_bcDDPY	Neural
+J1_bcDEGY	Neural
+J1_bcDELH	Secretory
+J1_bcDELS	Muscle
+J1_bcDENA	Endodermal Progenitor
+J1_bcDEUB	Endodermal Progenitor
+J1_bcDEWV	Endoderm-like I
+J1_bcDEYX	Digestive
+J1_bcDEZU	Endoderm-like II
+J1_bcDFAR	Neural
+J1_bcDFAY	Secretory
+J1_bcDFII	Muscle
+J1_bcDFJL	Endodermal Progenitor
+J1_bcDFOZ	Epidermal Progenitor
+J1_bcDFPU	Muscle
+J1_bcDFWQ	Neural
+J1_bcDFZT	Neural
+J1_bcDGAY	Digestive
+J1_bcDGPM	Muscle
+J1_bcDGRH	Endoderm-like II
+J1_bcDGYA	Endoderm-like II
+J1_bcDHBC	Muscle
+J1_bcDIBX	Neural
+J1_bcDICR	Digestive
+J1_bcDIDP	Digestive
+J1_bcDIEE	Neural
+J1_bcDIHI	Digestive
+J1_bcDIIT	Neural
+J1_bcDIKS	Muscle
+J1_bcDIRG	Digestive
+J1_bcDIVN	Unknown
+J1_bcDIVW	Muscle
+J1_bcDIVY	Muscle
+J1_bcDIXS	Unknown
+J1_bcDIYO	Digestive
+J1_bcDIZV	Neural
+J1_bcDJCA	Neoblast
+J1_bcDJFQ	Neural
+J1_bcDJJI	Endoerm-like III
+J1_bcDJJK	Muscle
+J1_bcDJKG	Neoblast
+J1_bcDJLN	Neural
+J1_bcDJOX	Epidermal Progenitor
+J1_bcDKDZ	Epidermal
+J1_bcDKEB	Neural
+J1_bcDKEE	Digestive
+J1_bcDKEG	Neural
+J1_bcDKLG	Endoderm-like I
+J1_bcDKLM	Endoderm-like I
+J1_bcDKLV	Endoderm-like I
+J1_bcDKLW	Neural
+J1_bcDKNF	Neural
+J1_bcDKPU	Digestive
+J1_bcDKYD	Muscle
+J1_bcDKZB	Neoblast
+J1_bcDLBI	Neural
+J1_bcDLBR	Digestive
+J1_bcDLCX	Endoderm-like II
+J1_bcDLDD	Endoderm-like II
+J1_bcDLML	Unknown
+J1_bcDLPJ	Endoderm-like II
+J1_bcDLPQ	Muscle
+J1_bcDLQN	Neural
+J1_bcDLRI	Muscle
+J1_bcDLRX	Neural
+J1_bcDLSU	Muscle
+J1_bcDLTG	Neural
+J1_bcDLTM	Neural
+J1_bcDLUH	Endoderm-like I
+J1_bcDLUS	Secretory
+J1_bcDLVM	Neoblast
+J1_bcDLYP	Endoerm-like III
+J1_bcDMIN	Endoderm-like I
+J1_bcDMKQ	Endodermal Progenitor
+J1_bcDMPC	Secretory
+J1_bcDMUZ	Neural
+J1_bcDMVP	Unknown
+J1_bcDMXM	Neoblast
+J1_bcDNCO	Muscle
+J1_bcDNEM	Epidermal
+J1_bcDNNB	Neoblast
+J1_bcDNNZ	Neural
+J1_bcDNZL	Neural
+J1_bcDOAE	Neural
+J1_bcDOBX	Endodermal Progenitor
+J1_bcDOGD	Muscle
+J1_bcDOKL	Neoblast
+J1_bcDOLH	Neural
+J1_bcDOLW	Digestive
+J1_bcDOQB	Unknown
+J1_bcDPBG	Digestive
+J1_bcDPJA	Neural
+J1_bcDPOP	Neural
+J1_bcDPPJ	Neural
+J1_bcDPSF	Endoerm-like III
+J1_bcDPSL	Muscle
+J1_bcDPYH	Neural
+J1_bcDQHC	Epidermal
+J1_bcDQQV	Endodermal Progenitor
+J1_bcDQTY	Endoderm-like I
+J1_bcDQUS	Endoerm-like III
+J1_bcDQYA	Neoblast
+J1_bcDQYY	Muscle
+J1_bcDQZP	Digestive
+J1_bcDRAS	Endodermal Progenitor
+J1_bcDRCV	Endoderm-like I
+J1_bcDRFD	Digestive
+J1_bcDRGO	Unknown
+J1_bcDRIN	Endoerm-like III
+J1_bcDRJA	Muscle
+J1_bcDRQM	Digestive
+J1_bcDRTK	Digestive
+J1_bcDRUY	Endoderm-like I
+J1_bcDRVJ	Endoderm-like II
+J1_bcDRXN	Neoblast
+J1_bcDRYP	Endoerm-like III
+J1_bcDRZR	Endodermal Progenitor
+J1_bcDSAC	Endoderm-like I
+J1_bcDSAE	Muscle
+J1_bcDSDU	Digestive
+J1_bcDSED	Endoerm-like III
+J1_bcDSKF	Neural
+J1_bcDSNB	Muscle
+J1_bcDSND	Endoderm-like I
+J1_bcDSOG	Unknown
+J1_bcDSOJ	Endoderm-like I
+J1_bcDSQJ	Neural
+J1_bcDSRK	Endoderm-like I
+J1_bcDSSR	Unknown
+J1_bcDTFG	Muscle
+J1_bcDTIV	Muscle
+J1_bcDTLD	Endoderm-like I
+J1_bcDTPR	Endoderm-like I
+J1_bcDTQL	Digestive
+J1_bcDTTA	Secretory
+J1_bcDTUV	Neural
+J1_bcDTYS	Neoblast
+J1_bcDUNN	Endoerm-like III
+J1_bcDUOD	Muscle
+J1_bcDUQB	Neural
+J1_bcDUQV	Digestive
+J1_bcDUTE	Muscle
+J1_bcDUTL	Digestive
+J1_bcDUTS	Neural
+J1_bcDUUF	Neural
+J1_bcDUVH	Neural
+J1_bcDVBE	Endodermal Progenitor
+J1_bcDVHU	Neural
+J1_bcDVIH	Endodermal Progenitor
+J1_bcDVKH	Neural
+J1_bcDVWM	Neural
+J1_bcDVYG	Neoblast
+J1_bcDWAE	Neural
+J1_bcDWHY	Unknown
+J1_bcDWIG	Unknown
+J1_bcDWIQ	Neural
+J1_bcDWNW	Secretory
+J1_bcDWVC	Digestive
+J1_bcDWWB	Neoblast
+J1_bcDWXU	Muscle
+J1_bcDWZV	Digestive
+J1_bcDXCP	Neural
+J1_bcDXDF	Endoderm-like I
+J1_bcDXDS	Muscle
+J1_bcDXFW	Neural
+J1_bcDXOE	Digestive
+J1_bcDXQI	Endodermal Progenitor
+J1_bcDXSZ	Epidermal
+J1_bcDYAK	Muscle
+J1_bcDYCI	Endoderm-like I
+J1_bcDYDA	Muscle
+J1_bcDYHP	Epidermal Progenitor
+J1_bcDYIN	Endoderm-like II
+J1_bcDYIS	Endoerm-like III
+J1_bcDYIV	Muscle
+J1_bcDYLT	Muscle
+J1_bcDYMI	Muscle
+J1_bcDYND	Endodermal Progenitor
+J1_bcDYPG	Endodermal Progenitor
+J1_bcDYQL	Digestive
+J1_bcDYTI	Neural
+J1_bcDYTK	Muscle
+J1_bcDYZH	Epidermal Progenitor
+J1_bcDZBU	Digestive
+J1_bcDZGZ	Muscle
+J1_bcDZLE	Endodermal Progenitor
+J1_bcDZNO	Endoderm-like II
+J1_bcDZVI	Neural
+J1_bcDZWW	Unknown
+J1_bcDZXN	Neoblast
+J1_bcEACJ	Digestive
+J1_bcEAHI	Endodermal Progenitor
+J1_bcEAHR	Digestive
+J1_bcEALS	Neural
+J1_bcEAMO	Endodermal Progenitor
+J1_bcEANP	Endoderm-like I
+J1_bcEARS	Neoblast
+J1_bcEASN	Endoderm-like II
+J1_bcEAWC	Digestive
+J1_bcEBBA	Neoblast
+J1_bcEBBD	Unknown
+J1_bcEBDR	Digestive
+J1_bcEBEP	Endodermal Progenitor
+J1_bcEBHQ	Neural
+J1_bcEBKE	Digestive
+J1_bcEBUC	Epidermal
+J1_bcEBUZ	Epidermal
+J1_bcEBXV	Muscle
+J1_bcEBYJ	Digestive
+J1_bcECEI	Neoblast
+J1_bcECGM	Neural
+J1_bcECGR	Neural
+J1_bcECSS	Digestive
+J1_bcECSX	Neoblast
+J1_bcECTM	Neural
+J1_bcECUN	Neural
+J1_bcECUY	Digestive
+J1_bcECWB	Muscle
+J1_bcECWV	Neural
+J1_bcECYE	Endoerm-like III
+J1_bcEDGU	Unknown
+J1_bcEDIF	Endoderm-like II
+J1_bcEDIS	Epidermal
+J1_bcEDMB	Neoblast
+J1_bcEDXU	Neural
+J1_bcEDYD	Endodermal Progenitor
+J1_bcEEQO	Neoblast
+J1_bcEESC	Endoderm-like I
+J1_bcEEST	Endodermal Progenitor
+J1_bcEEYM	Neoblast
+J1_bcEEYX	Unknown
+J1_bcEFCH	Endoerm-like III
+J1_bcEFCO	Unknown
+J1_bcEFFE	Epidermal Progenitor
+J1_bcEFFW	Epidermal
+J1_bcEFIF	Epidermal Progenitor
+J1_bcEFKD	Neural
+J1_bcEFKZ	Unknown
+J1_bcEFLS	Endodermal Progenitor
+J1_bcEFNL	Digestive
+J1_bcEFPP	Endodermal Progenitor
+J1_bcEFQX	Unknown
+J1_bcEFRS	Digestive
+J1_bcEFRU	Muscle
+J1_bcEFVF	Muscle
+J1_bcEGCK	Neoblast
+J1_bcEGEX	Endodermal Progenitor
+J1_bcEGHC	Neural
+J1_bcEGHW	Endoderm-like I
+J1_bcEGLL	Neoblast
+J1_bcEGNH	Digestive
+J1_bcEGNP	Unknown
+J1_bcEGNU	Digestive
+J1_bcEGUO	Epidermal
+J1_bcEGUV	Neural
+J1_bcEGWH	Endoderm-like I
+J1_bcEHAH	Muscle
+J1_bcEHAP	Muscle
+J1_bcEHCP	Digestive
+J1_bcEHDG	Secretory
+J1_bcEHEK	Secretory
+J1_bcEHJG	Muscle
+J1_bcEHKK	Endoderm-like I
+J1_bcEHLQ	Unknown
+J1_bcEHNQ	Neural
+J1_bcEHOL	Neural
+J1_bcEHQG	Endoderm-like I
+J1_bcEHUD	Endoderm-like I
+J1_bcEHVU	Digestive
+J1_bcEIAA	Neural
+J1_bcEIAJ	Neural
+J1_bcEIAM	Digestive
+J1_bcEIAP	Neural
+J1_bcEIAU	Neural
+J1_bcEIBO	Neoblast
+J1_bcEIGJ	Neural
+J1_bcEIHF	Neural
+J1_bcEIHH	Digestive
+J1_bcEIKE	Muscle
+J1_bcEILR	Digestive
+J1_bcEIMT	Digestive
+J1_bcEIOH	Endoderm-like I
+J1_bcEIQJ	Muscle
+J1_bcEISW	Neural
+J1_bcEIUK	Endoderm-like I
+J1_bcEIWQ	Neural
+J1_bcEJCH	Muscle
+J1_bcEJEL	Epidermal Progenitor
+J1_bcEJGY	Endoderm-like I
+J1_bcEJKI	Epidermal Progenitor
+J1_bcEJNL	Endodermal Progenitor
+J1_bcEJPK	Neural
+J1_bcEJPS	Epidermal
+J1_bcEJQW	Digestive
+J1_bcEJSJ	Neural
+J1_bcEJSN	Muscle
+J1_bcEJSV	Muscle
+J1_bcEJUP	Muscle
+J1_bcEJVR	Endoerm-like III
+J1_bcEKCB	Endoderm-like I
+J1_bcEKCQ	Neural
+J1_bcEKHE	Endoerm-like III
+J1_bcEKIC	Digestive
+J1_bcEKJZ	Muscle
+J1_bcEKLM	Muscle
+J1_bcEKLN	Endodermal Progenitor
+J1_bcEKMV	Digestive
+J1_bcEKNZ	Neural
+J1_bcEKOF	Endodermal Progenitor
+J1_bcEKPF	Digestive
+J1_bcEKQN	Digestive
+J1_bcEKTU	Neural
+J1_bcEKWJ	Neural
+J1_bcEKWL	Unknown
+J1_bcELCD	Neural
+J1_bcELEG	Neural
+J1_bcELFA	Neoblast
+J1_bcELNX	Digestive
+J1_bcELSZ	Epidermal
+J1_bcELUV	Neoblast
+J1_bcEMCU	Digestive
+J1_bcEMIW	Secretory
+J1_bcEMKI	Muscle
+J1_bcEMLQ	Neural
+J1_bcEMMN	Digestive
+J1_bcEMNR	Endoderm-like I
+J1_bcEMPW	Neural
+J1_bcEMWG	Unknown
+J1_bcEMWN	Neoblast
+J1_bcEMXO	Endodermal Progenitor
+J1_bcEMYK	Muscle
+J1_bcEMZR	Muscle
+J1_bcENBH	Epidermal
+J1_bcENCS	Unknown
+J1_bcENHG	Neoblast
+J1_bcEODK	Neural
+J1_bcEOHL	Neural
+J1_bcEORB	Neural
+J1_bcEOVJ	Epidermal
+J1_bcEOWP	Unknown
+J1_bcEPNC	Endoerm-like III
+J1_bcEPNW	Neoblast
+J1_bcEPNY	Endodermal Progenitor
+J1_bcEPOO	Digestive
+J1_bcEPQK	Digestive
+J1_bcEPSC	Endoderm-like I
+J1_bcEQNA	Epidermal
+J1_bcEQNV	Unknown
+J1_bcEQOZ	Digestive
+J1_bcEQTZ	Unknown
+J1_bcEQVN	Neural
+J1_bcEQXJ	Muscle
+J1_bcEQYW	Unknown
+J1_bcEQZD	Epidermal
+J1_bcERBG	Digestive
+J1_bcERDH	Muscle
+J1_bcEREF	Endodermal Progenitor
+J1_bcERIS	Neural
+J1_bcERKZ	Neoblast
+J1_bcERMH	Endodermal Progenitor
+J1_bcERRM	Endoderm-like I
+J1_bcERXK	Secretory
+J1_bcESAT	Neural
+J1_bcESEA	Endodermal Progenitor
+J1_bcESFV	Epidermal
+J1_bcESJB	Neural
+J1_bcESJE	Neural
+J1_bcESJO	Endodermal Progenitor
+J1_bcESJZ	Neural
+J1_bcESLK	Neural
+J1_bcESLO	Neural
+J1_bcESMX	Epidermal
+J1_bcESND	Digestive
+J1_bcESOU	Endodermal Progenitor
+J1_bcESPB	Digestive
+J1_bcESPI	Epidermal
+J1_bcESQI	Epidermal
+J1_bcESQK	Digestive
+J1_bcESQN	Neural
+J1_bcETDA	Neural
+J1_bcETER	Neoblast
+J1_bcETGZ	Neoblast
+J1_bcETKS	Neural
+J1_bcETOQ	Muscle
+J1_bcETSM	Digestive
+J1_bcETUY	Unknown
+J1_bcETXZ	Neoblast
+J1_bcETZB	Muscle
+J1_bcEUDH	Muscle
+J1_bcEUGT	Neoblast
+J1_bcEUKF	Digestive
+J1_bcEUKK	Endoderm-like II
+J1_bcEULB	Digestive
+J1_bcEUPX	Neoblast
+J1_bcEUTU	Endoderm-like I
+J1_bcEUTY	Epidermal
+J1_bcEUVW	Neural
+J1_bcEUWD	Unknown
+J1_bcEUWG	Endoderm-like I
+J1_bcEUYU	Digestive
+J1_bcEUYX	Endoderm-like I
+J1_bcEUYY	Neural
+J1_bcEUZH	Neural
+J1_bcEUZJ	Unknown
+J1_bcEVAX	Unknown
+J1_bcEVBE	Neural
+J1_bcEVCR	Endoerm-like III
+J1_bcEVEH	Muscle
+J1_bcEVGF	Digestive
+J1_bcEVMG	Endodermal Progenitor
+J1_bcEVXQ	Neural
+J1_bcEWHM	Neural
+J1_bcEWKC	Neural
+J1_bcEWLC	Neural
+J1_bcEWUG	Unknown
+J1_bcEWUJ	Endodermal Progenitor
+J1_bcEWUX	Endoerm-like III
+J1_bcEWWI	Neural
+J1_bcEWXC	Neural
+J1_bcEWZM	Unknown
+J1_bcEXAO	Neural
+J1_bcEXBA	Neural
+J1_bcEXBS	Secretory
+J1_bcEXBU	Neural
+J1_bcEXGE	Neural
+J1_bcEXHX	Neural
+J1_bcEXMP	Neural
+J1_bcEXQK	Muscle
+J1_bcEXUT	Neoblast
+J1_bcEXUV	Digestive
+J1_bcEXZK	Muscle
+J1_bcEYBJ	Neural
+J1_bcEYME	Muscle
+J1_bcEYNU	Neural
+J1_bcEYXF	Neoblast
+J1_bcEZJF	Unknown
+J1_bcEZQA	Endodermal Progenitor
+J1_bcEZRX	Neural
+J1_bcEZTL	Neoblast
+J1_bcEZZS	Muscle
+J1_bcFAEN	Neural
+J1_bcFAGP	Neural
+J1_bcFANS	Neural
+J1_bcFAQH	Unknown
+J1_bcFAQT	Muscle
+J1_bcFARL	Digestive
+J1_bcFASR	Endoderm-like I
+J1_bcFAXG	Neural
+J1_bcFBBM	Muscle
+J1_bcFBCH	Secretory
+J1_bcFBFU	Muscle
+J1_bcFBGT	Endoderm-like I
+J1_bcFBHV	Neural
+J1_bcFBMX	Secretory
+J1_bcFBNH	Muscle
+J1_bcFBSD	Digestive
+J1_bcFCJI	Digestive
+J1_bcFCOH	Neural
+J1_bcFCVV	Endoderm-like I
+J1_bcFDAC	Endoerm-like III
+J1_bcFDGN	Endodermal Progenitor
+J1_bcFDHY	Neural
+J1_bcFDMG	Endoderm-like I
+J1_bcFDNW	Muscle
+J1_bcFDRS	Muscle
+J1_bcFDWM	Neoblast
+J1_bcFDYU	Endoderm-like I
+J1_bcFEAI	Endodermal Progenitor
+J1_bcFEDP	Muscle
+J1_bcFEET	Neural
+J1_bcFENS	Endodermal Progenitor
+J1_bcFEPA	Endoderm-like I
+J1_bcFEPV	Endoderm-like I
+J1_bcFEYU	Neural
+J1_bcFFBG	Muscle
+J1_bcFFCH	Digestive
+J1_bcFFGS	Neural
+J1_bcFFLU	Endoderm-like II
+J1_bcFFNK	Epidermal
+J1_bcFFNS	Neural
+J1_bcFFOJ	Digestive
+J1_bcFFRR	Neural
+J1_bcFFTW	Neural
+J1_bcFFUP	Epidermal
+J1_bcFFWS	Unknown
+J1_bcFFWU	Endoderm-like I
+J1_bcFGLF	Digestive
+J1_bcFGNK	Epidermal
+J1_bcFGOK	Digestive
+J1_bcFGPH	Muscle
+J1_bcFGPP	Neural
+J1_bcFGQV	Neoblast
+J1_bcFGSI	Endodermal Progenitor
+J1_bcFGYL	Digestive
+J1_bcFHBJ	Endoderm-like I
+J1_bcFHEK	Muscle
+J1_bcFHIN	Neural
+J1_bcFHJP	Neural
+J1_bcFHKS	Digestive
+J1_bcFHQO	Muscle
+J1_bcFHUE	Neural
+J1_bcFHUX	Neural
+J1_bcFHVT	Neural
+J1_bcFIBD	Endoerm-like III
+J1_bcFIBR	Muscle
+J1_bcFICP	Digestive
+J1_bcFIDA	Endodermal Progenitor
+J1_bcFIEX	Neural
+J1_bcFIFC	Endoderm-like I
+J1_bcFIFS	Neural
+J1_bcFIGB	Muscle
+J1_bcFIGO	Neural
+J1_bcFIHV	Neural
+J1_bcFIJI	Neoblast
+J1_bcFIQQ	Muscle
+J1_bcFJCW	Epidermal Progenitor
+J1_bcFJHQ	Unknown
+J1_bcFJKW	Muscle
+J1_bcFJPE	Digestive
+J1_bcFJPU	Neural
+J1_bcFJTF	Muscle
+J1_bcFJTK	Digestive
+J1_bcFJUI	Neural
+J1_bcFJXT	Muscle
+J1_bcFJZR	Endoderm-like I
+J1_bcFKAA	Epidermal
+J1_bcFKIK	Epidermal Progenitor
+J1_bcFKJA	Neural
+J1_bcFKJR	Endoderm-like II
+J1_bcFKKC	Digestive
+J1_bcFKLD	Neural
+J1_bcFKMK	Neural
+J1_bcFKNJ	Muscle
+J1_bcFKPC	Neural
+J1_bcFKQD	Muscle
+J1_bcFKRW	Digestive
+J1_bcFKTS	Muscle
+J1_bcFKVW	Neoblast
+J1_bcFKWH	Muscle
+J1_bcFKWK	Endoderm-like I
+J1_bcFKXY	Digestive
+J1_bcFLJY	Digestive
+J1_bcFLLD	Epidermal
+J1_bcFLMA	Unknown
+J1_bcFLMU	Endodermal Progenitor
+J1_bcFLMW	Neural
+J1_bcFLQB	Unknown
+J1_bcFLXX	Muscle
+J1_bcFLYM	Neoblast
+J1_bcFLZF	Unknown
+J1_bcFLZO	Epidermal
+J1_bcFLZV	Endoderm-like I
+J1_bcFMBA	Digestive
+J1_bcFMCH	Secretory
+J1_bcFMIW	Digestive
+J1_bcFMMV	Muscle
+J1_bcFMMW	Digestive
+J1_bcFMOZ	Muscle
+J1_bcFMPE	Endoderm-like I
+J1_bcFMPQ	Neural
+J1_bcFMQO	Digestive
+J1_bcFMQZ	Muscle
+J1_bcFMRS	Digestive
+J1_bcFMUS	Epidermal
+J1_bcFMXH	Endoderm-like I
+J1_bcFMYL	Neural
+J1_bcFMZW	Endodermal Progenitor
+J1_bcFNAV	Neural
+J1_bcFNGY	Neural
+J1_bcFNHB	Neural
+J1_bcFNIW	Epidermal
+J1_bcFNIY	Epidermal Progenitor
+J1_bcFNNV	Muscle
+J1_bcFNQN	Muscle
+J1_bcFNSA	Secretory
+J1_bcFNTZ	Neural
+J1_bcFNUI	Digestive
+J1_bcFNVC	Neural
+J1_bcFNWE	Secretory
+J1_bcFOAX	Neural
+J1_bcFOBN	Neural
+J1_bcFOFK	Muscle
+J1_bcFOLB	Unknown
+J1_bcFOML	Muscle
+J1_bcFORH	Muscle
+J1_bcFORQ	Digestive
+J1_bcFOTB	Muscle
+J1_bcFOYO	Muscle
+J1_bcFOYT	Epidermal
+J1_bcFPDD	Neoblast
+J1_bcFPDP	Endoderm-like I
+J1_bcFPDR	Neoblast
+J1_bcFPEI	Neural
+J1_bcFPFS	Neoblast
+J1_bcFPGI	Digestive
+J1_bcFPGY	Digestive
+J1_bcFPGZ	Muscle
+J1_bcFPHI	Muscle
+J1_bcFPHP	Neoblast
+J1_bcFPKA	Neoblast
+J1_bcFPKY	Endoderm-like I
+J1_bcFPMZ	Digestive
+J1_bcFPNC	Endodermal Progenitor
+J1_bcFPTX	Digestive
+J1_bcFPUW	Muscle
+J1_bcFPYD	Neoblast
+J1_bcFQDZ	Digestive
+J1_bcFQEU	Epidermal
+J1_bcFQGS	Endodermal Progenitor
+J1_bcFQMJ	Neural
+J1_bcFQOZ	Neural
+J1_bcFQQH	Unknown
+J1_bcFQRH	Muscle
+J1_bcFQRP	Neural
+J1_bcFQSS	Neural
+J1_bcFQSX	Neural
+J1_bcFQTI	Unknown
+J1_bcFQXT	Secretory
+J1_bcFQZM	Endoderm-like I
+J1_bcFRFH	Digestive
+J1_bcFRFK	Neural
+J1_bcFRFR	Muscle
+J1_bcFRFW	Secretory
+J1_bcFRGF	Epidermal
+J1_bcFRGK	Unknown
+J1_bcFRPR	Neural
+J1_bcFRQI	Neural
+J1_bcFRRX	Neural
+J1_bcFRUD	Neural
+J1_bcFRWG	Endoderm-like II
+J1_bcFRYW	Neural
+J1_bcFRZD	Unknown
+J1_bcFRZP	Endoerm-like III
+J1_bcFSDT	Endoerm-like III
+J1_bcFSEE	Secretory
+J1_bcFSEF	Neural
+J1_bcFSFH	Neural
+J1_bcFSHH	Neural
+J1_bcFSJK	Neoblast
+J1_bcFSJL	Muscle
+J1_bcFSKO	Endoderm-like II
+J1_bcFSLO	Unknown
+J1_bcFSPR	Muscle
+J1_bcFSTP	Neoblast
+J1_bcFSUG	Endoderm-like II
+J1_bcFSYM	Epidermal
+J1_bcFSYS	Unknown
+J1_bcFTCK	Digestive
+J1_bcFTEO	Muscle
+J1_bcFTLH	Muscle
+J1_bcFTRT	Neural
+J1_bcFTSC	Epidermal Progenitor
+J1_bcFTWA	Neural
+J1_bcFTYJ	Neoblast
+J1_bcFUCR	Neural
+J1_bcFUEF	Muscle
+J1_bcFUEU	Neural
+J1_bcFUHG	Digestive
+J1_bcFUHQ	Neural
+J1_bcFULS	Muscle
+J1_bcFUQC	Digestive
+J1_bcFUUJ	Neural
+J1_bcFUYE	Neoblast
+J1_bcFVAP	Neural
+J1_bcFVEU	Neural
+J1_bcFVMY	Neoblast
+J1_bcFVON	Muscle
+J1_bcFVPM	Unknown
+J1_bcFVTP	Neural
+J1_bcFVUK	Epidermal
+J1_bcFVVV	Neural
+J1_bcFVWS	Neoblast
+J1_bcFVYD	Endodermal Progenitor
+J1_bcFWBD	Endoderm-like I
+J1_bcFWBL	Endoderm-like I
+J1_bcFWBS	Neural
+J1_bcFWFR	Endoderm-like II
+J1_bcFWLD	Secretory
+J1_bcFWMX	Endoderm-like I
+J1_bcFWTX	Neoblast
+J1_bcFWUS	Neoblast
+J1_bcFWVJ	Neural
+J1_bcFWWT	Neural
+J1_bcFWXH	Neural
+J1_bcFXBO	Neural
+J1_bcFXCJ	Digestive
+J1_bcFXDH	Digestive
+J1_bcFXDZ	Neural
+J1_bcFXGP	Endodermal Progenitor
+J1_bcFXHH	Neural
+J1_bcFXIY	Neural
+J1_bcFXJF	Digestive
+J1_bcFXKO	Neural
+J1_bcFXLU	Neural
+J1_bcFXME	Unknown
+J1_bcFXNM	Muscle
+J1_bcFXTD	Digestive
+J1_bcFXTN	Epidermal Progenitor
+J1_bcFXUH	Neural
+J1_bcFXXK	Neural
+J1_bcFXYT	Digestive
+J1_bcFXZN	Digestive
+J1_bcFYOX	Endoerm-like III
+J1_bcFYTX	Endoderm-like II
+J1_bcFYUW	Neural
+J1_bcFYVM	Neural
+J1_bcFYYJ	Muscle
+J1_bcFYYK	Digestive
+J1_bcFYYU	Neural
+J1_bcFZAO	Epidermal
+J1_bcFZAY	Neural
+J1_bcFZDC	Endodermal Progenitor
+J1_bcFZGX	Neural
+J1_bcFZJI	Endodermal Progenitor
+J1_bcFZMK	Neural
+J1_bcFZMN	Endodermal Progenitor
+J1_bcFZVP	Digestive
+J1_bcFZZB	Neural
+J1_bcGAGJ	Unknown
+J1_bcGAGN	Epidermal
+J1_bcGAHW	Endoderm-like II
+J1_bcGAJQ	Endoderm-like I
+J1_bcGAKW	Endoderm-like II
+J1_bcGAPM	Unknown
+J1_bcGAVC	Neoblast
+J1_bcGAVI	Digestive
+J1_bcGAZE	Endodermal Progenitor
+J1_bcGBAS	Endodermal Progenitor
+J1_bcGBBE	Epidermal
+J1_bcGBCJ	Muscle
+J1_bcGBEB	Endoderm-like I
+J1_bcGBLL	Endoerm-like III
+J1_bcGBLQ	Endodermal Progenitor
+J1_bcGBNR	Neural
+J1_bcGBPO	Muscle
+J1_bcGBQR	Unknown
+J1_bcGBRG	Epidermal
+J1_bcGBWZ	Neural
+J1_bcGBYA	Endoderm-like I
+J1_bcGBYE	Unknown
+J1_bcGBZJ	Neural
+J1_bcGCAF	Endodermal Progenitor
+J1_bcGCKQ	Endoerm-like III
+J1_bcGCMW	Neoblast
+J1_bcGCNR	Unknown
+J1_bcGCSD	Unknown
+J1_bcGCZB	Digestive
+J1_bcGDKW	Digestive
+J1_bcGDLF	Neural
+J1_bcGDNE	Endoderm-like II
+J1_bcGDTC	Neural
+J1_bcGDTQ	Muscle
+J1_bcGDUV	Digestive
+J1_bcGDWD	Digestive
+J1_bcGEEX	Neural
+J1_bcGEGV	Muscle
+J1_bcGEIP	Endoderm-like I
+J1_bcGEKA	Muscle
+J1_bcGEKF	Digestive
+J1_bcGELP	Secretory
+J1_bcGEVM	Neural
+J1_bcGEWI	Neural
+J1_bcGFBZ	Muscle
+J1_bcGFDR	Endoderm-like I
+J1_bcGFFF	Neoblast
+J1_bcGFFH	Digestive
+J1_bcGFGC	Digestive
+J1_bcGFGG	Endoderm-like I
+J1_bcGFLI	Muscle
+J1_bcGFLP	Neural
+J1_bcGFLX	Neural
+J1_bcGFQX	Neural
+J1_bcGFSP	Neoblast
+J1_bcGFSU	Neural
+J1_bcGFTN	Epidermal
+J1_bcGFWK	Unknown
+J1_bcGFWR	Digestive
+J1_bcGFWY	Endoerm-like III
+J1_bcGFYF	Unknown
+J1_bcGFZJ	Digestive
+J1_bcGGEF	Endoderm-like I
+J1_bcGGFR	Neoblast
+J1_bcGGGY	Digestive
+J1_bcGGJB	Neoblast
+J1_bcGGRX	Neoblast
+J1_bcGGSE	Unknown
+J1_bcGGVA	Neoblast
+J1_bcGGXI	Muscle
+J1_bcGGZM	Endoerm-like III
+J1_bcGHAM	Digestive
+J1_bcGHAU	Neural
+J1_bcGHFO	Muscle
+J1_bcGHGI	Endoderm-like II
+J1_bcGHLG	Digestive
+J1_bcGHLU	Muscle
+J1_bcGHNZ	Neoblast
+J1_bcGHPF	Unknown
+J1_bcGHQF	Neural
+J1_bcGHTH	Secretory
+J1_bcGHUG	Muscle
+J1_bcGHXK	Endoderm-like II
+J1_bcGIGD	Digestive
+J1_bcGIHS	Neoblast
+J1_bcGIMH	Muscle
+J1_bcGIQM	Neural
+J1_bcGIRW	Neoblast
+J1_bcGITO	Neural
+J1_bcGIUJ	Unknown
+J1_bcGIUU	Endodermal Progenitor
+J1_bcGIVH	Neural
+J1_bcGIWI	Neoblast
+J1_bcGIXO	Unknown
+J1_bcGIZM	Digestive
+J1_bcGJAK	Muscle
+J1_bcGJFW	Digestive
+J1_bcGJGZ	Epidermal Progenitor
+J1_bcGJIJ	Digestive
+J1_bcGJJQ	Neural
+J1_bcGJMY	Endoderm-like I
+J1_bcGJQJ	Unknown
+J1_bcGJTO	Muscle
+J1_bcGJVQ	Muscle
+J1_bcGJXE	Neural
+J1_bcGKBR	Endoderm-like I
+J1_bcGKCK	Muscle
+J1_bcGKFK	Digestive
+J1_bcGKKL	Endoderm-like II
+J1_bcGKKY	Digestive
+J1_bcGKRJ	Digestive
+J1_bcGKSI	Neural
+J1_bcGKSL	Neoblast
+J1_bcGKTI	Muscle
+J1_bcGKWF	Endoderm-like I
+J1_bcGKWJ	Muscle
+J1_bcGKXZ	Endoerm-like III
+J1_bcGKYN	Endoderm-like II
+J1_bcGLBN	Endodermal Progenitor
+J1_bcGLCA	Muscle
+J1_bcGLCY	Neoblast
+J1_bcGLII	Digestive
+J1_bcGLJL	Neural
+J1_bcGLLI	Digestive
+J1_bcGLNT	Endodermal Progenitor
+J1_bcGLNX	Neural
+J1_bcGLQD	Neoblast
+J1_bcGMAJ	Endodermal Progenitor
+J1_bcGMAM	Endoderm-like I
+J1_bcGMDO	Unknown
+J1_bcGMES	Neural
+J1_bcGMGU	Neural
+J1_bcGMHO	Digestive
+J1_bcGMNW	Endoderm-like II
+J1_bcGMPL	Neural
+J1_bcGMQI	Endoderm-like I
+J1_bcGMQU	Neoblast
+J1_bcGMYA	Muscle
+J1_bcGMZD	Epidermal
+J1_bcGMZH	Digestive
+J1_bcGNBG	Unknown
+J1_bcGNHP	Digestive
+J1_bcGNIJ	Unknown
+J1_bcGNJO	Neural
+J1_bcGNKD	Muscle
+J1_bcGNLX	Neural
+J1_bcGNOA	Neural
+J1_bcGNRX	Neoblast
+J1_bcGNSW	Unknown
+J1_bcGNVJ	Muscle
+J1_bcGNXJ	Neoblast
+J1_bcGNXS	Digestive
+J1_bcGOBW	Unknown
+J1_bcGOFN	Neoblast
+J1_bcGOKR	Endoderm-like I
+J1_bcGOXK	Endodermal Progenitor
+J1_bcGPBA	Muscle
+J1_bcGPCL	Muscle
+J1_bcGPDE	Digestive
+J1_bcGPGN	Neural
+J1_bcGPKR	Endoerm-like III
+J1_bcGPOC	Neoblast
+J1_bcGPRB	Neoblast
+J1_bcGPTC	Unknown
+J1_bcGPUA	Digestive
+J1_bcGPVE	Endodermal Progenitor
+J1_bcGPXJ	Muscle
+J1_bcGPZZ	Neural
+J1_bcGQAP	Neural
+J1_bcGQBR	Muscle
+J1_bcGQCA	Muscle
+J1_bcGQCX	Neural
+J1_bcGQFI	Endoerm-like III
+J1_bcGQGV	Endodermal Progenitor
+J1_bcGQKH	Endodermal Progenitor
+J1_bcGQLX	Secretory
+J1_bcGQNI	Muscle
+J1_bcGQTG	Neural
+J1_bcGQTO	Digestive
+J1_bcGQTW	Neoblast
+J1_bcGQXT	Neural
+J1_bcGQZB	Digestive
+J1_bcGRBB	Neural
+J1_bcGRCO	Neoblast
+J1_bcGRCW	Muscle
+J1_bcGRDD	Digestive
+J1_bcGRFD	Endoderm-like I
+J1_bcGRFV	Endoderm-like II
+J1_bcGRHU	Neural
+J1_bcGRML	Epidermal
+J1_bcGRSG	Neural
+J1_bcGRVN	Muscle
+J1_bcGRYC	Muscle
+J1_bcGRYP	Neural
+J1_bcGRZL	Epidermal Progenitor
+J1_bcGSCI	Neural
+J1_bcGSDF	Endoderm-like II
+J1_bcGSJA	Digestive
+J1_bcGSJI	Muscle
+J1_bcGSLK	Neural
+J1_bcGSPK	Endoderm-like I
+J1_bcGSRD	Neural
+J1_bcGSVN	Muscle
+J1_bcGSVY	Digestive
+J1_bcGSYC	Neural
+J1_bcGSYE	Muscle
+J1_bcGSZJ	Unknown
+J1_bcGTAU	Endodermal Progenitor
+J1_bcGTCN	Neoblast
+J1_bcGTJY	Neoblast
+J1_bcGTKR	Neural
+J1_bcGTNJ	Neoblast
+J1_bcGTST	Neoblast
+J1_bcGTVA	Muscle
+J1_bcGUAS	Secretory
+J1_bcGUEN	Epidermal
+J1_bcGUFI	Digestive
+J1_bcGUFX	Neural
+J1_bcGUFY	Muscle
+J1_bcGUHF	Digestive
+J1_bcGUHJ	Muscle
+J1_bcGULC	Unknown
+J1_bcGUMG	Muscle
+J1_bcGUNX	Endodermal Progenitor
+J1_bcGUOW	Neural
+J1_bcGURK	Secretory
+J1_bcGUUL	Endodermal Progenitor
+J1_bcGUZV	Muscle
+J1_bcGVAW	Neural
+J1_bcGVAY	Neural
+J1_bcGVCN	Endoderm-like I
+J1_bcGVDD	Epidermal
+J1_bcGVHM	Digestive
+J1_bcGVIU	Neoblast
+J1_bcGVKG	Muscle
+J1_bcGVMS	Digestive
+J1_bcGVNI	Muscle
+J1_bcGVRD	Digestive
+J1_bcGVRE	Unknown
+J1_bcGVRX	Endoerm-like III
+J1_bcGVST	Neural
+J1_bcGVYE	Muscle
+J1_bcGWBF	Neural
+J1_bcGWID	Neoblast
+J1_bcGWIV	Muscle
+J1_bcGWQE	Secretory
+J1_bcGWTA	Endodermal Progenitor
+J1_bcGWYO	Neural
+J1_bcGXAG	Muscle
+J1_bcGXFP	Neural
+J1_bcGXID	Digestive
+J1_bcGXJC	Muscle
+J1_bcGXNE	Epidermal Progenitor
+J1_bcGXOA	Secretory
+J1_bcGXPO	Neoblast
+J1_bcGXQR	Neural
+J1_bcGXVF	Neural
+J1_bcGXZW	Neural
+J1_bcGYBQ	Neoblast
+J1_bcGYCD	Neural
+J1_bcGYDY	Digestive
+J1_bcGYEE	Neoblast
+J1_bcGYMD	Secretory
+J1_bcGYOK	Muscle
+J1_bcGYQO	Secretory
+J1_bcGYQV	Neural
+J1_bcGYRR	Secretory
+J1_bcGYSP	Epidermal Progenitor
+J1_bcGYVD	Muscle
+J1_bcGYVK	Secretory
+J1_bcGYVZ	Neural
+J1_bcGYXT	Muscle
+J1_bcGYYQ	Muscle
+J1_bcGZCH	Secretory
+J1_bcGZEB	Neural
+J1_bcGZEG	Endoderm-like II
+J1_bcGZEH	Endoderm-like I
+J1_bcGZGA	Neoblast
+J1_bcGZGB	Muscle
+J1_bcGZGM	Muscle
+J1_bcGZOP	Neoblast
+J1_bcGZQR	Epidermal Progenitor
+J1_bcGZRF	Digestive
+J1_bcGZTQ	Neural
+J1_bcGZUT	Neoblast
+J1_bcGZXA	Neoblast
+J1_bcGZYF	Unknown
+J1_bcGZYX	Muscle
+J1_bcHAAB	Muscle
+J1_bcHACO	Endodermal Progenitor
+J1_bcHACW	Muscle
+J1_bcHADA	Digestive
+J1_bcHAID	Endoderm-like II
+J1_bcHALL	Neoblast
+J1_bcHALW	Neural
+J1_bcHAMZ	Digestive
+J1_bcHAXD	Neural
+J1_bcHAXZ	Unknown
+J1_bcHBCK	Neural
+J1_bcHBMD	Neural
+J1_bcHBNA	Epidermal
+J1_bcHBPA	Neoblast
+J1_bcHBTD	Neural
+J1_bcHBTU	Neural
+J1_bcHBWS	Neural
+J1_bcHBXV	Neoblast
+J1_bcHBYM	Digestive
+J1_bcHCBE	Neural
+J1_bcHCCH	Neural
+J1_bcHCCJ	Neural
+J1_bcHCCN	Neural
+J1_bcHCCZ	Muscle
+J1_bcHCEW	Epidermal
+J1_bcHCGF	Neural
+J1_bcHCKB	Neoblast
+J1_bcHCKS	Digestive
+J1_bcHCMS	Neural
+J1_bcHCRM	Neural
+J1_bcHCRR	Neoblast
+J1_bcHCRW	Neoblast
+J1_bcHCUF	Unknown
+J1_bcHCVA	Muscle
+J1_bcHCXP	Endodermal Progenitor
+J1_bcHDBV	Muscle
+J1_bcHDDD	Endoderm-like I
+J1_bcHDEH	Muscle
+J1_bcHDFB	Unknown
+J1_bcHDGM	Endoerm-like III
+J1_bcHDMH	Neural
+J1_bcHDPL	Muscle
+J1_bcHDTK	Endoderm-like I
+J1_bcHDVA	Endodermal Progenitor
+J1_bcHDVM	Endodermal Progenitor
+J1_bcHEDH	Endoderm-like I
+J1_bcHEDZ	Neoblast
+J1_bcHEJG	Digestive
+J1_bcHEJN	Endoderm-like I
+J1_bcHEKA	Muscle
+J1_bcHELH	Muscle
+J1_bcHERA	Digestive
+J1_bcHESX	Unknown
+J1_bcHEUH	Endoderm-like I
+J1_bcHEVK	Endoderm-like I
+J1_bcHEVY	Neoblast
+J1_bcHEYU	Neural
+J1_bcHFDE	Epidermal Progenitor
+J1_bcHFGE	Endoderm-like I
+J1_bcHFID	Neoblast
+J1_bcHFJD	Endoderm-like II
+J1_bcHFKX	Neural
+J1_bcHFQA	Neural
+J1_bcHFQM	Neoblast
+J1_bcHFTH	Digestive
+J1_bcHFVY	Muscle
+J1_bcHGCU	Endodermal Progenitor
+J1_bcHGCZ	Endoerm-like III
+J1_bcHGFI	Neural
+J1_bcHGHD	Neoblast
+J1_bcHGIF	Endoderm-like I
+J1_bcHGIW	Muscle
+J1_bcHGJB	Neural
+J1_bcHGMP	Epidermal
+J1_bcHGPB	Endoerm-like III
+J1_bcHGUX	Unknown
+J1_bcHGVB	Neural
+J1_bcHGVC	Neoblast
+J1_bcHGZB	Neural
+J1_bcHHAC	Epidermal
+J1_bcHHHK	Endoderm-like I
+J1_bcHHLP	Muscle
+J1_bcHHNF	Epidermal
+J1_bcHHNX	Neoblast
+J1_bcHHPT	Endodermal Progenitor
+J1_bcHHSI	Neural
+J1_bcHHTP	Endoerm-like III
+J1_bcHHZR	Digestive
+J1_bcHIBR	Epidermal Progenitor
+J1_bcHIGP	Unknown
+J1_bcHIIS	Neural
+J1_bcHIJF	Muscle
+J1_bcHILO	Neural
+J1_bcHIMS	Digestive
+J1_bcHION	Neoblast
+J1_bcHIQD	Neural
+J1_bcHISY	Neural
+J1_bcHIUT	Secretory
+J1_bcHIWW	Neural
+J1_bcHIXV	Unknown
+J1_bcHIYD	Muscle
+J1_bcHIYG	Epidermal
+J1_bcHIYZ	Neural
+J1_bcHIZM	Digestive
+J1_bcHJAN	Neural
+J1_bcHJDH	Neural
+J1_bcHJFX	Neural
+J1_bcHJGD	Neural
+J1_bcHJHZ	Secretory
+J1_bcHJIC	Neural
+J1_bcHJKF	Neural
+J1_bcHJKR	Endoderm-like I
+J1_bcHJPX	Neural
+J1_bcHJRR	Neural
+J1_bcHJTD	Muscle
+J1_bcHJUH	Muscle
+J1_bcHJWL	Neural
+J1_bcHJWR	Endodermal Progenitor
+J1_bcHKCC	Neural
+J1_bcHKFT	Neoblast
+J1_bcHKGI	Muscle
+J1_bcHKHJ	Unknown
+J1_bcHKIJ	Neural
+J1_bcHKJN	Neural
+J1_bcHKMM	Epidermal
+J1_bcHKMO	Neural
+J1_bcHKOV	Endoderm-like I
+J1_bcHKQS	Neural
+J1_bcHKQU	Endoderm-like II
+J1_bcHKSI	Neural
+J1_bcHKUQ	Epidermal
+J1_bcHKXA	Endoderm-like I
+J1_bcHLAE	Muscle
+J1_bcHLAU	Neural
+J1_bcHLBZ	Endoderm-like II
+J1_bcHLCE	Neural
+J1_bcHLCU	Endoerm-like III
+J1_bcHLDF	Endoerm-like III
+J1_bcHLFD	Endodermal Progenitor
+J1_bcHLGK	Neural
+J1_bcHLLH	Muscle
+J1_bcHLNP	Endoderm-like I
+J1_bcHLPO	Neural
+J1_bcHLTR	Neoblast
+J1_bcHLUJ	Endodermal Progenitor
+J1_bcHLVC	Muscle
+J1_bcHLWP	Digestive
+J1_bcHLYC	Unknown
+J1_bcHMEM	Muscle
+J1_bcHMEO	Digestive
+J1_bcHMHH	Muscle
+J1_bcHMIA	Digestive
+J1_bcHMMG	Digestive
+J1_bcHMNY	Digestive
+J1_bcHMOQ	Neural
+J1_bcHMPK	Muscle
+J1_bcHMTD	Neural
+J1_bcHMUI	Neural
+J1_bcHNEK	Epidermal Progenitor
+J1_bcHNER	Muscle
+J1_bcHNGS	Neoblast
+J1_bcHNMT	Muscle
+J1_bcHNOL	Neoblast
+J1_bcHNOV	Muscle
+J1_bcHNPX	Epidermal
+J1_bcHNVV	Epidermal
+J1_bcHNXT	Unknown
+J1_bcHNYQ	Digestive
+J1_bcHODU	Endoderm-like I
+J1_bcHOEE	Endodermal Progenitor
+J1_bcHOGN	Endoderm-like II
+J1_bcHOHZ	Digestive
+J1_bcHOIQ	Neural
+J1_bcHOLB	Digestive
+J1_bcHOOA	Digestive
+J1_bcHOPE	Neural
+J1_bcHOXU	Endoerm-like III
+J1_bcHOYN	Neural
+J1_bcHPAA	Neoblast
+J1_bcHPAK	Digestive
+J1_bcHPBA	Endoerm-like III
+J1_bcHPCK	Neural
+J1_bcHPCW	Neural
+J1_bcHPGE	Muscle
+J1_bcHPHE	Digestive
+J1_bcHPIZ	Neural
+J1_bcHPJR	Muscle
+J1_bcHPJW	Unknown
+J1_bcHPOK	Secretory
+J1_bcHPPV	Neoblast
+J1_bcHPUV	Unknown
+J1_bcHPXC	Muscle
+J1_bcHPYB	Endoderm-like I
+J1_bcHPYZ	Endodermal Progenitor
+J1_bcHQAA	Neoblast
+J1_bcHQCM	Muscle
+J1_bcHQLG	Digestive
+J1_bcHQLX	Muscle
+J1_bcHQLZ	Endoderm-like I
+J1_bcHQUO	Epidermal Progenitor
+J1_bcHQVG	Neural
+J1_bcHQYU	Epidermal
+J1_bcHRAS	Muscle
+J1_bcHRFB	Unknown
+J1_bcHRFU	Unknown
+J1_bcHRFY	Endoderm-like I
+J1_bcHRGD	Endoderm-like I
+J1_bcHRHE	Secretory
+J1_bcHRHG	Neural
+J1_bcHRJG	Neural
+J1_bcHRKM	Neural
+J1_bcHROS	Endoderm-like I
+J1_bcHROZ	Neural
+J1_bcHRPN	Neural
+J1_bcHRQJ	Neural
+J1_bcHRSN	Muscle
+J1_bcHRUF	Muscle
+J1_bcHRVU	Neural
+J1_bcHRWO	Neural
+J1_bcHRYR	Neural
+J1_bcHSAE	Unknown
+J1_bcHSAM	Muscle
+J1_bcHSDF	Digestive
+J1_bcHSFI	Neural
+J1_bcHSID	Neoblast
+J1_bcHSMB	Neural
+J1_bcHSMC	Unknown
+J1_bcHSMP	Digestive
+J1_bcHSOG	Muscle
+J1_bcHSQW	Epidermal
+J1_bcHSRQ	Muscle
+J1_bcHSUO	Endoerm-like III
+J1_bcHSWG	Epidermal Progenitor
+J1_bcHTDW	Digestive
+J1_bcHTFE	Muscle
+J1_bcHTHM	Unknown
+J1_bcHTMT	Muscle
+J1_bcHTOO	Endoerm-like III
+J1_bcHTRS	Muscle
+J1_bcHTWY	Digestive
+J1_bcHUBL	Digestive
+J1_bcHUEK	Muscle
+J1_bcHUJC	Neural
+J1_bcHUJF	Muscle
+J1_bcHUKL	Epidermal
+J1_bcHULL	Muscle
+J1_bcHUNE	Neural
+J1_bcHUNY	Neoblast
+J1_bcHUUR	Digestive
+J1_bcHUUS	Neural
+J1_bcHUUV	Endoderm-like I
+J1_bcHUWE	Endoderm-like I
+J1_bcHUXA	Endoderm-like I
+J1_bcHUZU	Neural
+J1_bcHVBV	Epidermal Progenitor
+J1_bcHVGY	Epidermal
+J1_bcHVKJ	Epidermal Progenitor
+J1_bcHVPJ	Epidermal
+J1_bcHVTE	Muscle
+J1_bcHVUS	Muscle
+J1_bcHVYF	Muscle
+J1_bcHWGT	Neural
+J1_bcHWGU	Muscle
+J1_bcHWHO	Muscle
+J1_bcHWIO	Digestive
+J1_bcHWIY	Neoblast
+J1_bcHWJL	Endoderm-like I
+J1_bcHWKD	Neural
+J1_bcHWKN	Neoblast
+J1_bcHWLP	Digestive
+J1_bcHWMC	Digestive
+J1_bcHWQE	Muscle
+J1_bcHWQK	Neoblast
+J1_bcHWUI	Neural
+J1_bcHWWK	Neural
+J1_bcHWXK	Digestive
+J1_bcHXBI	Neural
+J1_bcHXBY	Digestive
+J1_bcHXDT	Neural
+J1_bcHXEF	Muscle
+J1_bcHXFD	Neural
+J1_bcHXIR	Digestive
+J1_bcHXMZ	Neoblast
+J1_bcHXSQ	Neoblast
+J1_bcHYDP	Endoerm-like III
+J1_bcHYHC	Digestive
+J1_bcHYMW	Secretory
+J1_bcHYNV	Muscle
+J1_bcHYOU	Muscle
+J1_bcHYPN	Endodermal Progenitor
+J1_bcHYRF	Secretory
+J1_bcHYRI	Neural
+J1_bcHYRV	Digestive
+J1_bcHYSX	Epidermal Progenitor
+J1_bcHYTM	Neural
+J1_bcHYUO	Neural
+J1_bcHYWT	Muscle
+J1_bcHYXZ	Neural
+J1_bcHZCG	Neural
+J1_bcHZFD	Digestive
+J1_bcHZHI	Neural
+J1_bcHZHS	Neoblast
+J1_bcHZIN	Neural
+J1_bcHZKW	Digestive
+J1_bcHZLF	Neural
+J1_bcHZMB	Neoblast
+J1_bcHZMN	Digestive
+J1_bcHZOH	Neoblast
+J1_bcHZSG	Endodermal Progenitor
+J1_bcIADI	Digestive
+J1_bcIAGY	Endoderm-like I
+J1_bcIAKS	Digestive
+J1_bcIAOF	Neural
+J1_bcIAOO	Neural
+J1_bcIAPO	Endoderm-like I
+J1_bcIAQO	Unknown
+J1_bcIASN	Muscle
+J1_bcIATN	Muscle
+J1_bcIAVB	Neoblast
+J1_bcIAVJ	Neural
+J1_bcIAYF	Endodermal Progenitor
+J1_bcIAYU	Muscle
+J1_bcIBAU	Neoblast
+J1_bcIBCD	Muscle
+J1_bcIBCH	Muscle
+J1_bcIBKF	Digestive
+J1_bcIBLE	Secretory
+J1_bcIBLP	Neural
+J1_bcIBND	Neural
+J1_bcIBOJ	Digestive
+J1_bcIBSE	Endoderm-like I
+J1_bcIBTF	Neural
+J1_bcIBTG	Endoerm-like III
+J1_bcIBUF	Endoderm-like I
+J1_bcIBVC	Endodermal Progenitor
+J1_bcIBVH	Neoblast
+J1_bcIBZI	Unknown
+J1_bcICFE	Endoderm-like II
+J1_bcICHD	Muscle
+J1_bcICIG	Epidermal
+J1_bcICJQ	Muscle
+J1_bcICMN	Neural
+J1_bcICOA	Muscle
+J1_bcICQF	Endoerm-like III
+J1_bcICQP	Neural
+J1_bcICUA	Neural
+J1_bcICUK	Neural
+J1_bcICVZ	Endodermal Progenitor
+J1_bcIDBP	Muscle
+J1_bcIDEX	Neoblast
+J1_bcIDJV	Neural
+J1_bcIDKB	Neural
+J1_bcIDKS	Neural
+J1_bcIDLF	Endoerm-like III
+J1_bcIDLH	Muscle
+J1_bcIDOC	Neural
+J1_bcIDOF	Muscle
+J1_bcIDOW	Neural
+J1_bcIDPB	Endoerm-like III
+J1_bcIDTS	Muscle
+J1_bcIDUU	Neural
+J1_bcIDVS	Neural
+J1_bcIDWG	Secretory
+J1_bcIDXQ	Muscle
+J1_bcIDZX	Endodermal Progenitor
+J1_bcIEHM	Endoderm-like II
+J1_bcIEIC	Digestive
+J1_bcIEJF	Neural
+J1_bcIELA	Muscle
+J1_bcIELI	Muscle
+J1_bcIELW	Neural
+J1_bcIEXB	Endoerm-like III
+J1_bcIFBW	Digestive
+J1_bcIFCR	Neural
+J1_bcIFEU	Neural
+J1_bcIFHV	Neural
+J1_bcIFNO	Neural
+J1_bcIFOR	Muscle
+J1_bcIFZI	Digestive
+J1_bcIGCL	Endodermal Progenitor
+J1_bcIGEM	Neural
+J1_bcIGEU	Neural
+J1_bcIGKI	Neoblast
+J1_bcIGLT	Digestive
+J1_bcIGPN	Digestive
+J1_bcIGPW	Neoblast
+J1_bcIGQA	Unknown
+J1_bcIGRS	Endoerm-like III
+J1_bcIGSU	Muscle
+J1_bcIGUK	Unknown
+J1_bcIGWW	Epidermal
+J1_bcIGXC	Neural
+J1_bcIHER	Secretory
+J1_bcIHFY	Endodermal Progenitor
+J1_bcIHLA	Epidermal
+J1_bcIHMB	Neoblast
+J1_bcIHMJ	Digestive
+J1_bcIHML	Neural
+J1_bcIHOT	Endoerm-like III
+J1_bcIHRA	Neural
+J1_bcIHRK	Muscle
+J1_bcIHSJ	Endoderm-like II
+J1_bcIHTW	Neural
+J1_bcIHXY	Neural
+J1_bcIHZB	Digestive
+J1_bcIIBR	Neural
+J1_bcIIJP	Unknown
+J1_bcIIJY	Neoblast
+J1_bcIIKG	Digestive
+J1_bcIILI	Endoderm-like II
+J1_bcIILZ	Secretory
+J1_bcIIPI	Muscle
+J1_bcIIRD	Muscle
+J1_bcIIRL	Neural
+J1_bcIIXB	Neural
+J1_bcIIXS	Endoderm-like I
+J1_bcIIXZ	Endoderm-like I
+J1_bcIIZK	Endodermal Progenitor
+J1_bcIJAT	Neural
+J1_bcIJJM	Endoderm-like I
+J1_bcIJJV	Endoderm-like II
+J1_bcIJLG	Epidermal Progenitor
+J1_bcIJPB	Digestive
+J1_bcIJSZ	Unknown
+J1_bcIJXF	Secretory
+J1_bcIJZO	Digestive
+J1_bcIKBA	Digestive
+J1_bcIKCT	Secretory
+J2_bcAABR	Endoerm-like III
+J2_bcAAKW	Neural
+J2_bcAAPZ	Endodermal Progenitor
+J2_bcAAQC	Digestive
+J2_bcAATZ	Epidermal
+J2_bcAAUQ	Muscle
+J2_bcAAVB	Muscle
+J2_bcABDS	Muscle
+J2_bcABER	Neural
+J2_bcABGD	Endoderm-like II
+J2_bcABHP	Digestive
+J2_bcABIG	Digestive
+J2_bcABKY	Neural
+J2_bcABMD	Neural
+J2_bcABPI	Digestive
+J2_bcABRR	Unknown
+J2_bcABVI	Digestive
+J2_bcABXW	Endodermal Progenitor
+J2_bcACCL	Endoderm-like I
+J2_bcACFA	Endoerm-like III
+J2_bcACJM	Digestive
+J2_bcACQG	Endodermal Progenitor
+J2_bcACTF	Secretory
+J2_bcACTO	Digestive
+J2_bcACUT	Neural
+J2_bcADBS	Epidermal
+J2_bcADIA	Neural
+J2_bcADLU	Muscle
+J2_bcADNL	Neural
+J2_bcADQY	Neural
+J2_bcADSM	Digestive
+J2_bcADUP	Epidermal
+J2_bcADWU	Endoderm-like II
+J2_bcAESD	Neural
+J2_bcAEVU	Neural
+J2_bcAEZP	Neural
+J2_bcAFAE	Digestive
+J2_bcAFAZ	Secretory
+J2_bcAFIP	Muscle
+J2_bcAFJL	Neural
+J2_bcAFKD	Neural
+J2_bcAFKS	Unknown
+J2_bcAFKW	Epidermal Progenitor
+J2_bcAFNM	Endoderm-like II
+J2_bcAFSF	Epidermal Progenitor
+J2_bcAFSO	Unknown
+J2_bcAFWU	Endoerm-like III
+J2_bcAGBZ	Muscle
+J2_bcAGCK	Digestive
+J2_bcAGEA	Digestive
+J2_bcAGEG	Neural
+J2_bcAGHX	Unknown
+J2_bcAGNL	Neoblast
+J2_bcAGSE	Neoblast
+J2_bcAGUX	Neural
+J2_bcAGWO	Digestive
+J2_bcAGWZ	Muscle
+J2_bcAGXO	Neural
+J2_bcAGYK	Muscle
+J2_bcAHBY	Epidermal
+J2_bcAHLI	Endoderm-like I
+J2_bcAHNG	Unknown
+J2_bcAICP	Neural
+J2_bcAIFC	Neoblast
+J2_bcAIIL	Digestive
+J2_bcAIJW	Muscle
+J2_bcAILU	Muscle
+J2_bcAINZ	Neoblast
+J2_bcAIPJ	Endoderm-like II
+J2_bcAIRB	Neural
+J2_bcAIRD	Muscle
+J2_bcAIXL	Endoderm-like II
+J2_bcAIZK	Epidermal Progenitor
+J2_bcAJCC	Digestive
+J2_bcAJFH	Epidermal Progenitor
+J2_bcAJHY	Neoblast
+J2_bcAJJG	Endoderm-like I
+J2_bcAJJR	Muscle
+J2_bcAJMM	Digestive
+J2_bcAJWB	Neoblast
+J2_bcAJXN	Neural
+J2_bcAJYT	Neural
+J2_bcAKAP	Endodermal Progenitor
+J2_bcAKBN	Epidermal Progenitor
+J2_bcAKDS	Muscle
+J2_bcAKFF	Neural
+J2_bcAKHY	Epidermal
+J2_bcAKNR	Neural
+J2_bcAKOE	Neural
+J2_bcAKOR	Digestive
+J2_bcAKPY	Secretory
+J2_bcAKQE	Neoblast
+J2_bcAKSB	Epidermal
+J2_bcAKTJ	Endodermal Progenitor
+J2_bcAKVI	Endoderm-like I
+J2_bcALBP	Muscle
+J2_bcALCB	Unknown
+J2_bcALCN	Endodermal Progenitor
+J2_bcALDM	Endodermal Progenitor
+J2_bcALGW	Muscle
+J2_bcALIT	Endoderm-like I
+J2_bcALJM	Muscle
+J2_bcALST	Digestive
+J2_bcALTB	Neural
+J2_bcALUO	Digestive
+J2_bcALWP	Epidermal
+J2_bcALZL	Endoerm-like III
+J2_bcAMDZ	Digestive
+J2_bcAMGM	Neoblast
+J2_bcAMMK	Neural
+J2_bcAMNX	Neoblast
+J2_bcAMTI	Neural
+J2_bcAMTZ	Neural
+J2_bcAMUN	Muscle
+J2_bcAMVK	Muscle
+J2_bcAMYZ	Epidermal
+J2_bcAMZD	Neural
+J2_bcANGY	Neoblast
+J2_bcANKP	Digestive
+J2_bcANMV	Neural
+J2_bcANNP	Neural
+J2_bcANPJ	Muscle
+J2_bcANQM	Muscle
+J2_bcANQW	Unknown
+J2_bcANTR	Neural
+J2_bcANVU	Endoerm-like III
+J2_bcANWI	Muscle
+J2_bcANWX	Neural
+J2_bcANXZ	Neural
+J2_bcANZZ	Endoderm-like I
+J2_bcAOAG	Neural
+J2_bcAOCS	Digestive
+J2_bcAODJ	Secretory
+J2_bcAOEZ	Neural
+J2_bcAOOR	Endodermal Progenitor
+J2_bcAOPE	Digestive
+J2_bcAOPJ	Muscle
+J2_bcAOQV	Endoderm-like II
+J2_bcAORN	Endoderm-like II
+J2_bcAOTO	Epidermal
+J2_bcAOVB	Neural
+J2_bcAPFJ	Endoerm-like III
+J2_bcAPHW	Neoblast
+J2_bcAPKH	Muscle
+J2_bcAPNY	Neural
+J2_bcAPSS	Digestive
+J2_bcAPSX	Epidermal Progenitor
+J2_bcAQKV	Endoderm-like I
+J2_bcAQLQ	Unknown
+J2_bcAQNE	Endodermal Progenitor
+J2_bcAQOG	Muscle
+J2_bcAQOQ	Endoderm-like I
+J2_bcAQRG	Digestive
+J2_bcAQVE	Muscle
+J2_bcARDK	Unknown
+J2_bcARDR	Muscle
+J2_bcAREA	Endoderm-like I
+J2_bcARGW	Muscle
+J2_bcARGY	Neoblast
+J2_bcARKO	Unknown
+J2_bcAROH	Endoderm-like I
+J2_bcARTV	Endoderm-like I
+J2_bcARUZ	Neural
+J2_bcASJJ	Digestive
+J2_bcASKC	Endoderm-like I
+J2_bcASLV	Muscle
+J2_bcASNO	Muscle
+J2_bcASVG	Neural
+J2_bcASWZ	Neural
+J2_bcASZA	Neural
+J2_bcATBO	Neural
+J2_bcATES	Neural
+J2_bcATGA	Muscle
+J2_bcATGM	Neural
+J2_bcATIC	Neural
+J2_bcATIV	Muscle
+J2_bcATKU	Neural
+J2_bcATTL	Digestive
+J2_bcATTO	Neoblast
+J2_bcATUB	Neural
+J2_bcAUAY	Digestive
+J2_bcAUCY	Endoderm-like I
+J2_bcAUFZ	Neural
+J2_bcAUHE	Neural
+J2_bcAUIL	Neural
+J2_bcAUIU	Endoderm-like II
+J2_bcAUJI	Endoderm-like I
+J2_bcAUJQ	Endodermal Progenitor
+J2_bcAULV	Secretory
+J2_bcAUQN	Neoblast
+J2_bcAUSL	Digestive
+J2_bcAUWM	Neural
+J2_bcAUXX	Endodermal Progenitor
+J2_bcAUYW	Digestive
+J2_bcAUZE	Digestive
+J2_bcAVDW	Neural
+J2_bcAVFK	Muscle
+J2_bcAVPO	Neural
+J2_bcAVRZ	Endodermal Progenitor
+J2_bcAVWC	Endoerm-like III
+J2_bcAVWW	Secretory
+J2_bcAWAD	Neural
+J2_bcAWCP	Epidermal
+J2_bcAWFM	Neural
+J2_bcAWWF	Muscle
+J2_bcAWXB	Neural
+J2_bcAXCX	Unknown
+J2_bcAXDA	Neoblast
+J2_bcAXJZ	Muscle
+J2_bcAXMA	Unknown
+J2_bcAXRW	Neural
+J2_bcAXRX	Digestive
+J2_bcAXUA	Epidermal Progenitor
+J2_bcAXUF	Neoblast
+J2_bcAYDV	Neural
+J2_bcAYGR	Secretory
+J2_bcAYJB	Neural
+J2_bcAYKZ	Digestive
+J2_bcAYMO	Epidermal
+J2_bcAYXC	Neural
+J2_bcAYZG	Neural
+J2_bcAZDK	Neural
+J2_bcAZEM	Epidermal
+J2_bcAZHH	Neural
+J2_bcAZJJ	Endodermal Progenitor
+J2_bcAZKM	Digestive
+J2_bcAZMX	Endoderm-like II
+J2_bcAZOF	Endoderm-like I
+J2_bcAZQG	Neural
+J2_bcAZQO	Muscle
+J2_bcAZQZ	Digestive
+J2_bcAZXO	Digestive
+J2_bcAZYL	Neural
+J2_bcBAAD	Epidermal
+J2_bcBAAG	Neural
+J2_bcBABG	Neural
+J2_bcBAEZ	Endoderm-like I
+J2_bcBAFZ	Unknown
+J2_bcBAIN	Muscle
+J2_bcBANG	Endodermal Progenitor
+J2_bcBAON	Epidermal
+J2_bcBASW	Epidermal Progenitor
+J2_bcBAXM	Digestive
+J2_bcBBAF	Muscle
+J2_bcBBIZ	Muscle
+J2_bcBBJA	Neural
+J2_bcBBLJ	Neural
+J2_bcBBMD	Unknown
+J2_bcBBVA	Neural
+J2_bcBBXD	Unknown
+J2_bcBBXI	Epidermal
+J2_bcBBXX	Epidermal
+J2_bcBBYC	Muscle
+J2_bcBBYW	Neural
+J2_bcBCBO	Endodermal Progenitor
+J2_bcBCHA	Neoblast
+J2_bcBCIS	Neural
+J2_bcBCLZ	Digestive
+J2_bcBCMU	Neural
+J2_bcBCNS	Endoderm-like II
+J2_bcBCRY	Digestive
+J2_bcBCTB	Neoblast
+J2_bcBCTV	Neural
+J2_bcBCUC	Endoderm-like II
+J2_bcBCWX	Neural
+J2_bcBCYO	Unknown
+J2_bcBCYS	Muscle
+J2_bcBDHI	Neural
+J2_bcBDJK	Neoblast
+J2_bcBDNS	Endodermal Progenitor
+J2_bcBDQX	Muscle
+J2_bcBDSS	Muscle
+J2_bcBDTI	Neural
+J2_bcBDTQ	Muscle
+J2_bcBDUP	Endoderm-like II
+J2_bcBDUS	Epidermal
+J2_bcBDXN	Digestive
+J2_bcBDYX	Endoerm-like III
+J2_bcBEAY	Muscle
+J2_bcBEBM	Muscle
+J2_bcBEBY	Endoderm-like II
+J2_bcBEDD	Epidermal
+J2_bcBEEE	Unknown
+J2_bcBEEX	Neural
+J2_bcBEGB	Muscle
+J2_bcBENE	Digestive
+J2_bcBENU	Digestive
+J2_bcBEOI	Neoblast
+J2_bcBESE	Epidermal Progenitor
+J2_bcBETF	Muscle
+J2_bcBEWX	Unknown
+J2_bcBEXW	Endoderm-like I
+J2_bcBFHE	Unknown
+J2_bcBFHH	Unknown
+J2_bcBFMZ	Neural
+J2_bcBFNR	Muscle
+J2_bcBFSI	Muscle
+J2_bcBFTR	Endoderm-like I
+J2_bcBFXJ	Digestive
+J2_bcBGAP	Neural
+J2_bcBGWE	Neoblast
+J2_bcBGYE	Neoblast
+J2_bcBHFX	Secretory
+J2_bcBHGU	Neoblast
+J2_bcBHPA	Endodermal Progenitor
+J2_bcBHPJ	Neural
+J2_bcBHQW	Muscle
+J2_bcBHVG	Neoblast
+J2_bcBHWW	Neural
+J2_bcBHXF	Muscle
+J2_bcBHXO	Muscle
+J2_bcBIAB	Neural
+J2_bcBICF	Neural
+J2_bcBIDA	Neural
+J2_bcBIGR	Digestive
+J2_bcBIHE	Neural
+J2_bcBIJX	Endoderm-like II
+J2_bcBIPM	Digestive
+J2_bcBIVP	Neural
+J2_bcBIXL	Neoblast
+J2_bcBIXP	Endodermal Progenitor
+J2_bcBIYT	Epidermal
+J2_bcBJDU	Digestive
+J2_bcBJIE	Neural
+J2_bcBJOT	Muscle
+J2_bcBJQJ	Muscle
+J2_bcBJRU	Neoblast
+J2_bcBJTO	Digestive
+J2_bcBJUJ	Endoderm-like I
+J2_bcBKAT	Neural
+J2_bcBKAV	Neural
+J2_bcBKGK	Epidermal
+J2_bcBKOE	Endoderm-like I
+J2_bcBKOJ	Neural
+J2_bcBKOY	Digestive
+J2_bcBKPT	Neural
+J2_bcBKSU	Endoderm-like I
+J2_bcBLIA	Secretory
+J2_bcBLKS	Neoblast
+J2_bcBLLP	Endoderm-like I
+J2_bcBLPO	Neural
+J2_bcBLWP	Digestive
+J2_bcBLZQ	Epidermal Progenitor
+J2_bcBMAA	Neural
+J2_bcBMJM	Endoderm-like I
+J2_bcBMLF	Neural
+J2_bcBMOS	Digestive
+J2_bcBMQW	Epidermal
+J2_bcBNBY	Muscle
+J2_bcBNGN	Neural
+J2_bcBNHS	Unknown
+J2_bcBNIB	Muscle
+J2_bcBNIX	Neoblast
+J2_bcBNOJ	Endoderm-like II
+J2_bcBNOY	Epidermal
+J2_bcBNPW	Muscle
+J2_bcBNRS	Digestive
+J2_bcBNXS	Neural
+J2_bcBNYW	Digestive
+J2_bcBODF	Secretory
+J2_bcBOFP	Digestive
+J2_bcBOKR	Muscle
+J2_bcBOLH	Endoderm-like I
+J2_bcBOMH	Epidermal
+J2_bcBOQG	Epidermal
+J2_bcBOQQ	Neural
+J2_bcBOTW	Muscle
+J2_bcBOUA	Neural
+J2_bcBOUT	Muscle
+J2_bcBOVH	Muscle
+J2_bcBOWP	Epidermal
+J2_bcBOWT	Endodermal Progenitor
+J2_bcBOYK	Digestive
+J2_bcBOZG	Digestive
+J2_bcBPAI	Neural
+J2_bcBPCW	Neural
+J2_bcBPEE	Unknown
+J2_bcBPET	Endoderm-like I
+J2_bcBPFH	Neural
+J2_bcBPFS	Endoderm-like I
+J2_bcBPIO	Endoderm-like I
+J2_bcBPKR	Neural
+J2_bcBPMP	Neural
+J2_bcBPMW	Neural
+J2_bcBPSU	Muscle
+J2_bcBPYR	Neural
+J2_bcBQFH	Digestive
+J2_bcBQIH	Digestive
+J2_bcBQJG	Neural
+J2_bcBQJL	Muscle
+J2_bcBQMW	Endodermal Progenitor
+J2_bcBQNS	Secretory
+J2_bcBQRU	Epidermal Progenitor
+J2_bcBQSO	Neural
+J2_bcBQTA	Endoderm-like I
+J2_bcBQXG	Neural
+J2_bcBQZI	Neural
+J2_bcBQZP	Digestive
+J2_bcBRDD	Neural
+J2_bcBREU	Unknown
+J2_bcBRFT	Endoerm-like III
+J2_bcBRGJ	Muscle
+J2_bcBRGQ	Neural
+J2_bcBRGW	Neoblast
+J2_bcBRIH	Muscle
+J2_bcBROS	Digestive
+J2_bcBRQQ	Digestive
+J2_bcBRQS	Neural
+J2_bcBRWO	Digestive
+J2_bcBSKZ	Neural
+J2_bcBSNB	Endoderm-like I
+J2_bcBSNI	Neural
+J2_bcBSNN	Neural
+J2_bcBSNV	Neural
+J2_bcBSSO	Muscle
+J2_bcBSTI	Muscle
+J2_bcBSTZ	Digestive
+J2_bcBSUJ	Neural
+J2_bcBSUU	Neural
+J2_bcBSVR	Digestive
+J2_bcBSVY	Endoderm-like I
+J2_bcBSYD	Neural
+J2_bcBSZP	Endoderm-like I
+J2_bcBTBT	Endoderm-like I
+J2_bcBTEP	Neural
+J2_bcBTIB	Endoderm-like I
+J2_bcBTJZ	Digestive
+J2_bcBTKF	Digestive
+J2_bcBTMG	Epidermal
+J2_bcBTMM	Neural
+J2_bcBTMT	Neural
+J2_bcBTPK	Neural
+J2_bcBTPP	Endoderm-like I
+J2_bcBTPQ	Epidermal Progenitor
+J2_bcBTQD	Neoblast
+J2_bcBTRO	Neural
+J2_bcBTUK	Muscle
+J2_bcBTYT	Muscle
+J2_bcBTZX	Digestive
+J2_bcBUBG	Endodermal Progenitor
+J2_bcBUBU	Epidermal
+J2_bcBUEK	Neural
+J2_bcBUJZ	Secretory
+J2_bcBUKX	Muscle
+J2_bcBUNZ	Muscle
+J2_bcBUQR	Digestive
+J2_bcBUQT	Epidermal
+J2_bcBURY	Endoderm-like II
+J2_bcBUWX	Neural
+J2_bcBUYD	Endoderm-like I
+J2_bcBVAH	Muscle
+J2_bcBVCH	Endoderm-like I
+J2_bcBVCS	Neoblast
+J2_bcBVDY	Muscle
+J2_bcBVEG	Endoderm-like I
+J2_bcBVID	Neural
+J2_bcBVIS	Endoerm-like III
+J2_bcBVJG	Secretory
+J2_bcBVMA	Endodermal Progenitor
+J2_bcBVOI	Epidermal
+J2_bcBVPL	Muscle
+J2_bcBVSC	Neural
+J2_bcBVSV	Neural
+J2_bcBVTN	Neural
+J2_bcBVTX	Neoblast
+J2_bcBVWH	Unknown
+J2_bcBVXY	Neoblast
+J2_bcBVYN	Muscle
+J2_bcBVYO	Endoderm-like II
+J2_bcBWFB	Neural
+J2_bcBWGI	Neural
+J2_bcBWHT	Neural
+J2_bcBWIP	Neoblast
+J2_bcBWMS	Muscle
+J2_bcBWNR	Endodermal Progenitor
+J2_bcBWRX	Neural
+J2_bcBWSE	Endoderm-like I
+J2_bcBWVP	Secretory
+J2_bcBWWL	Endoderm-like II
+J2_bcBWWT	Digestive
+J2_bcBWXT	Muscle
+J2_bcBXCJ	Muscle
+J2_bcBXPG	Muscle
+J2_bcBXPP	Digestive
+J2_bcBXRS	Endoerm-like III
+J2_bcBXSC	Digestive
+J2_bcBXVH	Neoblast
+J2_bcBXXB	Digestive
+J2_bcBXYL	Neoblast
+J2_bcBYAE	Epidermal
+J2_bcBYGG	Digestive
+J2_bcBYHR	Muscle
+J2_bcBYKR	Neural
+J2_bcBYNG	Neural
+J2_bcBYOI	Epidermal Progenitor
+J2_bcBYOX	Digestive
+J2_bcBYWE	Epidermal
+J2_bcBYWG	Neural
+J2_bcBZAP	Digestive
+J2_bcBZDW	Epidermal Progenitor
+J2_bcBZEA	Muscle
+J2_bcBZEU	Muscle
+J2_bcBZFF	Epidermal Progenitor
+J2_bcBZIP	Digestive
+J2_bcBZIQ	Unknown
+J2_bcBZJA	Neural
+J2_bcBZKA	Neural
+J2_bcBZKE	Endoderm-like I
+J2_bcBZMZ	Digestive
+J2_bcBZOD	Neural
+J2_bcBZOI	Epidermal Progenitor
+J2_bcBZPV	Endoderm-like I
+J2_bcBZPX	Neural
+J2_bcBZQG	Neural
+J2_bcBZRM	Neoblast
+J2_bcBZRX	Neoblast
+J2_bcBZTL	Endodermal Progenitor
+J2_bcBZTS	Neoblast
+J2_bcBZUG	Endoderm-like I
+J2_bcBZYR	Epidermal
+J2_bcCACZ	Unknown
+J2_bcCAJP	Muscle
+J2_bcCAQY	Neural
+J2_bcCAQZ	Unknown
+J2_bcCAVR	Neural
+J2_bcCAWU	Muscle
+J2_bcCBDW	Neoblast
+J2_bcCBFH	Endoderm-like I
+J2_bcCBGE	Digestive
+J2_bcCBMK	Endoderm-like I
+J2_bcCBOG	Digestive
+J2_bcCBQI	Neural
+J2_bcCBWK	Muscle
+J2_bcCBWQ	Epidermal
+J2_bcCBXL	Digestive
+J2_bcCBXZ	Muscle
+J2_bcCBZN	Neural
+J2_bcCBZP	Endodermal Progenitor
+J2_bcCBZQ	Muscle
+J2_bcCCAX	Endoerm-like III
+J2_bcCCCS	Endodermal Progenitor
+J2_bcCCEX	Epidermal
+J2_bcCCKV	Epidermal
+J2_bcCCQG	Neural
+J2_bcCCSS	Epidermal Progenitor
+J2_bcCCVT	Digestive
+J2_bcCCWB	Digestive
+J2_bcCCXZ	Digestive
+J2_bcCCZF	Neoblast
+J2_bcCDCD	Neoblast
+J2_bcCDEP	Neural
+J2_bcCDGU	Neoblast
+J2_bcCDKB	Neural
+J2_bcCDLK	Neural
+J2_bcCDLN	Neural
+J2_bcCDOO	Digestive
+J2_bcCDPI	Digestive
+J2_bcCDQL	Epidermal
+J2_bcCDRD	Endoderm-like I
+J2_bcCDTW	Neural
+J2_bcCDXN	Endodermal Progenitor
+J2_bcCEBL	Muscle
+J2_bcCECJ	Neural
+J2_bcCEDU	Endodermal Progenitor
+J2_bcCEEB	Endoderm-like II
+J2_bcCEIE	Neural
+J2_bcCEIG	Digestive
+J2_bcCELS	Endodermal Progenitor
+J2_bcCERK	Digestive
+J2_bcCETH	Neural
+J2_bcCETQ	Neural
+J2_bcCEUB	Neural
+J2_bcCEWB	Muscle
+J2_bcCEXL	Muscle
+J2_bcCEZS	Endoderm-like I
+J2_bcCFDM	Endoderm-like I
+J2_bcCFGK	Muscle
+J2_bcCFHH	Neoblast
+J2_bcCFKI	Neoblast
+J2_bcCFKZ	Digestive
+J2_bcCFLE	Epidermal
+J2_bcCFLL	Neural
+J2_bcCFMW	Endoderm-like I
+J2_bcCFUG	Endoderm-like I
+J2_bcCFUM	Endoderm-like II
+J2_bcCFUN	Neoblast
+J2_bcCFVE	Neoblast
+J2_bcCFYB	Neural
+J2_bcCGGN	Neoblast
+J2_bcCGHU	Neural
+J2_bcCGKH	Epidermal
+J2_bcCGLP	Muscle
+J2_bcCGMG	Neural
+J2_bcCGSF	Neural
+J2_bcCGVG	Neural
+J2_bcCGVR	Digestive
+J2_bcCGVT	Endoderm-like II
+J2_bcCGXW	Neural
+J2_bcCHEV	Neoblast
+J2_bcCHKR	Neoblast
+J2_bcCHKZ	Epidermal Progenitor
+J2_bcCHTM	Digestive
+J2_bcCHXC	Neural
+J2_bcCHXN	Endoerm-like III
+J2_bcCICI	Digestive
+J2_bcCIHI	Neural
+J2_bcCIMD	Digestive
+J2_bcCIPT	Digestive
+J2_bcCIQN	Endodermal Progenitor
+J2_bcCIRR	Endodermal Progenitor
+J2_bcCITZ	Neural
+J2_bcCIVX	Endoderm-like II
+J2_bcCIWA	Endoerm-like III
+J2_bcCIXS	Muscle
+J2_bcCIXV	Neural
+J2_bcCIZN	Neoblast
+J2_bcCJAJ	Endoerm-like III
+J2_bcCJCD	Neural
+J2_bcCJEM	Endoderm-like II
+J2_bcCJNL	Muscle
+J2_bcCJNU	Neoblast
+J2_bcCJQK	Muscle
+J2_bcCJWU	Muscle
+J2_bcCKKC	Endoerm-like III
+J2_bcCKQW	Epidermal Progenitor
+J2_bcCKSS	Digestive
+J2_bcCKVJ	Neural
+J2_bcCKVS	Digestive
+J2_bcCKVV	Muscle
+J2_bcCKZG	Muscle
+J2_bcCLBL	Epidermal Progenitor
+J2_bcCLBM	Muscle
+J2_bcCLDL	Endoderm-like I
+J2_bcCLHX	Endoderm-like I
+J2_bcCLKI	Endodermal Progenitor
+J2_bcCLOP	Epidermal
+J2_bcCLXR	Digestive
+J2_bcCLYS	Muscle
+J2_bcCMCU	Neural
+J2_bcCMCX	Neural
+J2_bcCMCY	Unknown
+J2_bcCMFE	Epidermal
+J2_bcCMIL	Endodermal Progenitor
+J2_bcCMIW	Neural
+J2_bcCMJK	Muscle
+J2_bcCMNC	Endodermal Progenitor
+J2_bcCMNN	Neoblast
+J2_bcCMNT	Neural
+J2_bcCMRV	Muscle
+J2_bcCMVO	Muscle
+J2_bcCMYF	Muscle
+J2_bcCMZQ	Unknown
+J2_bcCNAI	Epidermal Progenitor
+J2_bcCNBK	Neural
+J2_bcCNFE	Endoderm-like II
+J2_bcCNHB	Secretory
+J2_bcCNJY	Digestive
+J2_bcCNKW	Muscle
+J2_bcCNLC	Neoblast
+J2_bcCNLE	Epidermal
+J2_bcCNNO	Neural
+J2_bcCNPP	Muscle
+J2_bcCNSE	Endoderm-like I
+J2_bcCNUQ	Neural
+J2_bcCNWI	Epidermal
+J2_bcCNXJ	Neoblast
+J2_bcCOBK	Neural
+J2_bcCODK	Endoerm-like III
+J2_bcCOHG	Endoderm-like I
+J2_bcCOJO	Endoerm-like III
+J2_bcCOKP	Endodermal Progenitor
+J2_bcCOWC	Neoblast
+J2_bcCOWF	Endoderm-like I
+J2_bcCPCE	Digestive
+J2_bcCPFC	Digestive
+J2_bcCPJU	Unknown
+J2_bcCPQE	Epidermal
+J2_bcCPQI	Digestive
+J2_bcCPWN	Neural
+J2_bcCQAH	Digestive
+J2_bcCQCA	Muscle
+J2_bcCQQP	Unknown
+J2_bcCQRC	Muscle
+J2_bcCQUN	Neural
+J2_bcCQYD	Digestive
+J2_bcCREU	Neural
+J2_bcCRFH	Endoderm-like I
+J2_bcCRJC	Endodermal Progenitor
+J2_bcCRJK	Neural
+J2_bcCRLL	Muscle
+J2_bcCRME	Neural
+J2_bcCRNH	Epidermal Progenitor
+J2_bcCRPC	Muscle
+J2_bcCRRE	Endodermal Progenitor
+J2_bcCRTK	Unknown
+J2_bcCRWD	Endoderm-like I
+J2_bcCRXC	Neoblast
+J2_bcCRXT	Muscle
+J2_bcCRXW	Neural
+J2_bcCRYD	Muscle
+J2_bcCSGY	Muscle
+J2_bcCSHJ	Neoblast
+J2_bcCSHM	Epidermal
+J2_bcCSQY	Unknown
+J2_bcCSRY	Muscle
+J2_bcCSTK	Digestive
+J2_bcCSYB	Neoblast
+J2_bcCSYC	Epidermal Progenitor
+J2_bcCSYG	Neural
+J2_bcCTBX	Endoderm-like I
+J2_bcCTGX	Endoderm-like II
+J2_bcCTHH	Neural
+J2_bcCTHT	Neural
+J2_bcCTMQ	Endodermal Progenitor
+J2_bcCTOE	Endoerm-like III
+J2_bcCTUA	Digestive
+J2_bcCTVC	Muscle
+J2_bcCTXC	Epidermal
+J2_bcCTXP	Muscle
+J2_bcCUCG	Endoderm-like I
+J2_bcCUHV	Digestive
+J2_bcCUIT	Endoderm-like I
+J2_bcCUJI	Endoderm-like II
+J2_bcCUKX	Secretory
+J2_bcCUMG	Muscle
+J2_bcCUMI	Muscle
+J2_bcCURL	Neural
+J2_bcCURO	Digestive
+J2_bcCUWN	Neural
+J2_bcCUZV	Digestive
+J2_bcCVAL	Epidermal
+J2_bcCVFV	Endoderm-like I
+J2_bcCVGF	Muscle
+J2_bcCVNF	Neural
+J2_bcCVNY	Muscle
+J2_bcCVTY	Endoderm-like II
+J2_bcCVUR	Neural
+J2_bcCVZV	Secretory
+J2_bcCWAD	Endodermal Progenitor
+J2_bcCWAE	Endoderm-like II
+J2_bcCWAL	Muscle
+J2_bcCWEA	Muscle
+J2_bcCWHT	Muscle
+J2_bcCWNL	Neural
+J2_bcCWPN	Neural
+J2_bcCWRW	Muscle
+J2_bcCWTN	Neural
+J2_bcCWUQ	Epidermal
+J2_bcCWWB	Muscle
+J2_bcCWWN	Muscle
+J2_bcCWWT	Endoderm-like I
+J2_bcCWXC	Endodermal Progenitor
+J2_bcCXHG	Digestive
+J2_bcCXJH	Neural
+J2_bcCXKJ	Neural
+J2_bcCXKP	Neural
+J2_bcCXNT	Neural
+J2_bcCXPU	Neural
+J2_bcCXTQ	Endoderm-like I
+J2_bcCXWW	Neural
+J2_bcCXZX	Epidermal Progenitor
+J2_bcCYFQ	Unknown
+J2_bcCYGV	Digestive
+J2_bcCYJI	Epidermal Progenitor
+J2_bcCYKO	Neural
+J2_bcCYPL	Endoderm-like II
+J2_bcCYQG	Neural
+J2_bcCYRO	Neoblast
+J2_bcCZGA	Neural
+J2_bcCZGU	Secretory
+J2_bcCZHZ	Endoderm-like II
+J2_bcCZIG	Endoderm-like II
+J2_bcCZJA	Neural
+J2_bcCZLO	Epidermal Progenitor
+J2_bcCZMA	Endodermal Progenitor
+J2_bcCZMI	Muscle
+J2_bcCZNF	Muscle
+J2_bcCZVX	Muscle
+J2_bcCZWQ	Secretory
+J2_bcCZYI	Digestive
+J2_bcDAGD	Muscle
+J2_bcDAHW	Neural
+J2_bcDAMK	Muscle
+J2_bcDAMM	Digestive
+J2_bcDAND	Muscle
+J2_bcDAPN	Muscle
+J2_bcDBDH	Neural
+J2_bcDBEX	Endoderm-like I
+J2_bcDBHI	Neoblast
+J2_bcDBPM	Epidermal Progenitor
+J2_bcDBQX	Digestive
+J2_bcDBYC	Endodermal Progenitor
+J2_bcDBZL	Endoderm-like II
+J2_bcDCEG	Endoderm-like I
+J2_bcDCHS	Neural
+J2_bcDCHW	Unknown
+J2_bcDCJJ	Epidermal Progenitor
+J2_bcDCQN	Digestive
+J2_bcDCQW	Neural
+J2_bcDCTD	Muscle
+J2_bcDCUT	Endodermal Progenitor
+J2_bcDDIS	Neural
+J2_bcDDJR	Muscle
+J2_bcDDKH	Neural
+J2_bcDDMA	Secretory
+J2_bcDDOF	Neural
+J2_bcDDRR	Digestive
+J2_bcDDUF	Digestive
+J2_bcDDVM	Unknown
+J2_bcDDWO	Neural
+J2_bcDDYK	Endodermal Progenitor
+J2_bcDEIN	Endoderm-like II
+J2_bcDEKV	Neural
+J2_bcDELB	Muscle
+J2_bcDEMO	Neural
+J2_bcDERO	Neural
+J2_bcDESQ	Neural
+J2_bcDEVD	Epidermal
+J2_bcDEYG	Muscle
+J2_bcDFEQ	Neural
+J2_bcDFFG	Neural
+J2_bcDFGD	Neural
+J2_bcDFJO	Neural
+J2_bcDFLL	Neural
+J2_bcDFQH	Endodermal Progenitor
+J2_bcDFTE	Endoderm-like I
+J2_bcDFWG	Endoderm-like I
+J2_bcDFXU	Neoblast
+J2_bcDGBI	Neural
+J2_bcDGTI	Muscle
+J2_bcDGVB	Muscle
+J2_bcDHAB	Endoderm-like II
+J2_bcDHBV	Endoderm-like II
+J2_bcDHEQ	Muscle
+J2_bcDHKG	Endoderm-like I
+J2_bcDHLY	Endodermal Progenitor
+J2_bcDHQR	Neural
+J2_bcDHRR	Neoblast
+J2_bcDIAH	Digestive
+J2_bcDIDP	Digestive
+J2_bcDIEY	Digestive
+J2_bcDIUW	Muscle
+J2_bcDIVH	Muscle
+J2_bcDIWC	Endodermal Progenitor
+J2_bcDIXD	Neoblast
+J2_bcDJAH	Neoblast
+J2_bcDJKM	Neural
+J2_bcDJLA	Neural
+J2_bcDJSW	Muscle
+J2_bcDJVG	Neural
+J2_bcDJYV	Digestive
+J2_bcDKCW	Muscle
+J2_bcDKFN	Digestive
+J2_bcDKFR	Endoerm-like III
+J2_bcDKKW	Muscle
+J2_bcDKOB	Digestive
+J2_bcDKSY	Digestive
+J2_bcDKVD	Muscle
+J2_bcDKVM	Endoderm-like I
+J2_bcDKVT	Digestive
+J2_bcDKXK	Neural
+J2_bcDLEL	Secretory
+J2_bcDLJM	Endoderm-like II
+J2_bcDLJO	Digestive
+J2_bcDLLR	Neural
+J2_bcDLLT	Muscle
+J2_bcDLLU	Endodermal Progenitor
+J2_bcDLNZ	Neural
+J2_bcDLOD	Endoderm-like I
+J2_bcDLQM	Neural
+J2_bcDLRC	Neural
+J2_bcDLTE	Muscle
+J2_bcDMGL	Muscle
+J2_bcDMVG	Neoblast
+J2_bcDMXD	Epidermal
+J2_bcDNFH	Neural
+J2_bcDNIF	Digestive
+J2_bcDNJE	Digestive
+J2_bcDNKV	Neural
+J2_bcDNMU	Neural
+J2_bcDNNP	Neural
+J2_bcDNQE	Neural
+J2_bcDNRF	Neural
+J2_bcDNSV	Endoderm-like I
+J2_bcDNUO	Digestive
+J2_bcDNVK	Digestive
+J2_bcDNWD	Endoderm-like I
+J2_bcDOFW	Neural
+J2_bcDOFY	Endoderm-like I
+J2_bcDOMR	Muscle
+J2_bcDORU	Neural
+J2_bcDOVF	Epidermal
+J2_bcDPAE	Endoderm-like I
+J2_bcDPBO	Muscle
+J2_bcDPBS	Digestive
+J2_bcDPDD	Neural
+J2_bcDPDG	Endoderm-like I
+J2_bcDPDO	Muscle
+J2_bcDPDU	Epidermal
+J2_bcDPJX	Muscle
+J2_bcDPOJ	Endodermal Progenitor
+J2_bcDPPO	Neoblast
+J2_bcDPQQ	Digestive
+J2_bcDPSM	Endodermal Progenitor
+J2_bcDPTH	Neural
+J2_bcDPXQ	Neural
+J2_bcDPZG	Neural
+J2_bcDQGS	Muscle
+J2_bcDQHT	Endoderm-like I
+J2_bcDQQK	Neural
+J2_bcDQTH	Digestive
+J2_bcDQUS	Endoerm-like III
+J2_bcDRLP	Muscle
+J2_bcDRXC	Endoderm-like I
+J2_bcDRZR	Endodermal Progenitor
+J2_bcDSCM	Muscle
+J2_bcDSFB	Muscle
+J2_bcDSJF	Neural
+J2_bcDSKH	Neural
+J2_bcDSOC	Endodermal Progenitor
+J2_bcDSPN	Unknown
+J2_bcDSWM	Muscle
+J2_bcDSWN	Muscle
+J2_bcDSYZ	Muscle
+J2_bcDTFH	Endodermal Progenitor
+J2_bcDTGZ	Neural
+J2_bcDTNA	Neural
+J2_bcDTNQ	Muscle
+J2_bcDTTK	Digestive
+J2_bcDUAH	Endoderm-like I
+J2_bcDUAX	Muscle
+J2_bcDUGE	Neoblast
+J2_bcDUHT	Endoderm-like I
+J2_bcDUIJ	Neural
+J2_bcDUNN	Endoerm-like III
+J2_bcDUNW	Endoderm-like II
+J2_bcDUOD	Neural
+J2_bcDUOM	Neural
+J2_bcDUOZ	Endoderm-like II
+J2_bcDUPD	Neoblast
+J2_bcDUVM	Muscle
+J2_bcDUXB	Neural
+J2_bcDUXG	Endoderm-like II
+J2_bcDUXU	Muscle
+J2_bcDUYO	Neural
+J2_bcDUYU	Neural
+J2_bcDVAF	Epidermal
+J2_bcDVAP	Endodermal Progenitor
+J2_bcDVBI	Neural
+J2_bcDVBN	Neoblast
+J2_bcDVGE	Epidermal Progenitor
+J2_bcDVJN	Digestive
+J2_bcDVPO	Neural
+J2_bcDVQK	Neural
+J2_bcDVSE	Digestive
+J2_bcDVUB	Neural
+J2_bcDVVB	Neural
+J2_bcDVXS	Neural
+J2_bcDVXX	Unknown
+J2_bcDWCJ	Muscle
+J2_bcDWHF	Digestive
+J2_bcDWKL	Epidermal
+J2_bcDWKN	Muscle
+J2_bcDWOM	Neural
+J2_bcDWSR	Neural
+J2_bcDWVU	Digestive
+J2_bcDWYI	Digestive
+J2_bcDXAT	Neural
+J2_bcDXEU	Neoblast
+J2_bcDXHI	Unknown
+J2_bcDXME	Digestive
+J2_bcDXNF	Endodermal Progenitor
+J2_bcDXRG	Endoderm-like II
+J2_bcDXYK	Muscle
+J2_bcDXZV	Neural
+J2_bcDYBR	Neural
+J2_bcDYBW	Neural
+J2_bcDYFF	Epidermal Progenitor
+J2_bcDYIJ	Neural
+J2_bcDYIQ	Endodermal Progenitor
+J2_bcDYNN	Endoderm-like I
+J2_bcDYQL	Digestive
+J2_bcDYRQ	Muscle
+J2_bcDYSL	Unknown
+J2_bcDYTB	Endodermal Progenitor
+J2_bcDYVH	Endoerm-like III
+J2_bcDZIW	Digestive
+J2_bcDZLE	Unknown
+J2_bcDZMY	Neural
+J2_bcDZOD	Muscle
+J2_bcDZRP	Neural
+J2_bcDZRW	Muscle
+J2_bcDZTL	Digestive
+J2_bcDZUD	Neoblast
+J2_bcDZVK	Neural
+J2_bcDZWG	Neural
+J2_bcEACS	Endoderm-like I
+J2_bcEAET	Endoderm-like I
+J2_bcEAJL	Neural
+J2_bcEANY	Neural
+J2_bcEARG	Endoerm-like III
+J2_bcEARU	Endodermal Progenitor
+J2_bcEARX	Muscle
+J2_bcEAUZ	Neural
+J2_bcEAYO	Neural
+J2_bcEAYP	Neural
+J2_bcEBAF	Endoderm-like II
+J2_bcEBDA	Muscle
+J2_bcEBFF	Muscle
+J2_bcEBKC	Muscle
+J2_bcEBOV	Epidermal
+J2_bcEBOW	Digestive
+J2_bcEBPG	Endoderm-like II
+J2_bcEBSG	Endoderm-like I
+J2_bcEBSP	Muscle
+J2_bcEBSX	Neural
+J2_bcEBUH	Endodermal Progenitor
+J2_bcEBVC	Neural
+J2_bcEBVT	Epidermal
+J2_bcEBZD	Neural
+J2_bcECBY	Endoderm-like I
+J2_bcECEI	Neoblast
+J2_bcECEN	Muscle
+J2_bcECHL	Neural
+J2_bcECHX	Neural
+J2_bcECHY	Endodermal Progenitor
+J2_bcECLQ	Neoblast
+J2_bcECPD	Neural
+J2_bcECRG	Neoblast
+J2_bcECSG	Neural
+J2_bcECUM	Neural
+J2_bcEDBC	Endodermal Progenitor
+J2_bcEDDS	Muscle
+J2_bcEDEW	Endoderm-like I
+J2_bcEDJF	Muscle
+J2_bcEDPO	Muscle
+J2_bcEDVU	Muscle
+J2_bcEDYO	Neural
+J2_bcEEBQ	Endoderm-like I
+J2_bcEEDO	Unknown
+J2_bcEEJL	Neural
+J2_bcEEXE	Endoderm-like I
+J2_bcEEZS	Digestive
+J2_bcEFBJ	Endoderm-like I
+J2_bcEFBP	Neural
+J2_bcEFBS	Digestive
+J2_bcEFFE	Epidermal Progenitor
+J2_bcEFKK	Digestive
+J2_bcEFLS	Endodermal Progenitor
+J2_bcEFMW	Neural
+J2_bcEFQR	Epidermal
+J2_bcEFXM	Muscle
+J2_bcEGAC	Muscle
+J2_bcEGCY	Neoblast
+J2_bcEGEX	Neural
+J2_bcEGHK	Muscle
+J2_bcEGJB	Epidermal Progenitor
+J2_bcEGJG	Endoderm-like I
+J2_bcEGJJ	Muscle
+J2_bcEGRG	Muscle
+J2_bcEGRW	Muscle
+J2_bcEGUV	Neoblast
+J2_bcEGYK	Epidermal
+J2_bcEHAK	Digestive
+J2_bcEHDG	Endoderm-like I
+J2_bcEHII	Endoderm-like I
+J2_bcEHJE	Epidermal
+J2_bcEHKK	Endoderm-like I
+J2_bcEHKM	Endoderm-like II
+J2_bcEHKW	Neural
+J2_bcEHMW	Neoblast
+J2_bcEHOU	Neoblast
+J2_bcEHQG	Endoderm-like I
+J2_bcEHSX	Neural
+J2_bcEHVQ	Digestive
+J2_bcEIEA	Muscle
+J2_bcEIET	Epidermal Progenitor
+J2_bcEIGB	Neural
+J2_bcEIGW	Digestive
+J2_bcEIIU	Epidermal Progenitor
+J2_bcEILH	Endoderm-like I
+J2_bcEIMP	Muscle
+J2_bcEION	Muscle
+J2_bcEIUW	Neural
+J2_bcEIVZ	Neural
+J2_bcEIYK	Muscle
+J2_bcEJAA	Muscle
+J2_bcEJAS	Neural
+J2_bcEJBP	Endoderm-like I
+J2_bcEJBQ	Neural
+J2_bcEJDO	Neural
+J2_bcEJFN	Neural
+J2_bcEJGK	Digestive
+J2_bcEJGP	Neural
+J2_bcEJGY	Endoderm-like I
+J2_bcEJMU	Muscle
+J2_bcEJNJ	Neural
+J2_bcEJPS	Neural
+J2_bcEJQE	Endoerm-like III
+J2_bcEJRG	Muscle
+J2_bcEJRT	Muscle
+J2_bcEJUV	Digestive
+J2_bcEJZI	Neural
+J2_bcEJZV	Muscle
+J2_bcEKBN	Digestive
+J2_bcEKBX	Epidermal Progenitor
+J2_bcEKCB	Endoderm-like I
+J2_bcEKCR	Endoderm-like I
+J2_bcEKDU	Muscle
+J2_bcEKDX	Endodermal Progenitor
+J2_bcEKHK	Digestive
+J2_bcEKJF	Epidermal
+J2_bcEKJN	Digestive
+J2_bcEKJZ	Muscle
+J2_bcEKKQ	Muscle
+J2_bcEKLN	Endodermal Progenitor
+J2_bcEKTI	Neoblast
+J2_bcEKUL	Digestive
+J2_bcEKVG	Neoblast
+J2_bcEKYC	Digestive
+J2_bcEKZV	Endodermal Progenitor
+J2_bcELFA	Neoblast
+J2_bcELHM	Muscle
+J2_bcELHP	Epidermal
+J2_bcELJM	Endodermal Progenitor
+J2_bcELLC	Secretory
+J2_bcELLF	Neoblast
+J2_bcELQC	Muscle
+J2_bcELUX	Muscle
+J2_bcEMIJ	Endodermal Progenitor
+J2_bcEMNH	Digestive
+J2_bcEMNJ	Digestive
+J2_bcEMOE	Secretory
+J2_bcEMUO	Neoblast
+J2_bcEMVD	Endoderm-like I
+J2_bcEMXC	Endoderm-like I
+J2_bcEMYN	Muscle
+J2_bcEMZW	Endoderm-like I
+J2_bcENDN	Neural
+J2_bcENEM	Secretory
+J2_bcENNN	Muscle
+J2_bcENPF	Neoblast
+J2_bcENQN	Epidermal Progenitor
+J2_bcEOAR	Secretory
+J2_bcEOFY	Muscle
+J2_bcEOQW	Digestive
+J2_bcEORJ	Neural
+J2_bcEOSO	Endodermal Progenitor
+J2_bcEOVJ	Epidermal
+J2_bcEOYZ	Neural
+J2_bcEPAA	Neural
+J2_bcEPAM	Neural
+J2_bcEPAU	Digestive
+J2_bcEPIE	Muscle
+J2_bcEPVZ	Muscle
+J2_bcEQIB	Epidermal
+J2_bcEQKQ	Endodermal Progenitor
+J2_bcEQMH	Neural
+J2_bcEQPB	Neoblast
+J2_bcEQQP	Digestive
+J2_bcEQWL	Digestive
+J2_bcEQWP	Digestive
+J2_bcEQYK	Neural
+J2_bcERCG	Neural
+J2_bcERDH	Neural
+J2_bcEREF	Endodermal Progenitor
+J2_bcERGO	Endodermal Progenitor
+J2_bcERIG	Neural
+J2_bcERLX	Muscle
+J2_bcERRM	Endoderm-like I
+J2_bcERVN	Digestive
+J2_bcERXZ	Muscle
+J2_bcERZF	Unknown
+J2_bcESDU	Neural
+J2_bcESFV	Epidermal
+J2_bcESGC	Neural
+J2_bcESHY	Muscle
+J2_bcESJM	Digestive
+J2_bcESKK	Neural
+J2_bcESMF	Digestive
+J2_bcESMG	Endodermal Progenitor
+J2_bcESMW	Digestive
+J2_bcESMY	Epidermal
+J2_bcESOL	Epidermal
+J2_bcESPU	Digestive
+J2_bcESQX	Muscle
+J2_bcESRB	Endodermal Progenitor
+J2_bcESRK	Neoblast
+J2_bcESYS	Endoderm-like II
+J2_bcESZU	Neoblast
+J2_bcESZX	Neural
+J2_bcESZY	Unknown
+J2_bcETAV	Endoderm-like I
+J2_bcETES	Endoderm-like II
+J2_bcETHG	Endodermal Progenitor
+J2_bcETKB	Digestive
+J2_bcETLO	Endoderm-like I
+J2_bcETUX	Unknown
+J2_bcETVT	Neural
+J2_bcETWZ	Endodermal Progenitor
+J2_bcETYR	Neural
+J2_bcEUBE	Muscle
+J2_bcEUCM	Muscle
+J2_bcEUHV	Neural
+J2_bcEUJC	Neural
+J2_bcEUJQ	Neural
+J2_bcEUJZ	Digestive
+J2_bcEULT	Muscle
+J2_bcEUNU	Epidermal
+J2_bcEUPX	Neoblast
+J2_bcEURH	Unknown
+J2_bcEUUW	Muscle
+J2_bcEUWI	Muscle
+J2_bcEUWL	Neural
+J2_bcEUWS	Epidermal
+J2_bcEUXH	Neural
+J2_bcEUXI	Muscle
+J2_bcEUXM	Neural
+J2_bcEVCW	Endoderm-like I
+J2_bcEVIN	Endodermal Progenitor
+J2_bcEVJA	Digestive
+J2_bcEVLC	Muscle
+J2_bcEVMO	Neural
+J2_bcEVMY	Endoderm-like II
+J2_bcEVNX	Neural
+J2_bcEVVS	Neoblast
+J2_bcEVXP	Endoderm-like I
+J2_bcEWBU	Endoderm-like I
+J2_bcEWDN	Endoerm-like III
+J2_bcEWFK	Secretory
+J2_bcEWJV	Muscle
+J2_bcEWNX	Neoblast
+J2_bcEWPK	Digestive
+J2_bcEWRX	Muscle
+J2_bcEWRY	Neural
+J2_bcEWSX	Digestive
+J2_bcEWUE	Neural
+J2_bcEWUK	Endodermal Progenitor
+J2_bcEWZM	Unknown
+J2_bcEWZN	Neural
+J2_bcEXCS	Neural
+J2_bcEXIA	Neoblast
+J2_bcEXJG	Neural
+J2_bcEXLC	Digestive
+J2_bcEXMP	Epidermal Progenitor
+J2_bcEXNX	Digestive
+J2_bcEXOE	Neoblast
+J2_bcEXOJ	Unknown
+J2_bcEXSP	Endoderm-like I
+J2_bcEYAD	Endoderm-like I
+J2_bcEYBU	Muscle
+J2_bcEYOT	Unknown
+J2_bcEYQK	Endodermal Progenitor
+J2_bcEYQL	Digestive
+J2_bcEYRS	Epidermal
+J2_bcEYWO	Secretory
+J2_bcEYWX	Endoerm-like III
+J2_bcEZEE	Unknown
+J2_bcEZEL	Muscle
+J2_bcEZJS	Muscle
+J2_bcEZNH	Endodermal Progenitor
+J2_bcEZNR	Muscle
+J2_bcEZRJ	Neoblast
+J2_bcEZTF	Endodermal Progenitor
+J2_bcEZTZ	Digestive
+J2_bcEZUF	Neural
+J2_bcEZUV	Endoderm-like I
+J2_bcEZXJ	Digestive
+J2_bcEZYH	Epidermal
+J2_bcEZZW	Endoderm-like I
+J2_bcFAAO	Endodermal Progenitor
+J2_bcFAEJ	Endoerm-like III
+J2_bcFALH	Neural
+J2_bcFANL	Epidermal Progenitor
+J2_bcFAOP	Neural
+J2_bcFAOQ	Neural
+J2_bcFAQG	Neural
+J2_bcFAQJ	Endodermal Progenitor
+J2_bcFASF	Neural
+J2_bcFATC	Neoblast
+J2_bcFAZF	Neural
+J2_bcFAZJ	Endoderm-like I
+J2_bcFBBC	Digestive
+J2_bcFBEH	Endoerm-like III
+J2_bcFBFD	Neoblast
+J2_bcFBJH	Neoblast
+J2_bcFBKP	Digestive
+J2_bcFBMS	Endoderm-like I
+J2_bcFBPB	Muscle
+J2_bcFBPD	Neoblast
+J2_bcFBSR	Digestive
+J2_bcFCAJ	Endoderm-like I
+J2_bcFCKF	Digestive
+J2_bcFCLR	Muscle
+J2_bcFCNI	Endoderm-like I
+J2_bcFCQH	Endoerm-like III
+J2_bcFCQP	Neural
+J2_bcFCRQ	Unknown
+J2_bcFCUQ	Neural
+J2_bcFDCP	Epidermal
+J2_bcFDGO	Digestive
+J2_bcFDHZ	Muscle
+J2_bcFDLO	Digestive
+J2_bcFDLQ	Neoblast
+J2_bcFDPX	Epidermal Progenitor
+J2_bcFDUI	Digestive
+J2_bcFDVA	Endoderm-like I
+J2_bcFEEA	Unknown
+J2_bcFEHG	Muscle
+J2_bcFEIG	Unknown
+J2_bcFEKI	Muscle
+J2_bcFEMN	Neural
+J2_bcFENB	Epidermal
+J2_bcFEOE	Neural
+J2_bcFEPJ	Muscle
+J2_bcFEPU	Neural
+J2_bcFERY	Neural
+J2_bcFESS	Muscle
+J2_bcFEXC	Endodermal Progenitor
+J2_bcFEXD	Muscle
+J2_bcFEZA	Digestive
+J2_bcFFBB	Unknown
+J2_bcFFCQ	Digestive
+J2_bcFFCS	Neural
+J2_bcFFKF	Endoerm-like III
+J2_bcFFLS	Neural
+J2_bcFFMZ	Secretory
+J2_bcFFXC	Neural
+J2_bcFGBW	Muscle
+J2_bcFGGK	Muscle
+J2_bcFGHM	Neural
+J2_bcFGHS	Neoblast
+J2_bcFGKU	Endoderm-like II
+J2_bcFGMV	Neural
+J2_bcFGNT	Epidermal
+J2_bcFGOS	Muscle
+J2_bcFGPX	Neural
+J2_bcFGQA	Neural
+J2_bcFGSI	Endodermal Progenitor
+J2_bcFGVB	Digestive
+J2_bcFGVL	Neural
+J2_bcFGZG	Endoerm-like III
+J2_bcFHAP	Digestive
+J2_bcFHBM	Neural
+J2_bcFHDM	Digestive
+J2_bcFHDV	Muscle
+J2_bcFHFF	Muscle
+J2_bcFHIA	Digestive
+J2_bcFHIX	Endodermal Progenitor
+J2_bcFHIY	Endodermal Progenitor
+J2_bcFHNW	Epidermal
+J2_bcFHXB	Epidermal
+J2_bcFHXQ	Unknown
+J2_bcFHYY	Neural
+J2_bcFHZM	Endoderm-like I
+J2_bcFIAA	Epidermal
+J2_bcFIBS	Muscle
+J2_bcFIDA	Endodermal Progenitor
+J2_bcFIGP	Muscle
+J2_bcFIHQ	Endoderm-like I
+J2_bcFIJX	Endoerm-like III
+J2_bcFINX	Neoblast
+J2_bcFIPE	Muscle
+J2_bcFIRH	Neural
+J2_bcFIST	Digestive
+J2_bcFIUE	Neural
+J2_bcFJAE	Epidermal Progenitor
+J2_bcFJBF	Endoerm-like III
+J2_bcFJCK	Endodermal Progenitor
+J2_bcFJEH	Epidermal
+J2_bcFJEQ	Epidermal
+J2_bcFJGO	Endodermal Progenitor
+J2_bcFJUH	Neural
+J2_bcFJUI	Endodermal Progenitor
+J2_bcFJUR	Digestive
+J2_bcFKAO	Muscle
+J2_bcFKAS	Muscle
+J2_bcFKAZ	Neural
+J2_bcFKGF	Neural
+J2_bcFKIG	Muscle
+J2_bcFKJR	Neural
+J2_bcFKJS	Digestive
+J2_bcFKKN	Muscle
+J2_bcFKLX	Endoerm-like III
+J2_bcFKPC	Neural
+J2_bcFKSX	Neoblast
+J2_bcFKUV	Neural
+J2_bcFKWB	Epidermal
+J2_bcFKZL	Neoblast
+J2_bcFLAR	Neural
+J2_bcFLBO	Endodermal Progenitor
+J2_bcFLFD	Muscle
+J2_bcFLFR	Muscle
+J2_bcFLGD	Muscle
+J2_bcFLIC	Neural
+J2_bcFLIX	Muscle
+J2_bcFLMB	Neural
+J2_bcFLMH	Epidermal
+J2_bcFLML	Endodermal Progenitor
+J2_bcFLRL	Endoderm-like II
+J2_bcFLSU	Endoderm-like I
+J2_bcFLWG	Endodermal Progenitor
+J2_bcFLXK	Digestive
+J2_bcFLYH	Endodermal Progenitor
+J2_bcFLYT	Neural
+J2_bcFLYY	Endodermal Progenitor
+J2_bcFLZF	Muscle
+J2_bcFMAD	Epidermal Progenitor
+J2_bcFMCE	Endodermal Progenitor
+J2_bcFMCS	Neoblast
+J2_bcFMCU	Muscle
+J2_bcFMEM	Endoderm-like I
+J2_bcFMIT	Unknown
+J2_bcFMKG	Neural
+J2_bcFMLE	Neoblast
+J2_bcFMLQ	Endoerm-like III
+J2_bcFMMX	Endoderm-like II
+J2_bcFMNN	Digestive
+J2_bcFMNO	Neural
+J2_bcFMOY	Endoderm-like I
+J2_bcFMSN	Unknown
+J2_bcFMVI	Neoblast
+J2_bcFMXH	Endoderm-like I
+J2_bcFMXX	Epidermal Progenitor
+J2_bcFMZW	Endodermal Progenitor
+J2_bcFNAH	Digestive
+J2_bcFNAU	Neural
+J2_bcFNFW	Endodermal Progenitor
+J2_bcFNGG	Epidermal
+J2_bcFNGJ	Digestive
+J2_bcFNMS	Muscle
+J2_bcFNMX	Endoderm-like I
+J2_bcFNWP	Neural
+J2_bcFOAP	Neoblast
+J2_bcFOBE	Neoblast
+J2_bcFOBJ	Muscle
+J2_bcFOCM	Unknown
+J2_bcFOFE	Digestive
+J2_bcFOGH	Endoderm-like II
+J2_bcFOIP	Digestive
+J2_bcFOKK	Endoerm-like III
+J2_bcFOMK	Neural
+J2_bcFOSU	Muscle
+J2_bcFOTX	Neural
+J2_bcFOVJ	Neural
+J2_bcFOWM	Endodermal Progenitor
+J2_bcFOXT	Endodermal Progenitor
+J2_bcFOZC	Neural
+J2_bcFOZK	Neural
+J2_bcFPHX	Muscle
+J2_bcFPIW	Digestive
+J2_bcFPMC	Neural
+J2_bcFPOJ	Muscle
+J2_bcFPQN	Digestive
+J2_bcFPQZ	Neoblast
+J2_bcFPTX	Digestive
+J2_bcFPUS	Endoerm-like III
+J2_bcFPXD	Muscle
+J2_bcFPXW	Neural
+J2_bcFQAD	Endoderm-like II
+J2_bcFQBW	Neural
+J2_bcFQCI	Digestive
+J2_bcFQGD	Endodermal Progenitor
+J2_bcFQGS	Endodermal Progenitor
+J2_bcFQJK	Neoblast
+J2_bcFQMI	Unknown
+J2_bcFQNU	Endoderm-like I
+J2_bcFQOT	Neural
+J2_bcFQOY	Epidermal
+J2_bcFQRK	Neoblast
+J2_bcFQUM	Digestive
+J2_bcFQVX	Secretory
+J2_bcFQXT	Secretory
+J2_bcFQYC	Neural
+J2_bcFRAF	Muscle
+J2_bcFRFU	Neural
+J2_bcFRGF	Neural
+J2_bcFRGL	Digestive
+J2_bcFRMM	Muscle
+J2_bcFROO	Digestive
+J2_bcFRRE	Neural
+J2_bcFRSS	Muscle
+J2_bcFRSY	Neural
+J2_bcFRTS	Muscle
+J2_bcFRWK	Muscle
+J2_bcFRWY	Neural
+J2_bcFSGL	Digestive
+J2_bcFSGZ	Neoblast
+J2_bcFSIS	Digestive
+J2_bcFSJK	Neoblast
+J2_bcFSOH	Endodermal Progenitor
+J2_bcFSQJ	Neural
+J2_bcFSSA	Endoderm-like I
+J2_bcFSTH	Endoerm-like III
+J2_bcFSVO	Epidermal
+J2_bcFSWB	Muscle
+J2_bcFSYM	Epidermal
+J2_bcFSZP	Neural
+J2_bcFTCM	Neural
+J2_bcFTCY	Neoblast
+J2_bcFTHY	Neural
+J2_bcFTKO	Neural
+J2_bcFTKP	Muscle
+J2_bcFTMK	Digestive
+J2_bcFTMQ	Endoerm-like III
+J2_bcFTRT	Neural
+J2_bcFTSC	Epidermal Progenitor
+J2_bcFTTO	Endoerm-like III
+J2_bcFTVT	Neoblast
+J2_bcFTWF	Neural
+J2_bcFTYL	Neural
+J2_bcFUCG	Endoerm-like III
+J2_bcFUDG	Digestive
+J2_bcFUDM	Neural
+J2_bcFUGV	Neoblast
+J2_bcFUGZ	Neoblast
+J2_bcFUHT	Muscle
+J2_bcFUKR	Neural
+J2_bcFUNO	Muscle
+J2_bcFUPN	Neural
+J2_bcFUTR	Neural
+J2_bcFUTX	Endoderm-like I
+J2_bcFUVH	Muscle
+J2_bcFUWL	Endoderm-like I
+J2_bcFUWU	Neoblast
+J2_bcFUXG	Neoblast
+J2_bcFVEM	Digestive
+J2_bcFVFE	Neural
+J2_bcFVGP	Neural
+J2_bcFVHA	Neural
+J2_bcFVHZ	Neural
+J2_bcFVLD	Muscle
+J2_bcFVLK	Neural
+J2_bcFVOE	Neural
+J2_bcFVOU	Digestive
+J2_bcFVPZ	Neural
+J2_bcFVWC	Endodermal Progenitor
+J2_bcFWBD	Endoderm-like I
+J2_bcFWCC	Muscle
+J2_bcFWFA	Epidermal
+J2_bcFWGA	Muscle
+J2_bcFWHU	Epidermal Progenitor
+J2_bcFWIF	Epidermal
+J2_bcFWIK	Muscle
+J2_bcFWKE	Neoblast
+J2_bcFWMX	Endoderm-like I
+J2_bcFWPK	Neoblast
+J2_bcFWSZ	Epidermal
+J2_bcFWUU	Neural
+J2_bcFXES	Epidermal Progenitor
+J2_bcFXHW	Epidermal
+J2_bcFXLY	Neural
+J2_bcFXND	Muscle
+J2_bcFXQP	Neural
+J2_bcFXRO	Muscle
+J2_bcFXTO	Neoblast
+J2_bcFXUU	Neural
+J2_bcFXYL	Neural
+J2_bcFXZM	Endodermal Progenitor
+J2_bcFYAI	Neoblast
+J2_bcFYBY	Digestive
+J2_bcFYGT	Endodermal Progenitor
+J2_bcFYIE	Digestive
+J2_bcFYKT	Muscle
+J2_bcFYKW	Digestive
+J2_bcFYNI	Endoderm-like II
+J2_bcFYNR	Digestive
+J2_bcFYOL	Neural
+J2_bcFYPK	Digestive
+J2_bcFYQB	Muscle
+J2_bcFYRM	Neural
+J2_bcFYSQ	Muscle
+J2_bcFYWA	Digestive
+J2_bcFYWY	Neural
+J2_bcFYYR	Neoblast
+J2_bcFYZP	Muscle
+J2_bcFZBK	Endoderm-like I
+J2_bcFZBS	Digestive
+J2_bcFZCC	Muscle
+J2_bcFZFM	Muscle
+J2_bcFZGJ	Endoderm-like I
+J2_bcFZHB	Endoderm-like II
+J2_bcFZIY	Digestive
+J2_bcFZMM	Digestive
+J2_bcGADD	Endoderm-like I
+J2_bcGAHX	Endoderm-like I
+J2_bcGAIC	Digestive
+J2_bcGAJI	Epidermal
+J2_bcGANZ	Neural
+J2_bcGAPG	Unknown
+J2_bcGAQD	Digestive
+J2_bcGAQV	Secretory
+J2_bcGARP	Neoblast
+J2_bcGASV	Epidermal Progenitor
+J2_bcGAUP	Muscle
+J2_bcGAUW	Epidermal
+J2_bcGAWP	Epidermal Progenitor
+J2_bcGAYQ	Neural
+J2_bcGBBH	Endodermal Progenitor
+J2_bcGBBZ	Neural
+J2_bcGBEU	Digestive
+J2_bcGBHC	Neural
+J2_bcGBJE	Epidermal
+J2_bcGBMZ	Epidermal
+J2_bcGBNJ	Endodermal Progenitor
+J2_bcGBRG	Epidermal
+J2_bcGBRQ	Muscle
+J2_bcGBSK	Secretory
+J2_bcGBUE	Neural
+J2_bcGBXZ	Muscle
+J2_bcGCAD	Digestive
+J2_bcGCMJ	Epidermal Progenitor
+J2_bcGCMV	Neural
+J2_bcGCMX	Neural
+J2_bcGCTC	Neoblast
+J2_bcGCUZ	Muscle
+J2_bcGCVA	Endodermal Progenitor
+J2_bcGCWP	Muscle
+J2_bcGCZB	Digestive
+J2_bcGDAK	Neural
+J2_bcGDDX	Neural
+J2_bcGDEL	Neural
+J2_bcGDEX	Digestive
+J2_bcGDND	Neural
+J2_bcGDUH	Neural
+J2_bcGDVN	Neoblast
+J2_bcGDWE	Endodermal Progenitor
+J2_bcGEAH	Endoerm-like III
+J2_bcGEDX	Muscle
+J2_bcGEIW	Endoderm-like II
+J2_bcGELS	Muscle
+J2_bcGENK	Neural
+J2_bcGERD	Endodermal Progenitor
+J2_bcGERG	Neoblast
+J2_bcGERU	Unknown
+J2_bcGESD	Endoderm-like I
+J2_bcGEUT	Digestive
+J2_bcGEXF	Digestive
+J2_bcGEYI	Muscle
+J2_bcGFBJ	Epidermal
+J2_bcGFFI	Endoderm-like I
+J2_bcGFFW	Digestive
+J2_bcGFIK	Neural
+J2_bcGFIY	Neural
+J2_bcGFMC	Neural
+J2_bcGFQO	Neural
+J2_bcGFUU	Endoderm-like I
+J2_bcGFYC	Muscle
+J2_bcGFZA	Epidermal Progenitor
+J2_bcGGAS	Neural
+J2_bcGGBG	Digestive
+J2_bcGGCY	Digestive
+J2_bcGGFX	Neural
+J2_bcGGGM	Unknown
+J2_bcGGGY	Digestive
+J2_bcGGLI	Unknown
+J2_bcGGNJ	Neural
+J2_bcGGOC	Unknown
+J2_bcGGPT	Neoblast
+J2_bcGGQD	Muscle
+J2_bcGGVL	Digestive
+J2_bcGGWU	Unknown
+J2_bcGGYA	Digestive
+J2_bcGHCG	Muscle
+J2_bcGHKG	Secretory
+J2_bcGHNY	Neural
+J2_bcGHOX	Secretory
+J2_bcGHQC	Neural
+J2_bcGHSP	Digestive
+J2_bcGHUI	Muscle
+J2_bcGHUT	Muscle
+J2_bcGHXI	Neoblast
+J2_bcGHYR	Neural
+J2_bcGHZU	Unknown
+J2_bcGICD	Digestive
+J2_bcGICZ	Endodermal Progenitor
+J2_bcGIDX	Endodermal Progenitor
+J2_bcGIDY	Digestive
+J2_bcGIEP	Neural
+J2_bcGIFB	Neoblast
+J2_bcGIHB	Neural
+J2_bcGIIB	Digestive
+J2_bcGISM	Unknown
+J2_bcGIVG	Epidermal Progenitor
+J2_bcGJAB	Muscle
+J2_bcGJBW	Digestive
+J2_bcGJCA	Muscle
+J2_bcGJCV	Neural
+J2_bcGJGZ	Epidermal
+J2_bcGJHJ	Epidermal
+J2_bcGJHK	Muscle
+J2_bcGJID	Neoblast
+J2_bcGJIY	Neural
+J2_bcGJLJ	Epidermal Progenitor
+J2_bcGJMI	Endoderm-like I
+J2_bcGJST	Neoblast
+J2_bcGJVW	Endoderm-like I
+J2_bcGJXP	Epidermal Progenitor
+J2_bcGJYO	Muscle
+J2_bcGKAK	Neural
+J2_bcGKFA	Muscle
+J2_bcGKFK	Digestive
+J2_bcGKKJ	Neural
+J2_bcGKKY	Digestive
+J2_bcGKMY	Epidermal
+J2_bcGKNS	Unknown
+J2_bcGKOC	Muscle
+J2_bcGKQN	Muscle
+J2_bcGKXB	Unknown
+J2_bcGKYQ	Neural
+J2_bcGKYT	Muscle
+J2_bcGKZC	Unknown
+J2_bcGLBJ	Epidermal
+J2_bcGLEE	Muscle
+J2_bcGLHI	Muscle
+J2_bcGLHM	Endoderm-like II
+J2_bcGLKR	Muscle
+J2_bcGLLA	Neural
+J2_bcGLOO	Unknown
+J2_bcGLQD	Neoblast
+J2_bcGLYJ	Endoderm-like I
+J2_bcGMAJ	Endodermal Progenitor
+J2_bcGMCX	Epidermal
+J2_bcGMJN	Neural
+J2_bcGMKH	Neural
+J2_bcGMMC	Neural
+J2_bcGMOJ	Neoblast
+J2_bcGMUH	Digestive
+J2_bcGMUT	Muscle
+J2_bcGMXD	Unknown
+J2_bcGMXM	Digestive
+J2_bcGMZD	Epidermal
+J2_bcGNBY	Endoerm-like III
+J2_bcGNDM	Muscle
+J2_bcGNHH	Neural
+J2_bcGNIV	Digestive
+J2_bcGNJC	Muscle
+J2_bcGNJF	Digestive
+J2_bcGNKM	Neural
+J2_bcGNQW	Endodermal Progenitor
+J2_bcGOCB	Endoderm-like II
+J2_bcGOCK	Endodermal Progenitor
+J2_bcGOEQ	Neoblast
+J2_bcGOGH	Muscle
+J2_bcGONC	Digestive
+J2_bcGORW	Endoderm-like II
+J2_bcGPAU	Endodermal Progenitor
+J2_bcGPGG	Neural
+J2_bcGPGI	Endoderm-like I
+J2_bcGPHO	Neural
+J2_bcGPQB	Neural
+J2_bcGPQR	Unknown
+J2_bcGPRR	Neural
+J2_bcGPVP	Digestive
+J2_bcGPWD	Neural
+J2_bcGPWG	Endoerm-like III
+J2_bcGQCU	Neural
+J2_bcGQDW	Digestive
+J2_bcGQEO	Neoblast
+J2_bcGQLG	Neoblast
+J2_bcGQOY	Epidermal
+J2_bcGQSP	Muscle
+J2_bcGQVB	Neural
+J2_bcGQYA	Unknown
+J2_bcGQYG	Endodermal Progenitor
+J2_bcGQYZ	Neural
+J2_bcGRAA	Digestive
+J2_bcGRFA	Muscle
+J2_bcGRGD	Neural
+J2_bcGRGH	Neural
+J2_bcGRLU	Epidermal
+J2_bcGRUR	Endoerm-like III
+J2_bcGRVD	Muscle
+J2_bcGRWJ	Endodermal Progenitor
+J2_bcGRWN	Neural
+J2_bcGRYW	Muscle
+J2_bcGSAS	Unknown
+J2_bcGSAW	Muscle
+J2_bcGSBD	Neoblast
+J2_bcGSBL	Endoderm-like II
+J2_bcGSCF	Endoerm-like III
+J2_bcGSFU	Endoerm-like III
+J2_bcGSGH	Neural
+J2_bcGSJA	Muscle
+J2_bcGSLE	Neural
+J2_bcGSMI	Neural
+J2_bcGSNF	Endoderm-like I
+J2_bcGSQJ	Muscle
+J2_bcGSRB	Muscle
+J2_bcGSUZ	Neural
+J2_bcGSVE	Muscle
+J2_bcGSVY	Digestive
+J2_bcGSZX	Endoderm-like II
+J2_bcGTAF	Neural
+J2_bcGTAW	Neural
+J2_bcGTFZ	Neural
+J2_bcGTKW	Digestive
+J2_bcGTMV	Neoblast
+J2_bcGTNJ	Neoblast
+J2_bcGTNR	Epidermal Progenitor
+J2_bcGTQX	Endoderm-like I
+J2_bcGTWI	Endoderm-like I
+J2_bcGTYW	Digestive
+J2_bcGTZK	Neoblast
+J2_bcGTZS	Muscle
+J2_bcGUCF	Neoblast
+J2_bcGUGY	Epidermal
+J2_bcGUKD	Neoblast
+J2_bcGULE	Digestive
+J2_bcGULK	Endodermal Progenitor
+J2_bcGUMI	Neural
+J2_bcGUPS	Digestive
+J2_bcGUPW	Neoblast
+J2_bcGUSY	Endodermal Progenitor
+J2_bcGUTL	Endodermal Progenitor
+J2_bcGUUG	Neoblast
+J2_bcGUXK	Neural
+J2_bcGUYY	Endoderm-like I
+J2_bcGVEI	Digestive
+J2_bcGVFC	Neural
+J2_bcGVJD	Unknown
+J2_bcGVSP	Muscle
+J2_bcGVWB	Epidermal Progenitor
+J2_bcGVXD	Neural
+J2_bcGWEK	Endoderm-like I
+J2_bcGWHH	Digestive
+J2_bcGWHY	Neural
+J2_bcGWJC	Neural
+J2_bcGWJS	Digestive
+J2_bcGWKR	Muscle
+J2_bcGWMJ	Digestive
+J2_bcGWQU	Epidermal
+J2_bcGWRM	Neural
+J2_bcGWSH	Epidermal
+J2_bcGWTA	Endodermal Progenitor
+J2_bcGWVF	Neural
+J2_bcGWVW	Endodermal Progenitor
+J2_bcGWWI	Muscle
+J2_bcGXAU	Unknown
+J2_bcGXBL	Muscle
+J2_bcGXCE	Endoderm-like I
+J2_bcGXFU	Neoblast
+J2_bcGXLA	Epidermal
+J2_bcGXLD	Neural
+J2_bcGXMN	Epidermal
+J2_bcGXMT	Endodermal Progenitor
+J2_bcGXMW	Endoerm-like III
+J2_bcGXNF	Neural
+J2_bcGXOC	Neoblast
+J2_bcGXQE	Neural
+J2_bcGXUD	Digestive
+J2_bcGXUW	Endoerm-like III
+J2_bcGXYC	Neural
+J2_bcGYAW	Digestive
+J2_bcGYBP	Muscle
+J2_bcGYBQ	Neural
+J2_bcGYDB	Muscle
+J2_bcGYEX	Neoblast
+J2_bcGYHD	Epidermal
+J2_bcGYHW	Digestive
+J2_bcGYKX	Muscle
+J2_bcGYMV	Endoderm-like I
+J2_bcGYNV	Digestive
+J2_bcGYNZ	Neural
+J2_bcGYOZ	Muscle
+J2_bcGYPG	Neural
+J2_bcGYQG	Neural
+J2_bcGYQV	Neural
+J2_bcGYRP	Muscle
+J2_bcGYXL	Epidermal
+J2_bcGYYS	Neural
+J2_bcGYZQ	Unknown
+J2_bcGYZR	Digestive
+J2_bcGZCD	Neoblast
+J2_bcGZEH	Endoderm-like I
+J2_bcGZFK	Neural
+J2_bcGZFQ	Digestive
+J2_bcGZHB	Unknown
+J2_bcGZKJ	Epidermal
+J2_bcGZKY	Epidermal Progenitor
+J2_bcGZME	Endoderm-like II
+J2_bcGZPC	Endoderm-like I
+J2_bcGZRD	Endodermal Progenitor
+J2_bcGZRM	Neural
+J2_bcGZUM	Digestive
+J2_bcGZXJ	Epidermal
+J2_bcHADA	Digestive
+J2_bcHAEH	Muscle
+J2_bcHAEK	Digestive
+J2_bcHAEL	Neoblast
+J2_bcHAEW	Digestive
+J2_bcHAHM	Muscle
+J2_bcHAHS	Digestive
+J2_bcHAIG	Endodermal Progenitor
+J2_bcHAIX	Digestive
+J2_bcHALW	Neural
+J2_bcHAME	Endodermal Progenitor
+J2_bcHAML	Neoblast
+J2_bcHAMW	Endodermal Progenitor
+J2_bcHATT	Digestive
+J2_bcHAUX	Epidermal Progenitor
+J2_bcHAVU	Neural
+J2_bcHAVW	Digestive
+J2_bcHAYP	Epidermal Progenitor
+J2_bcHAZO	Neural
+J2_bcHBAZ	Neural
+J2_bcHBDR	Endoderm-like I
+J2_bcHBDZ	Epidermal
+J2_bcHBJD	Neural
+J2_bcHBJP	Digestive
+J2_bcHBJU	Unknown
+J2_bcHBKJ	Digestive
+J2_bcHBKK	Neoblast
+J2_bcHBMC	Neural
+J2_bcHBNF	Digestive
+J2_bcHBOE	Epidermal
+J2_bcHBOH	Secretory
+J2_bcHBOQ	Digestive
+J2_bcHBTG	Muscle
+J2_bcHBXM	Muscle
+J2_bcHBXZ	Neural
+J2_bcHCAA	Digestive
+J2_bcHCAF	Unknown
+J2_bcHCCM	Neural
+J2_bcHCFN	Neoblast
+J2_bcHCJJ	Neural
+J2_bcHCLD	Neural
+J2_bcHCNL	Epidermal Progenitor
+J2_bcHCOA	Epidermal Progenitor
+J2_bcHCPL	Muscle
+J2_bcHCTC	Secretory
+J2_bcHCTD	Neural
+J2_bcHCXA	Neural
+J2_bcHDCE	Neoblast
+J2_bcHDGM	Endoerm-like III
+J2_bcHDGT	Endoderm-like I
+J2_bcHDKH	Neural
+J2_bcHDPI	Neural
+J2_bcHDQC	Endoerm-like III
+J2_bcHDTK	Endoderm-like I
+J2_bcHDTU	Neural
+J2_bcHDUO	Secretory
+J2_bcHDVO	Endodermal Progenitor
+J2_bcHEBE	Endoderm-like I
+J2_bcHEHS	Endodermal Progenitor
+J2_bcHELS	Digestive
+J2_bcHENL	Muscle
+J2_bcHEOZ	Epidermal Progenitor
+J2_bcHERB	Neural
+J2_bcHESG	Neoblast
+J2_bcHEVN	Unknown
+J2_bcHEVR	Neural
+J2_bcHEZA	Secretory
+J2_bcHFAH	Neural
+J2_bcHFJX	Neoblast
+J2_bcHFML	Neural
+J2_bcHFNF	Neural
+J2_bcHFNS	Neural
+J2_bcHFSY	Epidermal Progenitor
+J2_bcHFXO	Epidermal
+J2_bcHFZH	Muscle
+J2_bcHGBY	Digestive
+J2_bcHGFF	Neural
+J2_bcHGGC	Neoblast
+J2_bcHGJG	Neural
+J2_bcHGKG	Neural
+J2_bcHGKT	Neural
+J2_bcHGTP	Neoblast
+J2_bcHGXY	Neural
+J2_bcHHAG	Neural
+J2_bcHHAZ	Neural
+J2_bcHHBK	Digestive
+J2_bcHHCA	Unknown
+J2_bcHHCE	Neoblast
+J2_bcHHGW	Neural
+J2_bcHHGZ	Neural
+J2_bcHHMJ	Muscle
+J2_bcHHPA	Neural
+J2_bcHHQV	Digestive
+J2_bcHHTL	Neural
+J2_bcHHVQ	Neoblast
+J2_bcHHWE	Neural
+J2_bcHIFX	Neoblast
+J2_bcHIGO	Neural
+J2_bcHIHG	Endoderm-like II
+J2_bcHIKZ	Muscle
+J2_bcHISQ	Unknown
+J2_bcHIUO	Neural
+J2_bcHIUV	Neoblast
+J2_bcHIVF	Muscle
+J2_bcHIXL	Endoerm-like III
+J2_bcHJAP	Neural
+J2_bcHJIB	Secretory
+J2_bcHJKX	Digestive
+J2_bcHJNJ	Epidermal
+J2_bcHJOF	Digestive
+J2_bcHJOZ	Digestive
+J2_bcHJSA	Muscle
+J2_bcHJST	Muscle
+J2_bcHJWU	Digestive
+J2_bcHJXA	Muscle
+J2_bcHJXD	Neural
+J2_bcHJXH	Unknown
+J2_bcHJXI	Neoblast
+J2_bcHJXV	Neoblast
+J2_bcHJZN	Endoerm-like III
+J2_bcHJZW	Muscle
+J2_bcHKAS	Unknown
+J2_bcHKHM	Digestive
+J2_bcHKJF	Neural
+J2_bcHKLD	Endoerm-like III
+J2_bcHKMR	Muscle
+J2_bcHKQP	Neoblast
+J2_bcHKRK	Epidermal Progenitor
+J2_bcHKTR	Neural
+J2_bcHKUQ	Epidermal
+J2_bcHKWF	Neural
+J2_bcHKZB	Neural
+J2_bcHLCW	Digestive
+J2_bcHLEG	Digestive
+J2_bcHLEJ	Neural
+J2_bcHLFF	Digestive
+J2_bcHLGC	Neural
+J2_bcHLJY	Neoblast
+J2_bcHLME	Digestive
+J2_bcHLNZ	Neural
+J2_bcHLOU	Neural
+J2_bcHLOZ	Muscle
+J2_bcHLQK	Neoblast
+J2_bcHLRC	Neural
+J2_bcHLSZ	Neoblast
+J2_bcHLTH	Endoderm-like I
+J2_bcHLTQ	Neural
+J2_bcHLTW	Neural
+J2_bcHLUH	Endodermal Progenitor
+J2_bcHLVE	Secretory
+J2_bcHLVN	Epidermal
+J2_bcHLWQ	Endoderm-like II
+J2_bcHMAE	Unknown
+J2_bcHMGT	Neoblast
+J2_bcHMJH	Neural
+J2_bcHMLW	Neoblast
+J2_bcHMOP	Digestive
+J2_bcHMPA	Muscle
+J2_bcHMRX	Neural
+J2_bcHMSU	Muscle
+J2_bcHMTL	Unknown
+J2_bcHMUZ	Endoderm-like I
+J2_bcHMVE	Neural
+J2_bcHNGZ	Neural
+J2_bcHNJP	Digestive
+J2_bcHNLQ	Digestive
+J2_bcHNME	Endodermal Progenitor
+J2_bcHNMU	Muscle
+J2_bcHNRH	Neural
+J2_bcHNRK	Muscle
+J2_bcHNRQ	Neural
+J2_bcHNSS	Endodermal Progenitor
+J2_bcHNTG	Neoblast
+J2_bcHNXA	Muscle
+J2_bcHNYP	Endodermal Progenitor
+J2_bcHNYQ	Neural
+J2_bcHOBH	Epidermal
+J2_bcHOEF	Endoderm-like I
+J2_bcHOKP	Epidermal
+J2_bcHOKR	Digestive
+J2_bcHOOE	Neural
+J2_bcHOOX	Muscle
+J2_bcHOUI	Epidermal
+J2_bcHOUN	Endoderm-like I
+J2_bcHOUV	Digestive
+J2_bcHOWA	Endoderm-like I
+J2_bcHOXM	Unknown
+J2_bcHPAA	Endodermal Progenitor
+J2_bcHPBD	Neural
+J2_bcHPBX	Endoderm-like I
+J2_bcHPCF	Digestive
+J2_bcHPDF	Digestive
+J2_bcHPFA	Muscle
+J2_bcHPGR	Unknown
+J2_bcHPKB	Digestive
+J2_bcHPKH	Digestive
+J2_bcHPPV	Muscle
+J2_bcHPQF	Muscle
+J2_bcHPQN	Neural
+J2_bcHPSI	Neoblast
+J2_bcHPTQ	Digestive
+J2_bcHPVG	Neural
+J2_bcHPVJ	Epidermal
+J2_bcHPZA	Neural
+J2_bcHPZV	Digestive
+J2_bcHQEX	Neural
+J2_bcHQNR	Neural
+J2_bcHQOT	Muscle
+J2_bcHQSE	Muscle
+J2_bcHQVI	Endoerm-like III
+J2_bcHQZO	Neoblast
+J2_bcHRAO	Digestive
+J2_bcHRAS	Neural
+J2_bcHRIL	Digestive
+J2_bcHRJR	Digestive
+J2_bcHRMJ	Neural
+J2_bcHRMR	Muscle
+J2_bcHRNH	Neural
+J2_bcHROD	Endoderm-like I
+J2_bcHRST	Neoblast
+J2_bcHRSW	Endodermal Progenitor
+J2_bcHRTJ	Unknown
+J2_bcHRVE	Muscle
+J2_bcHRYH	Endoderm-like II
+J2_bcHSAS	Endoderm-like II
+J2_bcHSEW	Neoblast
+J2_bcHSFR	Neoblast
+J2_bcHSGY	Neural
+J2_bcHSHU	Unknown
+J2_bcHSJL	Unknown
+J2_bcHSOE	Neural
+J2_bcHSON	Unknown
+J2_bcHSPX	Muscle
+J2_bcHSTW	Neural
+J2_bcHSUO	Endoerm-like III
+J2_bcHSUR	Neural
+J2_bcHSVW	Neural
+J2_bcHTBH	Muscle
+J2_bcHTBV	Muscle
+J2_bcHTDW	Digestive
+J2_bcHTEU	Epidermal
+J2_bcHTKX	Digestive
+J2_bcHTLM	Muscle
+J2_bcHTOM	Endodermal Progenitor
+J2_bcHTVG	Neural
+J2_bcHTWY	Digestive
+J2_bcHUCA	Endoderm-like I
+J2_bcHUJE	Muscle
+J2_bcHURR	Endodermal Progenitor
+J2_bcHUVH	Endoderm-like II
+J2_bcHUWE	Endoderm-like I
+J2_bcHUWL	Epidermal
+J2_bcHUYX	Digestive
+J2_bcHVCG	Epidermal
+J2_bcHVDZ	Neoblast
+J2_bcHVGG	Neural
+J2_bcHVGS	Neural
+J2_bcHVHS	Neural
+J2_bcHVNN	Epidermal
+J2_bcHVOS	Endodermal Progenitor
+J2_bcHVRA	Muscle
+J2_bcHVWW	Endoerm-like III
+J2_bcHVXF	Muscle
+J2_bcHWDI	Secretory
+J2_bcHWEX	Secretory
+J2_bcHWFL	Secretory
+J2_bcHWJV	Neoblast
+J2_bcHWKF	Neural
+J2_bcHWKL	Digestive
+J2_bcHWKP	Muscle
+J2_bcHWLX	Neural
+J2_bcHWMV	Digestive
+J2_bcHWQK	Neoblast
+J2_bcHWQX	Neural
+J2_bcHWSO	Digestive
+J2_bcHWTY	Epidermal
+J2_bcHWWW	Neural
+J2_bcHWZP	Digestive
+J2_bcHXFX	Endodermal Progenitor
+J2_bcHXID	Secretory
+J2_bcHXIM	Muscle
+J2_bcHXIR	Digestive
+J2_bcHXIW	Muscle
+J2_bcHXKS	Unknown
+J2_bcHXOO	Muscle
+J2_bcHXPH	Endoderm-like I
+J2_bcHXPK	Endoerm-like III
+J2_bcHXPY	Neural
+J2_bcHXQE	Muscle
+J2_bcHXUM	Digestive
+J2_bcHXVB	Neural
+J2_bcHYEQ	Digestive
+J2_bcHYGM	Muscle
+J2_bcHYGT	Epidermal
+J2_bcHYGU	Neural
+J2_bcHYHF	Neural
+J2_bcHYKJ	Epidermal
+J2_bcHYLK	Muscle
+J2_bcHYNJ	Endoderm-like I
+J2_bcHYRA	Unknown
+J2_bcHYRV	Endodermal Progenitor
+J2_bcHYVQ	Epidermal
+J2_bcHYYY	Digestive
+J2_bcHZAG	Digestive
+J2_bcHZAT	Epidermal
+J2_bcHZHG	Neural
+J2_bcHZJQ	Unknown
+J2_bcHZNC	Muscle
+J2_bcHZUQ	Epidermal
+J2_bcHZVB	Neoblast
+J2_bcHZVF	Digestive
+J2_bcHZVI	Digestive
+J2_bcHZXV	Muscle
+J2_bcHZYR	Neural
+J2_bcHZYU	Endoderm-like I
+J2_bcIAAR	Endoerm-like III
+J2_bcIAAW	Digestive
+J2_bcIABF	Digestive
+J2_bcIABQ	Neoblast
+J2_bcIACL	Digestive
+J2_bcIAFC	Endoerm-like III
+J2_bcIAGA	Digestive
+J2_bcIAHP	Digestive
+J2_bcIAJJ	Neoblast
+J2_bcIAKJ	Neural
+J2_bcIALS	Neural
+J2_bcIARG	Neural
+J2_bcIAYD	Digestive
+J2_bcIAYL	Endoderm-like II
+J2_bcIBAD	Endoderm-like II
+J2_bcIBAK	Endodermal Progenitor
+J2_bcIBJP	Muscle
+J2_bcIBJW	Neoblast
+J2_bcIBLL	Muscle
+J2_bcIBLU	Digestive
+J2_bcIBMI	Muscle
+J2_bcIBNH	Muscle
+J2_bcIBNJ	Neural
+J2_bcIBNZ	Neural
+J2_bcIBSS	Muscle
+J2_bcIBUI	Digestive
+J2_bcIBWA	Neural
+J2_bcIBWP	Endodermal Progenitor
+J2_bcIBXT	Digestive
+J2_bcIBZI	Unknown
+J2_bcICAG	Epidermal
+J2_bcICBC	Muscle
+J2_bcICCJ	Muscle
+J2_bcICDU	Muscle
+J2_bcICDV	Endoderm-like I
+J2_bcICEP	Neural
+J2_bcICFG	Unknown
+J2_bcICFI	Muscle
+J2_bcICKV	Endodermal Progenitor
+J2_bcICMX	Unknown
+J2_bcICNR	Neural
+J2_bcICOL	Neural
+J2_bcICSN	Muscle
+J2_bcICTI	Epidermal
+J2_bcICTJ	Endoderm-like I
+J2_bcICVW	Digestive
+J2_bcICVZ	Endodermal Progenitor
+J2_bcICXC	Endoerm-like III
+J2_bcIDCC	Unknown
+J2_bcIDGN	Neural
+J2_bcIDJV	Secretory
+J2_bcIDPM	Endodermal Progenitor
+J2_bcIDPX	Endodermal Progenitor
+J2_bcIDWD	Neural
+J2_bcIDXB	Unknown
+J2_bcIDXJ	Neural
+J2_bcIDZX	Secretory
+J2_bcIEAP	Neoblast
+J2_bcIEAT	Digestive
+J2_bcIEBI	Muscle
+J2_bcIEFJ	Neural
+J2_bcIEKD	Endoerm-like III
+J2_bcIELI	Endodermal Progenitor
+J2_bcIENK	Muscle
+J2_bcIENY	Muscle
+J2_bcIEON	Epidermal
+J2_bcIEPI	Neural
+J2_bcIEPQ	Muscle
+J2_bcIEUY	Neural
+J2_bcIEZK	Digestive
+J2_bcIFBA	Neoblast
+J2_bcIFBM	Neural
+J2_bcIFCD	Muscle
+J2_bcIFFP	Neural
+J2_bcIFIB	Endoderm-like I
+J2_bcIFMK	Muscle
+J2_bcIFNA	Endodermal Progenitor
+J2_bcIFPW	Neural
+J2_bcIFVE	Digestive
+J2_bcIFVS	Digestive
+J2_bcIFWI	Digestive
+J2_bcIFXQ	Neural
+J2_bcIFZI	Digestive
+J2_bcIGBI	Unknown
+J2_bcIGCL	Endodermal Progenitor
+J2_bcIGES	Neoblast
+J2_bcIGFS	Muscle
+J2_bcIGGH	Neural
+J2_bcIGHM	Muscle
+J2_bcIGOZ	Muscle
+J2_bcIGRM	Digestive
+J2_bcIGRS	Endoderm-like II
+J2_bcIGRU	Epidermal
+J2_bcIGVH	Endodermal Progenitor
+J2_bcIGWG	Endoderm-like I
+J2_bcIGXL	Neural
+J2_bcIGXZ	Neural
+J2_bcIHGD	Endoderm-like II
+J2_bcIHHL	Digestive
+J2_bcIHJZ	Epidermal
+J2_bcIHQT	Neural
+J2_bcIHQZ	Neoblast
+J2_bcIHRS	Neural
+J2_bcIHSZ	Neural
+J2_bcIHTU	Epidermal Progenitor
+J2_bcIHVB	Digestive
+J2_bcIHVC	Digestive
+J2_bcIHYR	Digestive
+J2_bcIHZY	Epidermal Progenitor
+J2_bcIIAZ	Endoderm-like I
+J2_bcIIBR	Neural
+J2_bcIIKG	Digestive
+J2_bcIIKP	Neural
+J2_bcIIWG	Secretory
+J2_bcIIWP	Muscle
+J2_bcIIXD	Neural
+J2_bcIJBR	Muscle
+J2_bcIJDS	Neoblast
+J2_bcIJGK	Neural
+J2_bcIJHU	Digestive
+J2_bcIJJM	Endoderm-like I
+J2_bcIJPX	Muscle
+J2_bcIJXL	Neural
+J2_bcIKAX	Muscle
+J2_bcIKBL	Neural
+J2_bcIKCH	Muscle
+J3_bcAABW	Muscle
+J3_bcAAFJ	Muscle
+J3_bcAAHB	Muscle
+J3_bcAAMN	Neoblast
+J3_bcAANA	Epidermal Progenitor
+J3_bcAANZ	Neural
+J3_bcAAOA	Digestive
+J3_bcAAOM	Endoderm-like I
+J3_bcAAPZ	Endodermal Progenitor
+J3_bcAARC	Digestive
+J3_bcABCY	Digestive
+J3_bcABDJ	Secretory
+J3_bcABER	Neural
+J3_bcABGM	Unknown
+J3_bcABGQ	Neural
+J3_bcABIT	Unknown
+J3_bcABQE	Neural
+J3_bcABSK	Neural
+J3_bcABVD	Endodermal Progenitor
+J3_bcABXX	Neural
+J3_bcACAO	Digestive
+J3_bcACCH	Unknown
+J3_bcACFM	Muscle
+J3_bcACGD	Digestive
+J3_bcACIM	Neural
+J3_bcACME	Unknown
+J3_bcACNH	Muscle
+J3_bcACNK	Muscle
+J3_bcACPC	Epidermal
+J3_bcACUH	Muscle
+J3_bcACXH	Endoderm-like I
+J3_bcACYF	Endodermal Progenitor
+J3_bcACYO	Muscle
+J3_bcACZJ	Digestive
+J3_bcADAV	Endodermal Progenitor
+J3_bcADAX	Epidermal Progenitor
+J3_bcADBB	Digestive
+J3_bcADDG	Digestive
+J3_bcADLL	Neural
+J3_bcADQY	Neural
+J3_bcADSL	Digestive
+J3_bcADXF	Neural
+J3_bcADYH	Neural
+J3_bcADZW	Epidermal
+J3_bcAEBN	Digestive
+J3_bcAECG	Endoderm-like II
+J3_bcAEDK	Endoderm-like I
+J3_bcAEGV	Neural
+J3_bcAEHW	Neural
+J3_bcAEID	Neoblast
+J3_bcAEIM	Digestive
+J3_bcAEKZ	Neoblast
+J3_bcAEOR	Neoblast
+J3_bcAEOZ	Endodermal Progenitor
+J3_bcAETN	Epidermal
+J3_bcAEUN	Epidermal Progenitor
+J3_bcAEZT	Muscle
+J3_bcAFBC	Unknown
+J3_bcAFBN	Neural
+J3_bcAFCS	Muscle
+J3_bcAFCU	Muscle
+J3_bcAFJT	Digestive
+J3_bcAFKO	Muscle
+J3_bcAFOE	Muscle
+J3_bcAFPC	Neural
+J3_bcAFPI	Neoblast
+J3_bcAFQD	Endoderm-like I
+J3_bcAFQJ	Muscle
+J3_bcAFSH	Endoderm-like II
+J3_bcAFTO	Endodermal Progenitor
+J3_bcAFTS	Epidermal
+J3_bcAGAP	Endoderm-like II
+J3_bcAGBB	Neoblast
+J3_bcAGMG	Endoerm-like III
+J3_bcAGQH	Endodermal Progenitor
+J3_bcAGUE	Muscle
+J3_bcAHBO	Neoblast
+J3_bcAHEF	Muscle
+J3_bcAHEX	Endoerm-like III
+J3_bcAHIW	Endoderm-like I
+J3_bcAHJB	Endodermal Progenitor
+J3_bcAHKL	Neural
+J3_bcAHNR	Digestive
+J3_bcAHQK	Endoderm-like II
+J3_bcAHUE	Endodermal Progenitor
+J3_bcAHUW	Neural
+J3_bcAHYV	Muscle
+J3_bcAICH	Neural
+J3_bcAIEY	Neural
+J3_bcAIJH	Muscle
+J3_bcAILR	Epidermal
+J3_bcAITA	Digestive
+J3_bcAIWG	Neural
+J3_bcAIXO	Neoblast
+J3_bcAIZI	Digestive
+J3_bcAIZL	Muscle
+J3_bcAJAS	Muscle
+J3_bcAJCY	Neoblast
+J3_bcAJMM	Neural
+J3_bcAJNT	Neural
+J3_bcAJSC	Epidermal
+J3_bcAJUC	Endoderm-like II
+J3_bcAJUX	Muscle
+J3_bcAJYF	Epidermal
+J3_bcAJYS	Secretory
+J3_bcAKBH	Muscle
+J3_bcAKDD	Epidermal
+J3_bcAKDK	Muscle
+J3_bcAKER	Endodermal Progenitor
+J3_bcAKGA	Muscle
+J3_bcAKJB	Muscle
+J3_bcAKKQ	Epidermal
+J3_bcAKLC	Digestive
+J3_bcAKLF	Neural
+J3_bcAKLJ	Neural
+J3_bcAKLL	Digestive
+J3_bcAKPS	Neural
+J3_bcAKPT	Neural
+J3_bcAKSB	Epidermal
+J3_bcAKSG	Neoblast
+J3_bcAKTB	Muscle
+J3_bcAKTJ	Endoderm-like I
+J3_bcAKTS	Secretory
+J3_bcAKVY	Endodermal Progenitor
+J3_bcAKWH	Neural
+J3_bcALCK	Digestive
+J3_bcALCN	Endodermal Progenitor
+J3_bcALCX	Neural
+J3_bcALDM	Endodermal Progenitor
+J3_bcALFC	Epidermal
+J3_bcALIR	Neural
+J3_bcALNS	Neoblast
+J3_bcALSX	Muscle
+J3_bcALXA	Neural
+J3_bcALXF	Digestive
+J3_bcALXG	Muscle
+J3_bcALYF	Endoerm-like III
+J3_bcALZD	Unknown
+J3_bcALZS	Neural
+J3_bcAMFC	Digestive
+J3_bcAMIM	Muscle
+J3_bcAMJK	Endodermal Progenitor
+J3_bcAMKF	Epidermal Progenitor
+J3_bcAMMI	Neural
+J3_bcAMQQ	Neural
+J3_bcAMWV	Neural
+J3_bcANCS	Muscle
+J3_bcANCX	Digestive
+J3_bcANEC	Endoderm-like I
+J3_bcANGA	Neural
+J3_bcANJL	Digestive
+J3_bcANKC	Digestive
+J3_bcANNN	Neoblast
+J3_bcANOX	Muscle
+J3_bcANPO	Muscle
+J3_bcANSF	Endodermal Progenitor
+J3_bcANSN	Neural
+J3_bcANTN	Neural
+J3_bcANTP	Digestive
+J3_bcAOAC	Endoderm-like I
+J3_bcAODQ	Endoderm-like II
+J3_bcAODZ	Neural
+J3_bcAOFC	Muscle
+J3_bcAOFD	Digestive
+J3_bcAOIC	Endoerm-like III
+J3_bcAORJ	Neural
+J3_bcAOST	Neoblast
+J3_bcAOTV	Endoderm-like I
+J3_bcAOUG	Digestive
+J3_bcAOWJ	Neural
+J3_bcAOZV	Endoerm-like III
+J3_bcAPAH	Muscle
+J3_bcAPRE	Neoblast
+J3_bcAPTD	Neoblast
+J3_bcAPUY	Muscle
+J3_bcAPWU	Neural
+J3_bcAPXT	Neural
+J3_bcAPXU	Digestive
+J3_bcAQBA	Endoderm-like II
+J3_bcAQEL	Digestive
+J3_bcAQGY	Neural
+J3_bcAQQM	Muscle
+J3_bcAQRG	Digestive
+J3_bcAQWI	Neoblast
+J3_bcAQZC	Neural
+J3_bcARAA	Digestive
+J3_bcARAG	Digestive
+J3_bcARNH	Neural
+J3_bcAROK	Neural
+J3_bcARQJ	Secretory
+J3_bcARRM	Endodermal Progenitor
+J3_bcARTB	Neoblast
+J3_bcASEM	Neural
+J3_bcASKS	Neoblast
+J3_bcASOT	Endoerm-like III
+J3_bcASTO	Neural
+J3_bcASTS	Neural
+J3_bcASVW	Neoblast
+J3_bcASXP	Neoblast
+J3_bcATCH	Neural
+J3_bcATDH	Unknown
+J3_bcATFT	Muscle
+J3_bcATGH	Muscle
+J3_bcATKB	Endodermal Progenitor
+J3_bcATKG	Digestive
+J3_bcATLH	Digestive
+J3_bcATLR	Neoblast
+J3_bcATTS	Digestive
+J3_bcATYP	Muscle
+J3_bcAUAA	Secretory
+J3_bcAUEA	Endodermal Progenitor
+J3_bcAUJQ	Endodermal Progenitor
+J3_bcAUKD	Digestive
+J3_bcAULG	Digestive
+J3_bcAUOL	Neoblast
+J3_bcAUPF	Neural
+J3_bcAUQU	Muscle
+J3_bcAUSL	Digestive
+J3_bcAUTX	Neural
+J3_bcAUYX	Neoblast
+J3_bcAVRV	Endoderm-like I
+J3_bcAWEY	Endoderm-like I
+J3_bcAWFQ	Unknown
+J3_bcAWKF	Muscle
+J3_bcAWRB	Neural
+J3_bcAWRP	Endodermal Progenitor
+J3_bcAWSK	Neural
+J3_bcAWUY	Digestive
+J3_bcAWZE	Neoblast
+J3_bcAXBT	Epidermal
+J3_bcAXCW	Neural
+J3_bcAXLU	Endoerm-like III
+J3_bcAXRF	Unknown
+J3_bcAXTL	Digestive
+J3_bcAXVG	Muscle
+J3_bcAXWW	Endoerm-like III
+J3_bcAXYO	Endoderm-like I
+J3_bcAYCV	Digestive
+J3_bcAYEK	Muscle
+J3_bcAYEX	Muscle
+J3_bcAYGW	Neural
+J3_bcAYKS	Neural
+J3_bcAYMB	Endodermal Progenitor
+J3_bcAYOM	Epidermal
+J3_bcAYPE	Neural
+J3_bcAYPM	Secretory
+J3_bcAYZS	Endoderm-like II
+J3_bcAZJJ	Endodermal Progenitor
+J3_bcAZKN	Neural
+J3_bcAZKP	Epidermal
+J3_bcAZLQ	Neural
+J3_bcAZMC	Endoerm-like III
+J3_bcAZNV	Muscle
+J3_bcAZPM	Unknown
+J3_bcAZQJ	Neural
+J3_bcAZQK	Muscle
+J3_bcAZSW	Muscle
+J3_bcAZUO	Neoblast
+J3_bcBAGS	Endoerm-like III
+J3_bcBAKJ	Neural
+J3_bcBALO	Endoderm-like II
+J3_bcBANG	Endodermal Progenitor
+J3_bcBANZ	Muscle
+J3_bcBATJ	Epidermal Progenitor
+J3_bcBAXQ	Muscle
+J3_bcBAXX	Digestive
+J3_bcBBFE	Epidermal
+J3_bcBBSZ	Muscle
+J3_bcBCFG	Neural
+J3_bcBCGR	Neural
+J3_bcBCHH	Neural
+J3_bcBCKF	Muscle
+J3_bcBCKK	Epidermal Progenitor
+J3_bcBCLK	Epidermal Progenitor
+J3_bcBCLP	Muscle
+J3_bcBCNS	Endoderm-like II
+J3_bcBCSS	Epidermal
+J3_bcBCSX	Neural
+J3_bcBCTI	Digestive
+J3_bcBCVV	Neoblast
+J3_bcBCWF	Epidermal Progenitor
+J3_bcBCXI	Endodermal Progenitor
+J3_bcBDBA	Endoderm-like I
+J3_bcBDLQ	Muscle
+J3_bcBDUQ	Neoblast
+J3_bcBDUV	Neural
+J3_bcBDXF	Neural
+J3_bcBDYE	Endodermal Progenitor
+J3_bcBECI	Secretory
+J3_bcBEDV	Neoblast
+J3_bcBEHH	Endoerm-like III
+J3_bcBEJF	Digestive
+J3_bcBEQW	Endoerm-like III
+J3_bcBERC	Endodermal Progenitor
+J3_bcBETP	Endoerm-like III
+J3_bcBEWX	Unknown
+J3_bcBEYG	Muscle
+J3_bcBEYT	Neural
+J3_bcBFCG	Endoderm-like I
+J3_bcBFEB	Muscle
+J3_bcBFGT	Muscle
+J3_bcBFVC	Muscle
+J3_bcBFWA	Muscle
+J3_bcBFXO	Muscle
+J3_bcBGAQ	Digestive
+J3_bcBGHQ	Muscle
+J3_bcBGMF	Epidermal Progenitor
+J3_bcBGRX	Endoderm-like I
+J3_bcBGSB	Neural
+J3_bcBGUP	Endoderm-like I
+J3_bcBGYQ	Muscle
+J3_bcBHAO	Secretory
+J3_bcBHAQ	Neural
+J3_bcBHBB	Neural
+J3_bcBHBR	Muscle
+J3_bcBHGX	Neural
+J3_bcBHKI	Endoderm-like I
+J3_bcBIAZ	Endodermal Progenitor
+J3_bcBICA	Neural
+J3_bcBIGP	Endoderm-like I
+J3_bcBIHE	Neoblast
+J3_bcBIIA	Neoblast
+J3_bcBIJU	Muscle
+J3_bcBIMB	Unknown
+J3_bcBIUJ	Muscle
+J3_bcBIWO	Neural
+J3_bcBIYI	Digestive
+J3_bcBJCB	Digestive
+J3_bcBJEE	Neural
+J3_bcBJEO	Neural
+J3_bcBJIH	Endodermal Progenitor
+J3_bcBJRI	Endodermal Progenitor
+J3_bcBJSF	Neural
+J3_bcBJTP	Muscle
+J3_bcBJUY	Endoderm-like I
+J3_bcBJVL	Neoblast
+J3_bcBKAD	Digestive
+J3_bcBKBC	Neoblast
+J3_bcBKFO	Neural
+J3_bcBKHL	Neural
+J3_bcBKIC	Muscle
+J3_bcBKIY	Muscle
+J3_bcBKOE	Endoderm-like I
+J3_bcBKPT	Neoblast
+J3_bcBKTS	Endoerm-like III
+J3_bcBKVF	Muscle
+J3_bcBKXA	Secretory
+J3_bcBLEW	Muscle
+J3_bcBLKT	Secretory
+J3_bcBLNM	Digestive
+J3_bcBMAH	Endoderm-like I
+J3_bcBMBB	Secretory
+J3_bcBMEC	Secretory
+J3_bcBMHT	Muscle
+J3_bcBMJM	Endoderm-like II
+J3_bcBMMH	Neural
+J3_bcBMMM	Neoblast
+J3_bcBMOB	Neural
+J3_bcBMPJ	Neural
+J3_bcBMRK	Muscle
+J3_bcBMTI	Neural
+J3_bcBMUT	Neural
+J3_bcBMWQ	Endodermal Progenitor
+J3_bcBNCM	Neural
+J3_bcBNGJ	Unknown
+J3_bcBNGL	Unknown
+J3_bcBNHQ	Muscle
+J3_bcBNJY	Neural
+J3_bcBNLJ	Digestive
+J3_bcBNNH	Neural
+J3_bcBNRA	Epidermal
+J3_bcBNRL	Muscle
+J3_bcBNRM	Neural
+J3_bcBNTY	Epidermal
+J3_bcBNUG	Endodermal Progenitor
+J3_bcBOBL	Digestive
+J3_bcBOCF	Digestive
+J3_bcBODH	Neural
+J3_bcBOFO	Neoblast
+J3_bcBOIF	Neural
+J3_bcBOJJ	Neural
+J3_bcBOJL	Neural
+J3_bcBOKT	Neural
+J3_bcBOMF	Neural
+J3_bcBONZ	Neural
+J3_bcBOOD	Digestive
+J3_bcBOOV	Epidermal
+J3_bcBOSY	Endoderm-like I
+J3_bcBOWQ	Unknown
+J3_bcBOXJ	Epidermal
+J3_bcBPAL	Unknown
+J3_bcBPCI	Digestive
+J3_bcBPDK	Neural
+J3_bcBPEK	Epidermal
+J3_bcBPFF	Endoderm-like I
+J3_bcBPHY	Muscle
+J3_bcBPIV	Muscle
+J3_bcBPJQ	Digestive
+J3_bcBPKF	Secretory
+J3_bcBPMI	Endoderm-like I
+J3_bcBPOU	Muscle
+J3_bcBPXQ	Neural
+J3_bcBQCT	Endoderm-like I
+J3_bcBQDA	Muscle
+J3_bcBQEF	Endoderm-like I
+J3_bcBQFG	Digestive
+J3_bcBQHA	Neural
+J3_bcBQKW	Neural
+J3_bcBQMY	Neural
+J3_bcBQRF	Digestive
+J3_bcBQRG	Digestive
+J3_bcBQSU	Neural
+J3_bcBQZO	Digestive
+J3_bcBQZY	Muscle
+J3_bcBRBD	Unknown
+J3_bcBRGW	Neoblast
+J3_bcBRHB	Unknown
+J3_bcBRQY	Epidermal Progenitor
+J3_bcBRTO	Epidermal
+J3_bcBRUS	Neoblast
+J3_bcBRVF	Neural
+J3_bcBRVI	Muscle
+J3_bcBRWG	Neoblast
+J3_bcBRWM	Neural
+J3_bcBRZT	Neural
+J3_bcBSAG	Muscle
+J3_bcBSDJ	Digestive
+J3_bcBSDY	Unknown
+J3_bcBSEZ	Neural
+J3_bcBSGZ	Neural
+J3_bcBSIX	Digestive
+J3_bcBSSO	Muscle
+J3_bcBSTZ	Digestive
+J3_bcBSXB	Epidermal
+J3_bcBTAN	Muscle
+J3_bcBTGX	Muscle
+J3_bcBTHL	Endoerm-like III
+J3_bcBTKN	Neural
+J3_bcBTLG	Epidermal
+J3_bcBTMG	Epidermal
+J3_bcBTMX	Neural
+J3_bcBTMY	Endoerm-like III
+J3_bcBTNZ	Endodermal Progenitor
+J3_bcBTTL	Epidermal
+J3_bcBUCE	Neural
+J3_bcBUCP	Neural
+J3_bcBUJH	Endoerm-like III
+J3_bcBUON	Digestive
+J3_bcBUPT	Muscle
+J3_bcBURL	Neural
+J3_bcBVBH	Neural
+J3_bcBVCT	Unknown
+J3_bcBVEG	Endoderm-like I
+J3_bcBVGJ	Neural
+J3_bcBVNV	Neural
+J3_bcBVOD	Muscle
+J3_bcBVQW	Endodermal Progenitor
+J3_bcBVUL	Muscle
+J3_bcBVYN	Neoblast
+J3_bcBVZO	Epidermal
+J3_bcBWFX	Neural
+J3_bcBWGZ	Neural
+J3_bcBWHK	Epidermal Progenitor
+J3_bcBWKM	Muscle
+J3_bcBWLT	Neoblast
+J3_bcBWNP	Neural
+J3_bcBWPK	Endodermal Progenitor
+J3_bcBWQN	Neoblast
+J3_bcBWSZ	Endoderm-like I
+J3_bcBWTW	Endoderm-like II
+J3_bcBWWB	Neural
+J3_bcBWWY	Digestive
+J3_bcBXAJ	Epidermal
+J3_bcBXIE	Muscle
+J3_bcBXIP	Digestive
+J3_bcBXMY	Digestive
+J3_bcBXPE	Endoderm-like I
+J3_bcBXVO	Endoderm-like I
+J3_bcBXXA	Muscle
+J3_bcBXYI	Unknown
+J3_bcBXZP	Neural
+J3_bcBYAT	Neoblast
+J3_bcBYBE	Neural
+J3_bcBYES	Muscle
+J3_bcBYNW	Unknown
+J3_bcBYNZ	Neural
+J3_bcBYOX	Digestive
+J3_bcBZGB	Digestive
+J3_bcBZHT	Endoderm-like I
+J3_bcBZIM	Endoerm-like III
+J3_bcBZKI	Endodermal Progenitor
+J3_bcBZMA	Muscle
+J3_bcBZNB	Digestive
+J3_bcBZPM	Digestive
+J3_bcBZRA	Neural
+J3_bcBZWX	Endoerm-like III
+J3_bcCACF	Neural
+J3_bcCAGH	Secretory
+J3_bcCAIL	Neural
+J3_bcCAKA	Muscle
+J3_bcCAKG	Digestive
+J3_bcCANB	Secretory
+J3_bcCAOI	Endoderm-like I
+J3_bcCARU	Endodermal Progenitor
+J3_bcCASE	Unknown
+J3_bcCAUW	Digestive
+J3_bcCBAC	Unknown
+J3_bcCBAD	Epidermal
+J3_bcCBCH	Neural
+J3_bcCBDG	Endoderm-like I
+J3_bcCBIG	Neural
+J3_bcCBIS	Unknown
+J3_bcCBRG	Neural
+J3_bcCBWZ	Epidermal
+J3_bcCCAL	Neural
+J3_bcCCBU	Neural
+J3_bcCCEP	Neoblast
+J3_bcCCKS	Endoderm-like I
+J3_bcCCKV	Epidermal
+J3_bcCCLE	Neural
+J3_bcCCNQ	Digestive
+J3_bcCCRN	Neural
+J3_bcCCSO	Neural
+J3_bcCCTJ	Neural
+J3_bcCCTS	Neural
+J3_bcCCXX	Neural
+J3_bcCCZC	Neural
+J3_bcCCZS	Unknown
+J3_bcCCZU	Muscle
+J3_bcCDAC	Neural
+J3_bcCDBT	Neural
+J3_bcCDEV	Epidermal
+J3_bcCDJC	Muscle
+J3_bcCDLB	Digestive
+J3_bcCDLV	Neoblast
+J3_bcCDPI	Neural
+J3_bcCDQL	Epidermal
+J3_bcCDRT	Neural
+J3_bcCDWK	Neoblast
+J3_bcCDZB	Epidermal
+J3_bcCDZL	Muscle
+J3_bcCECC	Endoderm-like II
+J3_bcCEJK	Muscle
+J3_bcCEMR	Secretory
+J3_bcCENI	Unknown
+J3_bcCERK	Digestive
+J3_bcCESB	Digestive
+J3_bcCESL	Unknown
+J3_bcCEXD	Muscle
+J3_bcCEXU	Digestive
+J3_bcCEZD	Digestive
+J3_bcCFDM	Endoderm-like I
+J3_bcCFIX	Neural
+J3_bcCFSB	Epidermal
+J3_bcCFTX	Endoderm-like I
+J3_bcCFUT	Neoblast
+J3_bcCFWR	Endoderm-like II
+J3_bcCGAP	Neoblast
+J3_bcCGAR	Epidermal
+J3_bcCGBC	Neural
+J3_bcCGGN	Neoblast
+J3_bcCGHA	Neoblast
+J3_bcCGKH	Epidermal
+J3_bcCGKI	Muscle
+J3_bcCGLT	Digestive
+J3_bcCGMS	Endoerm-like III
+J3_bcCGPW	Muscle
+J3_bcCGSI	Unknown
+J3_bcCHAO	Epidermal
+J3_bcCHEW	Neoblast
+J3_bcCHIG	Muscle
+J3_bcCHKA	Digestive
+J3_bcCHPU	Neural
+J3_bcCHRW	Digestive
+J3_bcCHVH	Epidermal
+J3_bcCHYB	Endoderm-like I
+J3_bcCICA	Neural
+J3_bcCIHM	Digestive
+J3_bcCIHS	Digestive
+J3_bcCIML	Neural
+J3_bcCIOD	Neural
+J3_bcCIRX	Muscle
+J3_bcCIXQ	Epidermal Progenitor
+J3_bcCIXV	Muscle
+J3_bcCIXZ	Neoblast
+J3_bcCJAA	Neoblast
+J3_bcCJFC	Digestive
+J3_bcCJKO	Endoderm-like I
+J3_bcCJLD	Muscle
+J3_bcCJRN	Neural
+J3_bcCJRO	Neural
+J3_bcCJTJ	Neoblast
+J3_bcCJVG	Endodermal Progenitor
+J3_bcCJVT	Epidermal
+J3_bcCJWA	Neural
+J3_bcCJXS	Endoerm-like III
+J3_bcCJYN	Unknown
+J3_bcCJZY	Neural
+J3_bcCKJF	Muscle
+J3_bcCKJH	Muscle
+J3_bcCKKD	Epidermal
+J3_bcCKMO	Digestive
+J3_bcCKNA	Neural
+J3_bcCKQT	Endoderm-like I
+J3_bcCKRA	Muscle
+J3_bcCKVQ	Neural
+J3_bcCKWS	Secretory
+J3_bcCKXL	Endodermal Progenitor
+J3_bcCKZN	Neural
+J3_bcCLCV	Unknown
+J3_bcCLEK	Endodermal Progenitor
+J3_bcCLES	Neural
+J3_bcCLFU	Neural
+J3_bcCLOK	Neural
+J3_bcCLWG	Neoblast
+J3_bcCMCG	Digestive
+J3_bcCMFJ	Digestive
+J3_bcCMPL	Neural
+J3_bcCMSC	Neural
+J3_bcCMSK	Neural
+J3_bcCMUD	Muscle
+J3_bcCMXZ	Neoblast
+J3_bcCNHQ	Neural
+J3_bcCNJS	Neural
+J3_bcCNMC	Muscle
+J3_bcCNUR	Neural
+J3_bcCNWH	Digestive
+J3_bcCNZO	Endodermal Progenitor
+J3_bcCOBK	Neural
+J3_bcCOFM	Muscle
+J3_bcCOIA	Neural
+J3_bcCOIR	Neural
+J3_bcCOLU	Neural
+J3_bcCOPW	Neural
+J3_bcCOQX	Neural
+J3_bcCOSD	Neural
+J3_bcCOUH	Neural
+J3_bcCOWP	Neural
+J3_bcCOYR	Neural
+J3_bcCPCE	Digestive
+J3_bcCPJV	Digestive
+J3_bcCPMS	Neural
+J3_bcCQHI	Neoblast
+J3_bcCQLA	Neural
+J3_bcCQLR	Neural
+J3_bcCQNN	Endodermal Progenitor
+J3_bcCQSC	Unknown
+J3_bcCQTR	Endoerm-like III
+J3_bcCRDW	Epidermal
+J3_bcCRFW	Muscle
+J3_bcCRIJ	Endoderm-like I
+J3_bcCRIN	Digestive
+J3_bcCRTA	Epidermal Progenitor
+J3_bcCRTC	Endoderm-like I
+J3_bcCRVQ	Neoblast
+J3_bcCRYZ	Unknown
+J3_bcCSAJ	Endoderm-like I
+J3_bcCSAQ	Unknown
+J3_bcCSET	Digestive
+J3_bcCSJJ	Unknown
+J3_bcCSJT	Muscle
+J3_bcCSJX	Neural
+J3_bcCSKC	Digestive
+J3_bcCSNY	Neural
+J3_bcCSOT	Unknown
+J3_bcCSQK	Neural
+J3_bcCSSL	Digestive
+J3_bcCSSW	Epidermal Progenitor
+J3_bcCSVM	Muscle
+J3_bcCSWT	Neural
+J3_bcCSYC	Epidermal Progenitor
+J3_bcCSYP	Neural
+J3_bcCSYT	Neural
+J3_bcCTCI	Neural
+J3_bcCTCY	Epidermal
+J3_bcCTGA	Unknown
+J3_bcCTGI	Neoblast
+J3_bcCTLH	Muscle
+J3_bcCTOW	Epidermal Progenitor
+J3_bcCTQS	Digestive
+J3_bcCTUH	Neural
+J3_bcCTYF	Neoblast
+J3_bcCTYK	Epidermal
+J3_bcCTZD	Digestive
+J3_bcCUKY	Neural
+J3_bcCUMM	Digestive
+J3_bcCUMU	Digestive
+J3_bcCUPV	Endoerm-like III
+J3_bcCURB	Unknown
+J3_bcCURR	Muscle
+J3_bcCUWA	Epidermal
+J3_bcCUWS	Unknown
+J3_bcCUYR	Muscle
+J3_bcCVEL	Endoderm-like I
+J3_bcCVGA	Neural
+J3_bcCVHC	Neural
+J3_bcCVKM	Digestive
+J3_bcCVMS	Muscle
+J3_bcCVNP	Muscle
+J3_bcCVPQ	Neural
+J3_bcCVUC	Muscle
+J3_bcCVVH	Neural
+J3_bcCVXM	Secretory
+J3_bcCWGB	Neural
+J3_bcCWHN	Neoblast
+J3_bcCWMA	Epidermal
+J3_bcCWNN	Neural
+J3_bcCWSC	Unknown
+J3_bcCWVD	Neural
+J3_bcCWWL	Neoblast
+J3_bcCWYW	Unknown
+J3_bcCWZG	Secretory
+J3_bcCXAT	Endoderm-like I
+J3_bcCXBC	Muscle
+J3_bcCXBD	Neural
+J3_bcCXDK	Unknown
+J3_bcCXEM	Epidermal
+J3_bcCXFI	Secretory
+J3_bcCXGO	Digestive
+J3_bcCXLK	Muscle
+J3_bcCXLW	Endoderm-like I
+J3_bcCXOX	Endoderm-like II
+J3_bcCXOZ	Muscle
+J3_bcCXQQ	Unknown
+J3_bcCXTJ	Muscle
+J3_bcCXTP	Endoerm-like III
+J3_bcCXZV	Neural
+J3_bcCXZX	Epidermal Progenitor
+J3_bcCYAG	Epidermal
+J3_bcCYBG	Neural
+J3_bcCYDP	Neoblast
+J3_bcCYGK	Muscle
+J3_bcCYLS	Endodermal Progenitor
+J3_bcCYRM	Neural
+J3_bcCYTX	Neural
+J3_bcCZDT	Endoderm-like I
+J3_bcCZGU	Secretory
+J3_bcCZIT	Neural
+J3_bcCZJH	Digestive
+J3_bcCZPQ	Muscle
+J3_bcCZSB	Endodermal Progenitor
+J3_bcCZSX	Endodermal Progenitor
+J3_bcCZWA	Epidermal Progenitor
+J3_bcCZYI	Digestive
+J3_bcDAFE	Neural
+J3_bcDAJJ	Digestive
+J3_bcDAKN	Secretory
+J3_bcDALB	Neoblast
+J3_bcDANB	Unknown
+J3_bcDAQS	Digestive
+J3_bcDARS	Neural
+J3_bcDASX	Neural
+J3_bcDAZZ	Muscle
+J3_bcDBGQ	Muscle
+J3_bcDBKG	Neural
+J3_bcDBRW	Unknown
+J3_bcDBXR	Digestive
+J3_bcDCBC	Muscle
+J3_bcDCDL	Muscle
+J3_bcDCEG	Endoderm-like I
+J3_bcDCGH	Endodermal Progenitor
+J3_bcDCIX	Digestive
+J3_bcDCLO	Muscle
+J3_bcDCLS	Neural
+J3_bcDCMA	Digestive
+J3_bcDCRQ	Neural
+J3_bcDCWA	Digestive
+J3_bcDDFY	Endoderm-like I
+J3_bcDDGK	Secretory
+J3_bcDDHT	Muscle
+J3_bcDDJV	Digestive
+J3_bcDDJZ	Neural
+J3_bcDDOE	Muscle
+J3_bcDDPK	Neural
+J3_bcDDQF	Digestive
+J3_bcDDUF	Digestive
+J3_bcDDVD	Neural
+J3_bcDDVN	Neural
+J3_bcDDWT	Endoderm-like II
+J3_bcDEES	Endoderm-like I
+J3_bcDEGF	Epidermal
+J3_bcDEIK	Endoderm-like II
+J3_bcDEKM	Digestive
+J3_bcDEQT	Neural
+J3_bcDETI	Unknown
+J3_bcDEZA	Neoblast
+J3_bcDFCW	Neural
+J3_bcDFHB	Neural
+J3_bcDFHJ	Secretory
+J3_bcDFHW	Unknown
+J3_bcDFIV	Secretory
+J3_bcDFJG	Muscle
+J3_bcDFNE	Endodermal Progenitor
+J3_bcDFPI	Unknown
+J3_bcDFXS	Neoblast
+J3_bcDFYY	Digestive
+J3_bcDGAM	Neural
+J3_bcDGLE	Endodermal Progenitor
+J3_bcDGOG	Neural
+J3_bcDGQP	Digestive
+J3_bcDGTH	Epidermal Progenitor
+J3_bcDGXF	Muscle
+J3_bcDHID	Endoderm-like I
+J3_bcDHNL	Neural
+J3_bcDHRS	Endoderm-like I
+J3_bcDHTQ	Secretory
+J3_bcDIDG	Endodermal Progenitor
+J3_bcDIGU	Neural
+J3_bcDIIU	Neural
+J3_bcDIIY	Neural
+J3_bcDIKT	Epidermal
+J3_bcDILH	Unknown
+J3_bcDILP	Epidermal
+J3_bcDILX	Muscle
+J3_bcDIPG	Muscle
+J3_bcDIRV	Neural
+J3_bcDITX	Digestive
+J3_bcDIWC	Neural
+J3_bcDJCE	Neoblast
+J3_bcDJHS	Neoblast
+J3_bcDJRY	Muscle
+J3_bcDJUQ	Endoerm-like III
+J3_bcDKBE	Endodermal Progenitor
+J3_bcDKEI	Digestive
+J3_bcDKJM	Muscle
+J3_bcDKLT	Neural
+J3_bcDKNW	Endodermal Progenitor
+J3_bcDKOP	Muscle
+J3_bcDKPS	Neural
+J3_bcDKUK	Endoderm-like I
+J3_bcDKVT	Digestive
+J3_bcDKWQ	Muscle
+J3_bcDKXI	Neural
+J3_bcDLDV	Neural
+J3_bcDLEI	Unknown
+J3_bcDLGN	Digestive
+J3_bcDLOD	Endoderm-like I
+J3_bcDLOH	Muscle
+J3_bcDLTR	Neoblast
+J3_bcDLZA	Muscle
+J3_bcDMBC	Endoerm-like III
+J3_bcDMIE	Digestive
+J3_bcDMJP	Endoderm-like II
+J3_bcDMSR	Neoblast
+J3_bcDMTN	Muscle
+J3_bcDMVM	Secretory
+J3_bcDMZR	Neural
+J3_bcDNBO	Muscle
+J3_bcDNBU	Secretory
+J3_bcDNDZ	Endoderm-like I
+J3_bcDNIJ	Neoblast
+J3_bcDNKB	Neoblast
+J3_bcDNMA	Neoblast
+J3_bcDNRF	Digestive
+J3_bcDNUP	Neural
+J3_bcDNVI	Muscle
+J3_bcDNWI	Neoblast
+J3_bcDNYM	Epidermal
+J3_bcDNZA	Neoblast
+J3_bcDOCJ	Secretory
+J3_bcDOCN	Neural
+J3_bcDOJY	Muscle
+J3_bcDOYN	Digestive
+J3_bcDPEK	Neural
+J3_bcDPEZ	Neural
+J3_bcDPLP	Muscle
+J3_bcDPMJ	Endoderm-like I
+J3_bcDPQH	Digestive
+J3_bcDPSI	Neural
+J3_bcDQCX	Muscle
+J3_bcDQDL	Endodermal Progenitor
+J3_bcDQDN	Epidermal Progenitor
+J3_bcDQJI	Digestive
+J3_bcDQJN	Secretory
+J3_bcDQLC	Endoderm-like I
+J3_bcDQPG	Endodermal Progenitor
+J3_bcDQTM	Endodermal Progenitor
+J3_bcDQXJ	Epidermal Progenitor
+J3_bcDQZC	Neural
+J3_bcDQZV	Endoderm-like I
+J3_bcDRAM	Secretory
+J3_bcDRDM	Muscle
+J3_bcDRDS	Neural
+J3_bcDRGD	Neoblast
+J3_bcDRGT	Neural
+J3_bcDRIZ	Neoblast
+J3_bcDRLD	Neoblast
+J3_bcDRMY	Unknown
+J3_bcDRPM	Endoderm-like I
+J3_bcDRVO	Neoblast
+J3_bcDRVQ	Muscle
+J3_bcDRXC	Endoderm-like I
+J3_bcDRYD	Neural
+J3_bcDRZS	Neoblast
+J3_bcDSCF	Neural
+J3_bcDSCM	Endodermal Progenitor
+J3_bcDSFO	Muscle
+J3_bcDSKX	Muscle
+J3_bcDSMH	Epidermal Progenitor
+J3_bcDSPR	Neural
+J3_bcDSQL	Neural
+J3_bcDTCH	Neural
+J3_bcDTCR	Neural
+J3_bcDTEP	Endoerm-like III
+J3_bcDTET	Neural
+J3_bcDTFB	Endoderm-like I
+J3_bcDTFT	Neural
+J3_bcDTHY	Neural
+J3_bcDTQB	Neural
+J3_bcDTTK	Digestive
+J3_bcDUJA	Neural
+J3_bcDUMI	Muscle
+J3_bcDUMP	Digestive
+J3_bcDUNX	Neural
+J3_bcDUOL	Endodermal Progenitor
+J3_bcDUQU	Endoderm-like I
+J3_bcDVFA	Neural
+J3_bcDVFD	Digestive
+J3_bcDVGE	Neoblast
+J3_bcDVNV	Neoblast
+J3_bcDWAB	Digestive
+J3_bcDWBN	Digestive
+J3_bcDWDA	Neural
+J3_bcDWFE	Endoderm-like I
+J3_bcDWFI	Neoblast
+J3_bcDWIP	Secretory
+J3_bcDWJA	Endoerm-like III
+J3_bcDWKT	Neural
+J3_bcDWNA	Digestive
+J3_bcDWOB	Muscle
+J3_bcDWOW	Neural
+J3_bcDWPO	Muscle
+J3_bcDWQP	Muscle
+J3_bcDWUS	Muscle
+J3_bcDWYT	Neural
+J3_bcDXAK	Endodermal Progenitor
+J3_bcDXCO	Muscle
+J3_bcDXFJ	Neural
+J3_bcDXPS	Unknown
+J3_bcDXSZ	Epidermal
+J3_bcDXTC	Neural
+J3_bcDXUD	Endoderm-like I
+J3_bcDXZJ	Neural
+J3_bcDYAL	Muscle
+J3_bcDYEI	Unknown
+J3_bcDYIS	Epidermal Progenitor
+J3_bcDYJO	Endoderm-like I
+J3_bcDYMP	Digestive
+J3_bcDZBU	Muscle
+J3_bcDZEK	Digestive
+J3_bcDZGV	Neural
+J3_bcDZHN	Endoderm-like II
+J3_bcDZHT	Endoderm-like I
+J3_bcDZIZ	Endoderm-like II
+J3_bcDZJF	Neural
+J3_bcDZPG	Muscle
+J3_bcDZPV	Endodermal Progenitor
+J3_bcDZTD	Neoblast
+J3_bcDZTU	Neural
+J3_bcEACJ	Digestive
+J3_bcEAEH	Neoblast
+J3_bcEAEO	Muscle
+J3_bcEAGM	Muscle
+J3_bcEALX	Muscle
+J3_bcEANY	Endoerm-like III
+J3_bcEAQG	Digestive
+J3_bcEAWV	Neural
+J3_bcEAXA	Neoblast
+J3_bcEAXG	Neoblast
+J3_bcEAYZ	Digestive
+J3_bcEAZU	Unknown
+J3_bcEBDL	Neural
+J3_bcEBNN	Endodermal Progenitor
+J3_bcEBOZ	Digestive
+J3_bcEBTE	Neural
+J3_bcEBTR	Neural
+J3_bcEBYF	Endoderm-like I
+J3_bcEBZV	Neural
+J3_bcECAT	Endodermal Progenitor
+J3_bcECCQ	Muscle
+J3_bcECFT	Neural
+J3_bcECHJ	Muscle
+J3_bcECJH	Neural
+J3_bcECKC	Digestive
+J3_bcECOO	Digestive
+J3_bcECSG	Digestive
+J3_bcECUR	Secretory
+J3_bcECUT	Digestive
+J3_bcECVM	Neural
+J3_bcEDDQ	Epidermal
+J3_bcEDDZ	Neural
+J3_bcEDJM	Neoblast
+J3_bcEDKM	Endodermal Progenitor
+J3_bcEDPN	Neoblast
+J3_bcEDQA	Endodermal Progenitor
+J3_bcEDQQ	Endoderm-like II
+J3_bcEDRU	Muscle
+J3_bcEDSH	Endoerm-like III
+J3_bcEDTY	Neural
+J3_bcEDZA	Digestive
+J3_bcEEDE	Neural
+J3_bcEELQ	Muscle
+J3_bcEEMR	Neoblast
+J3_bcEENE	Digestive
+J3_bcEEQF	Digestive
+J3_bcEEXE	Endoderm-like I
+J3_bcEFAJ	Neural
+J3_bcEFDC	Digestive
+J3_bcEFEF	Unknown
+J3_bcEFJP	Muscle
+J3_bcEFMR	Neural
+J3_bcEFXU	Digestive
+J3_bcEGGC	Neural
+J3_bcEGGN	Neural
+J3_bcEGOA	Muscle
+J3_bcEGPE	Endoderm-like II
+J3_bcEGQV	Unknown
+J3_bcEGRA	Neoblast
+J3_bcEGUW	Endoderm-like II
+J3_bcEGWZ	Endoderm-like I
+J3_bcEGZE	Epidermal Progenitor
+J3_bcEHBO	Endodermal Progenitor
+J3_bcEHCI	Epidermal Progenitor
+J3_bcEHFF	Endoerm-like III
+J3_bcEHHN	Endoerm-like III
+J3_bcEHJC	Epidermal
+J3_bcEHKF	Endoerm-like III
+J3_bcEHKO	Muscle
+J3_bcEHNF	Epidermal
+J3_bcEHOL	Epidermal Progenitor
+J3_bcEHOO	Endoderm-like I
+J3_bcEHSO	Neural
+J3_bcEHSS	Digestive
+J3_bcEHTV	Endoderm-like I
+J3_bcEHVD	Endodermal Progenitor
+J3_bcEHVS	Epidermal
+J3_bcEHVY	Digestive
+J3_bcEIBO	Muscle
+J3_bcEIDO	Endoderm-like II
+J3_bcEIET	Epidermal Progenitor
+J3_bcEIEY	Epidermal
+J3_bcEIGK	Digestive
+J3_bcEIGL	Secretory
+J3_bcEIHL	Digestive
+J3_bcEIIB	Endoderm-like I
+J3_bcEINX	Neoblast
+J3_bcEIOR	Digestive
+J3_bcEIOT	Muscle
+J3_bcEIRB	Muscle
+J3_bcEIVA	Muscle
+J3_bcEIYA	Digestive
+J3_bcEJAE	Neoblast
+J3_bcEJCZ	Endoderm-like I
+J3_bcEJEW	Endoderm-like I
+J3_bcEJFV	Muscle
+J3_bcEJGH	Unknown
+J3_bcEJGO	Neoblast
+J3_bcEJJD	Endoderm-like II
+J3_bcEJLH	Unknown
+J3_bcEJNH	Muscle
+J3_bcEJPQ	Muscle
+J3_bcEJPS	Digestive
+J3_bcEJUR	Neural
+J3_bcEJXZ	Neoblast
+J3_bcEJYH	Endoderm-like I
+J3_bcEKBZ	Epidermal
+J3_bcEKGA	Endoderm-like II
+J3_bcEKLL	Neural
+J3_bcEKLY	Muscle
+J3_bcEKMX	Neural
+J3_bcEKON	Endodermal Progenitor
+J3_bcEKRI	Endodermal Progenitor
+J3_bcEKSE	Neural
+J3_bcEKTS	Muscle
+J3_bcEKTT	Endodermal Progenitor
+J3_bcEKVI	Muscle
+J3_bcEKXN	Muscle
+J3_bcEKZQ	Neural
+J3_bcELAH	Endoderm-like II
+J3_bcELCG	Endodermal Progenitor
+J3_bcELFA	Neoblast
+J3_bcELHP	Epidermal
+J3_bcELJI	Neural
+J3_bcELLN	Endodermal Progenitor
+J3_bcELOR	Epidermal
+J3_bcELQY	Digestive
+J3_bcELXI	Neoblast
+J3_bcELXV	Muscle
+J3_bcELYA	Epidermal Progenitor
+J3_bcEMDZ	Endoderm-like I
+J3_bcEMEJ	Neoblast
+J3_bcEMET	Muscle
+J3_bcEMKM	Neoblast
+J3_bcEMLG	Digestive
+J3_bcENAF	Neural
+J3_bcENCN	Endoderm-like I
+J3_bcENCY	Endodermal Progenitor
+J3_bcENGS	Digestive
+J3_bcENKY	Digestive
+J3_bcENNN	Endodermal Progenitor
+J3_bcENPK	Neural
+J3_bcENPP	Endodermal Progenitor
+J3_bcENQN	Epidermal Progenitor
+J3_bcENTI	Neoblast
+J3_bcEOAX	Neural
+J3_bcEODL	Muscle
+J3_bcEOJM	Digestive
+J3_bcEOPV	Secretory
+J3_bcEPDX	Neural
+J3_bcEPEL	Neural
+J3_bcEPLN	Endodermal Progenitor
+J3_bcEPVB	Unknown
+J3_bcEPYC	Neural
+J3_bcEPYF	Unknown
+J3_bcEQAJ	Endoderm-like I
+J3_bcEQBE	Endodermal Progenitor
+J3_bcEQGH	Unknown
+J3_bcEQHU	Digestive
+J3_bcEQJM	Neoblast
+J3_bcEQKH	Digestive
+J3_bcEQKZ	Digestive
+J3_bcEQRJ	Unknown
+J3_bcEQWE	Unknown
+J3_bcEQWG	Endoderm-like I
+J3_bcEQYV	Neural
+J3_bcEQYZ	Epidermal
+J3_bcERCD	Digestive
+J3_bcERFJ	Endoerm-like III
+J3_bcERFS	Endoerm-like III
+J3_bcERIY	Neoblast
+J3_bcERJL	Muscle
+J3_bcERLK	Neural
+J3_bcERNX	Endoderm-like I
+J3_bcERRM	Endoderm-like I
+J3_bcERTA	Neoblast
+J3_bcERXA	Muscle
+J3_bcERZF	Unknown
+J3_bcESBC	Digestive
+J3_bcESCR	Neoblast
+J3_bcESCS	Digestive
+J3_bcESDV	Muscle
+J3_bcESEK	Neural
+J3_bcESJQ	Digestive
+J3_bcESMX	Epidermal
+J3_bcESPD	Neoblast
+J3_bcESZR	Endodermal Progenitor
+J3_bcETAV	Muscle
+J3_bcETJZ	Muscle
+J3_bcETOK	Neural
+J3_bcETQK	Neural
+J3_bcETTO	Digestive
+J3_bcETVQ	Unknown
+J3_bcEUAH	Muscle
+J3_bcEUBO	Digestive
+J3_bcEUIH	Epidermal
+J3_bcEUIL	Neoblast
+J3_bcEULF	Endoderm-like II
+J3_bcEULJ	Endoderm-like I
+J3_bcEUMZ	Unknown
+J3_bcEUPX	Neoblast
+J3_bcEUSX	Secretory
+J3_bcEUUY	Muscle
+J3_bcEUWC	Neural
+J3_bcEUWK	Digestive
+J3_bcEUZR	Digestive
+J3_bcEVBP	Neural
+J3_bcEVIG	Endoderm-like I
+J3_bcEVMM	Neural
+J3_bcEVMW	Epidermal
+J3_bcEWAL	Endodermal Progenitor
+J3_bcEWDD	Endoerm-like III
+J3_bcEWEI	Muscle
+J3_bcEWET	Neural
+J3_bcEWFD	Muscle
+J3_bcEWJC	Muscle
+J3_bcEWKQ	Unknown
+J3_bcEWMS	Neoblast
+J3_bcEWPK	Digestive
+J3_bcEWSM	Endoerm-like III
+J3_bcEWTG	Epidermal
+J3_bcEWTI	Neural
+J3_bcEWZE	Unknown
+J3_bcEXBS	Neural
+J3_bcEXCB	Endoderm-like I
+J3_bcEXDB	Muscle
+J3_bcEXGQ	Digestive
+J3_bcEXHY	Muscle
+J3_bcEXIA	Neoblast
+J3_bcEXIH	Neural
+J3_bcEXIS	Epidermal
+J3_bcEXJV	Endodermal Progenitor
+J3_bcEXML	Muscle
+J3_bcEXOL	Digestive
+J3_bcEXOX	Neural
+J3_bcEXPP	Endoderm-like I
+J3_bcEXPR	Digestive
+J3_bcEXTC	Neural
+J3_bcEXUD	Epidermal
+J3_bcEXUQ	Neoblast
+J3_bcEYFJ	Neural
+J3_bcEYIA	Muscle
+J3_bcEYNM	Muscle
+J3_bcEYQE	Digestive
+J3_bcEYVA	Unknown
+J3_bcEYVN	Muscle
+J3_bcEYVW	Muscle
+J3_bcEYWA	Digestive
+J3_bcEYXP	Neural
+J3_bcEYXU	Digestive
+J3_bcEYZL	Neural
+J3_bcEZEN	Muscle
+J3_bcEZPP	Endoderm-like II
+J3_bcEZQD	Digestive
+J3_bcEZSR	Muscle
+J3_bcEZTO	Digestive
+J3_bcEZXJ	Endoderm-like I
+J3_bcEZZN	Neural
+J3_bcFABE	Endoderm-like II
+J3_bcFACZ	Endodermal Progenitor
+J3_bcFAEG	Neoblast
+J3_bcFAIZ	Digestive
+J3_bcFAOA	Digestive
+J3_bcFAPV	Digestive
+J3_bcFAPY	Endoderm-like II
+J3_bcFASI	Endoderm-like I
+J3_bcFASJ	Digestive
+J3_bcFBCE	Digestive
+J3_bcFBFI	Endoderm-like I
+J3_bcFBFY	Neoblast
+J3_bcFBHO	Muscle
+J3_bcFBLO	Digestive
+J3_bcFBMH	Endoderm-like II
+J3_bcFBNR	Neural
+J3_bcFBPL	Unknown
+J3_bcFBUL	Neural
+J3_bcFCKI	Neural
+J3_bcFCKY	Muscle
+J3_bcFCMZ	Neoblast
+J3_bcFCOT	Endoerm-like III
+J3_bcFCOU	Endoderm-like I
+J3_bcFCQK	Epidermal
+J3_bcFDLF	Neural
+J3_bcFDLL	Digestive
+J3_bcFDPA	Muscle
+J3_bcFDQO	Unknown
+J3_bcFEAV	Neural
+J3_bcFEBN	Epidermal
+J3_bcFEEU	Neural
+J3_bcFEHB	Digestive
+J3_bcFEIN	Neural
+J3_bcFEJQ	Neoblast
+J3_bcFEMV	Endoderm-like I
+J3_bcFENP	Muscle
+J3_bcFESY	Epidermal
+J3_bcFETX	Endodermal Progenitor
+J3_bcFFAK	Secretory
+J3_bcFFCN	Endodermal Progenitor
+J3_bcFFDO	Digestive
+J3_bcFFGS	Endoderm-like I
+J3_bcFFKE	Secretory
+J3_bcFFMB	Endodermal Progenitor
+J3_bcFFQW	Endodermal Progenitor
+J3_bcFFRF	Muscle
+J3_bcFFRJ	Unknown
+J3_bcFFSB	Digestive
+J3_bcFFSZ	Neural
+J3_bcFFWS	Neural
+J3_bcFFZU	Unknown
+J3_bcFGCM	Digestive
+J3_bcFGDI	Muscle
+J3_bcFGDP	Digestive
+J3_bcFGFB	Muscle
+J3_bcFGIG	Endodermal Progenitor
+J3_bcFGIH	Secretory
+J3_bcFGMK	Muscle
+J3_bcFGQC	Unknown
+J3_bcFGQN	Neural
+J3_bcFGSB	Unknown
+J3_bcFGSI	Muscle
+J3_bcFGSO	Endodermal Progenitor
+J3_bcFGTN	Neural
+J3_bcFGUN	Muscle
+J3_bcFGUS	Neoblast
+J3_bcFGXK	Digestive
+J3_bcFGYN	Neural
+J3_bcFGZR	Endodermal Progenitor
+J3_bcFGZY	Neural
+J3_bcFHDH	Digestive
+J3_bcFHEC	Digestive
+J3_bcFHEE	Neural
+J3_bcFHFA	Endoderm-like II
+J3_bcFHFS	Muscle
+J3_bcFHHY	Neural
+J3_bcFHIA	Digestive
+J3_bcFHJN	Neural
+J3_bcFHJT	Neural
+J3_bcFHLK	Epidermal
+J3_bcFHLW	Muscle
+J3_bcFHOF	Epidermal Progenitor
+J3_bcFHTO	Neural
+J3_bcFICF	Endoderm-like I
+J3_bcFIHQ	Endoderm-like I
+J3_bcFIJU	Muscle
+J3_bcFIKP	Muscle
+J3_bcFIPQ	Muscle
+J3_bcFIQN	Muscle
+J3_bcFIRH	Neural
+J3_bcFIUF	Neural
+J3_bcFIVO	Endoerm-like III
+J3_bcFJAJ	Secretory
+J3_bcFJFM	Digestive
+J3_bcFJGK	Endoderm-like II
+J3_bcFJHX	Neural
+J3_bcFJJS	Unknown
+J3_bcFJKF	Endodermal Progenitor
+J3_bcFJLI	Muscle
+J3_bcFJLL	Muscle
+J3_bcFJMF	Digestive
+J3_bcFJQW	Muscle
+J3_bcFJUG	Digestive
+J3_bcFJUU	Secretory
+J3_bcFJYO	Epidermal
+J3_bcFJZQ	Neoblast
+J3_bcFKBX	Muscle
+J3_bcFKFI	Epidermal Progenitor
+J3_bcFKFM	Neural
+J3_bcFKGO	Epidermal
+J3_bcFKJP	Unknown
+J3_bcFKKW	Unknown
+J3_bcFKQU	Epidermal
+J3_bcFKSH	Neural
+J3_bcFKVG	Endodermal Progenitor
+J3_bcFKWB	Epidermal
+J3_bcFKWH	Muscle
+J3_bcFKYE	Epidermal
+J3_bcFLDW	Endoderm-like II
+J3_bcFLFS	Endodermal Progenitor
+J3_bcFLFT	Epidermal
+J3_bcFLGD	Muscle
+J3_bcFLIV	Neural
+J3_bcFLMT	Neoblast
+J3_bcFLWG	Epidermal
+J3_bcFLXZ	Neural
+J3_bcFMAO	Secretory
+J3_bcFMAQ	Muscle
+J3_bcFMCE	Muscle
+J3_bcFMDF	Neural
+J3_bcFMKN	Digestive
+J3_bcFMKW	Neural
+J3_bcFMQP	Neoblast
+J3_bcFMQS	Endoderm-like II
+J3_bcFMUT	Neoblast
+J3_bcFMXX	Endoderm-like II
+J3_bcFNCN	Neural
+J3_bcFNDF	Neoblast
+J3_bcFNEE	Epidermal Progenitor
+J3_bcFNFD	Endoerm-like III
+J3_bcFNGN	Muscle
+J3_bcFNHP	Muscle
+J3_bcFNIF	Endoderm-like I
+J3_bcFNKG	Endodermal Progenitor
+J3_bcFNLN	Digestive
+J3_bcFNLW	Endoerm-like III
+J3_bcFNQB	Endoderm-like I
+J3_bcFNRJ	Endoderm-like II
+J3_bcFNTD	Endodermal Progenitor
+J3_bcFOFS	Epidermal
+J3_bcFOIU	Muscle
+J3_bcFOIW	Neural
+J3_bcFOJR	Neural
+J3_bcFOJS	Secretory
+J3_bcFONW	Endoderm-like II
+J3_bcFOPS	Muscle
+J3_bcFOPU	Endodermal Progenitor
+J3_bcFOQQ	Neural
+J3_bcFOSZ	Epidermal
+J3_bcFOWJ	Neoblast
+J3_bcFOWL	Unknown
+J3_bcFOYB	Neural
+J3_bcFOZG	Neural
+J3_bcFPIE	Unknown
+J3_bcFPJR	Endoerm-like III
+J3_bcFPKD	Neural
+J3_bcFPNL	Neural
+J3_bcFPUH	Neoblast
+J3_bcFPWL	Secretory
+J3_bcFPWO	Neural
+J3_bcFPYA	Endodermal Progenitor
+J3_bcFQAA	Digestive
+J3_bcFQAX	Neural
+J3_bcFQCU	Epidermal
+J3_bcFQGK	Endoderm-like I
+J3_bcFQHC	Endodermal Progenitor
+J3_bcFQHY	Neural
+J3_bcFQKO	Secretory
+J3_bcFQLP	Endoderm-like I
+J3_bcFQMN	Neural
+J3_bcFQMQ	Secretory
+J3_bcFQNU	Endoderm-like I
+J3_bcFQOW	Endodermal Progenitor
+J3_bcFQQS	Neural
+J3_bcFQRP	Neural
+J3_bcFQRS	Neural
+J3_bcFQSI	Neural
+J3_bcFQVJ	Neural
+J3_bcFQVN	Muscle
+J3_bcFQWA	Endoderm-like I
+J3_bcFREI	Neoblast
+J3_bcFRGB	Secretory
+J3_bcFRHZ	Digestive
+J3_bcFRJI	Neural
+J3_bcFROJ	Endoderm-like I
+J3_bcFRQN	Digestive
+J3_bcFRVK	Neural
+J3_bcFRYD	Digestive
+J3_bcFSCI	Epidermal Progenitor
+J3_bcFSDE	Endoderm-like II
+J3_bcFSDZ	Neural
+J3_bcFSFA	Neural
+J3_bcFSFB	Neoblast
+J3_bcFSGS	Digestive
+J3_bcFSGW	Epidermal
+J3_bcFSLG	Endoderm-like II
+J3_bcFSRS	Muscle
+J3_bcFSXG	Epidermal Progenitor
+J3_bcFSXQ	Unknown
+J3_bcFSYM	Epidermal
+J3_bcFTAG	Digestive
+J3_bcFTCF	Digestive
+J3_bcFTEP	Endoderm-like I
+J3_bcFTHV	Muscle
+J3_bcFTHX	Secretory
+J3_bcFTLQ	Secretory
+J3_bcFTNT	Endoderm-like I
+J3_bcFTOW	Endodermal Progenitor
+J3_bcFTOZ	Digestive
+J3_bcFTQI	Neural
+J3_bcFTUS	Neural
+J3_bcFUEO	Neural
+J3_bcFUFB	Muscle
+J3_bcFUHM	Digestive
+J3_bcFUIQ	Muscle
+J3_bcFUJZ	Digestive
+J3_bcFUKT	Digestive
+J3_bcFUKY	Digestive
+J3_bcFUMX	Endoderm-like II
+J3_bcFUPM	Neural
+J3_bcFUPZ	Neural
+J3_bcFURL	Digestive
+J3_bcFUVV	Muscle
+J3_bcFUWR	Neural
+J3_bcFUWU	Neoblast
+J3_bcFUZV	Neural
+J3_bcFVAP	Muscle
+J3_bcFVFF	Muscle
+J3_bcFVFP	Neural
+J3_bcFVFY	Unknown
+J3_bcFVHP	Endoderm-like I
+J3_bcFVIY	Endoderm-like I
+J3_bcFVJF	Digestive
+J3_bcFVMK	Neoblast
+J3_bcFVOP	Neoblast
+J3_bcFVOV	Endodermal Progenitor
+J3_bcFVPW	Digestive
+J3_bcFVSA	Epidermal Progenitor
+J3_bcFVSF	Endodermal Progenitor
+J3_bcFVSN	Digestive
+J3_bcFVUI	Neural
+J3_bcFVUR	Muscle
+J3_bcFVVF	Endoderm-like I
+J3_bcFVWK	Secretory
+J3_bcFVZR	Endoerm-like III
+J3_bcFWCQ	Muscle
+J3_bcFWDW	Neural
+J3_bcFWED	Muscle
+J3_bcFWHR	Digestive
+J3_bcFWIH	Epidermal
+J3_bcFWKA	Endoerm-like III
+J3_bcFWLI	Epidermal
+J3_bcFWOM	Endoderm-like I
+J3_bcFWQW	Endoderm-like I
+J3_bcFWVT	Neural
+J3_bcFWWP	Endoderm-like I
+J3_bcFWXL	Neoblast
+J3_bcFWYA	Neural
+J3_bcFXEN	Muscle
+J3_bcFXHA	Digestive
+J3_bcFXIN	Neural
+J3_bcFXMN	Endoderm-like II
+J3_bcFXMO	Muscle
+J3_bcFXND	Digestive
+J3_bcFXPR	Digestive
+J3_bcFXQK	Digestive
+J3_bcFXRW	Neural
+J3_bcFXTO	Neural
+J3_bcFXUF	Neural
+J3_bcFXUH	Muscle
+J3_bcFXVH	Muscle
+J3_bcFXVR	Epidermal Progenitor
+J3_bcFXXE	Muscle
+J3_bcFXXH	Digestive
+J3_bcFXYE	Muscle
+J3_bcFXYO	Endoderm-like I
+J3_bcFXYT	Endodermal Progenitor
+J3_bcFYDS	Neoblast
+J3_bcFYFA	Digestive
+J3_bcFYIE	Neural
+J3_bcFYNU	Endoerm-like III
+J3_bcFYRX	Muscle
+J3_bcFYYH	Neural
+J3_bcFYYQ	Digestive
+J3_bcFZBQ	Neural
+J3_bcFZBR	Muscle
+J3_bcFZBS	Digestive
+J3_bcFZCU	Neural
+J3_bcFZDO	Secretory
+J3_bcFZES	Epidermal
+J3_bcFZJH	Neural
+J3_bcFZMG	Endoderm-like I
+J3_bcFZOP	Neural
+J3_bcFZPF	Neoblast
+J3_bcFZPQ	Endoderm-like II
+J3_bcFZTW	Endodermal Progenitor
+J3_bcFZUH	Digestive
+J3_bcFZYQ	Muscle
+J3_bcGADJ	Unknown
+J3_bcGADU	Unknown
+J3_bcGAEL	Digestive
+J3_bcGAIL	Endoderm-like I
+J3_bcGAJK	Neural
+J3_bcGAKG	Endoderm-like II
+J3_bcGALW	Muscle
+J3_bcGAMF	Neural
+J3_bcGAPS	Neural
+J3_bcGAQD	Digestive
+J3_bcGAQL	Digestive
+J3_bcGASV	Epidermal Progenitor
+J3_bcGAUG	Muscle
+J3_bcGAUI	Endoderm-like II
+J3_bcGAWY	Muscle
+J3_bcGAXX	Epidermal Progenitor
+J3_bcGAYV	Digestive
+J3_bcGBBF	Muscle
+J3_bcGBER	Neoblast
+J3_bcGBHD	Muscle
+J3_bcGBHH	Muscle
+J3_bcGBHU	Muscle
+J3_bcGBLL	Endoerm-like III
+J3_bcGBOY	Neural
+J3_bcGBVW	Neural
+J3_bcGBWF	Endoderm-like I
+J3_bcGBWQ	Digestive
+J3_bcGBXQ	Endoderm-like I
+J3_bcGBYW	Neural
+J3_bcGBZT	Digestive
+J3_bcGCAD	Digestive
+J3_bcGCBD	Digestive
+J3_bcGCEF	Muscle
+J3_bcGCLX	Digestive
+J3_bcGCUA	Endodermal Progenitor
+J3_bcGCZX	Epidermal
+J3_bcGDOC	Muscle
+J3_bcGDPT	Epidermal
+J3_bcGDSB	Neural
+J3_bcGDZH	Digestive
+J3_bcGECC	Neural
+J3_bcGEDC	Neural
+J3_bcGEFY	Muscle
+J3_bcGEGK	Neoblast
+J3_bcGEIY	Neural
+J3_bcGERI	Digestive
+J3_bcGESG	Neural
+J3_bcGETU	Digestive
+J3_bcGETY	Endoderm-like I
+J3_bcGEVG	Neural
+J3_bcGEXF	Neural
+J3_bcGFDN	Unknown
+J3_bcGFFM	Digestive
+J3_bcGFFS	Neoblast
+J3_bcGFGC	Epidermal
+J3_bcGFIK	Muscle
+J3_bcGFJE	Endoerm-like III
+J3_bcGFJQ	Epidermal Progenitor
+J3_bcGFTX	Unknown
+J3_bcGFVE	Muscle
+J3_bcGFWS	Neural
+J3_bcGFZA	Neural
+J3_bcGGAW	Digestive
+J3_bcGGDN	Neural
+J3_bcGGHJ	Digestive
+J3_bcGGHM	Neural
+J3_bcGGLI	Unknown
+J3_bcGGNI	Epidermal
+J3_bcGGQN	Neural
+J3_bcGGRB	Neural
+J3_bcGGVW	Endoderm-like I
+J3_bcGGWN	Digestive
+J3_bcGGYC	Endoderm-like II
+J3_bcGGZS	Neoblast
+J3_bcGHAE	Endoderm-like I
+J3_bcGHBX	Endoderm-like I
+J3_bcGHBZ	Digestive
+J3_bcGHED	Digestive
+J3_bcGHFT	Neural
+J3_bcGHHJ	Muscle
+J3_bcGHIA	Neoblast
+J3_bcGHMD	Muscle
+J3_bcGHQE	Neural
+J3_bcGHSP	Digestive
+J3_bcGHSY	Neoblast
+J3_bcGHXH	Digestive
+J3_bcGHXI	Neoblast
+J3_bcGHYE	Muscle
+J3_bcGHZU	Digestive
+J3_bcGIBL	Digestive
+J3_bcGIBQ	Endoerm-like III
+J3_bcGIDH	Neural
+J3_bcGIDM	Digestive
+J3_bcGIDX	Endodermal Progenitor
+J3_bcGIFO	Epidermal Progenitor
+J3_bcGIHI	Endoderm-like I
+J3_bcGIMD	Endoderm-like I
+J3_bcGINW	Muscle
+J3_bcGIQF	Muscle
+J3_bcGIQW	Neural
+J3_bcGITF	Neoblast
+J3_bcGITP	Neural
+J3_bcGIUT	Epidermal Progenitor
+J3_bcGIWL	Endoerm-like III
+J3_bcGJDC	Neural
+J3_bcGJDY	Neural
+J3_bcGJEN	Digestive
+J3_bcGJEY	Endoderm-like II
+J3_bcGJGK	Neural
+J3_bcGJGQ	Epidermal
+J3_bcGJGS	Neural
+J3_bcGJGX	Neural
+J3_bcGJIC	Muscle
+J3_bcGJNP	Unknown
+J3_bcGJOA	Neural
+J3_bcGJQE	Neoblast
+J3_bcGJRI	Neural
+J3_bcGJSE	Epidermal
+J3_bcGJSR	Muscle
+J3_bcGJTJ	Neural
+J3_bcGJUB	Muscle
+J3_bcGJUD	Muscle
+J3_bcGJVQ	Digestive
+J3_bcGJYM	Endoderm-like I
+J3_bcGJZA	Secretory
+J3_bcGKHV	Digestive
+J3_bcGKKB	Muscle
+J3_bcGKKJ	Neural
+J3_bcGKKM	Muscle
+J3_bcGKMU	Unknown
+J3_bcGKSQ	Digestive
+J3_bcGKTJ	Neural
+J3_bcGKWQ	Muscle
+J3_bcGKZE	Neural
+J3_bcGLBO	Digestive
+J3_bcGLDK	Unknown
+J3_bcGLEC	Digestive
+J3_bcGLGR	Digestive
+J3_bcGLHZ	Digestive
+J3_bcGLIP	Neural
+J3_bcGLJU	Digestive
+J3_bcGLLO	Neoblast
+J3_bcGLNG	Neural
+J3_bcGMCW	Digestive
+J3_bcGMNZ	Muscle
+J3_bcGMPW	Digestive
+J3_bcGMRB	Digestive
+J3_bcGMTA	Neural
+J3_bcGNFF	Digestive
+J3_bcGNFR	Epidermal
+J3_bcGNJF	Digestive
+J3_bcGNOW	Neural
+J3_bcGNQL	Digestive
+J3_bcGNSO	Endoderm-like I
+J3_bcGNVC	Neoblast
+J3_bcGNVH	Neural
+J3_bcGNVI	Muscle
+J3_bcGNWU	Neural
+J3_bcGNXC	Neural
+J3_bcGNZH	Neoblast
+J3_bcGOAJ	Digestive
+J3_bcGOEQ	Epidermal
+J3_bcGOFJ	Neural
+J3_bcGOIS	Muscle
+J3_bcGOLD	Digestive
+J3_bcGOLG	Digestive
+J3_bcGOOK	Neural
+J3_bcGPAJ	Digestive
+J3_bcGPBS	Secretory
+J3_bcGPFN	Unknown
+J3_bcGPFU	Endodermal Progenitor
+J3_bcGPLT	Unknown
+J3_bcGPMH	Unknown
+J3_bcGPPT	Muscle
+J3_bcGPRE	Digestive
+J3_bcGPRP	Neural
+J3_bcGPTO	Muscle
+J3_bcGPTR	Endoerm-like III
+J3_bcGPVS	Neural
+J3_bcGPWL	Neural
+J3_bcGPXY	Neural
+J3_bcGPZR	Secretory
+J3_bcGQAF	Endoerm-like III
+J3_bcGQCH	Neural
+J3_bcGQCV	Digestive
+J3_bcGQDW	Digestive
+J3_bcGQEM	Digestive
+J3_bcGQHH	Digestive
+J3_bcGQHI	Muscle
+J3_bcGQIW	Digestive
+J3_bcGQMR	Endodermal Progenitor
+J3_bcGQPA	Neural
+J3_bcGQPO	Neoblast
+J3_bcGQPR	Endoderm-like I
+J3_bcGQTN	Neural
+J3_bcGQUA	Secretory
+J3_bcGQUE	Endoderm-like II
+J3_bcGQVE	Epidermal Progenitor
+J3_bcGQXA	Neoblast
+J3_bcGQXW	Digestive
+J3_bcGQZP	Endoderm-like II
+J3_bcGREC	Digestive
+J3_bcGREE	Digestive
+J3_bcGRIA	Endoerm-like III
+J3_bcGRKI	Neural
+J3_bcGRPV	Epidermal
+J3_bcGRQF	Unknown
+J3_bcGRVC	Endoerm-like III
+J3_bcGRVH	Neural
+J3_bcGRWE	Neural
+J3_bcGRWJ	Endodermal Progenitor
+J3_bcGRWK	Endoderm-like II
+J3_bcGRXI	Neural
+J3_bcGRZS	Neural
+J3_bcGSCL	Muscle
+J3_bcGSDO	Endodermal Progenitor
+J3_bcGSFZ	Neural
+J3_bcGSLR	Neural
+J3_bcGSMT	Endoderm-like I
+J3_bcGSNF	Endoderm-like I
+J3_bcGSPT	Digestive
+J3_bcGSQE	Neoblast
+J3_bcGSQK	Neural
+J3_bcGSRU	Neural
+J3_bcGSVY	Digestive
+J3_bcGSWZ	Muscle
+J3_bcGSXN	Endoerm-like III
+J3_bcGTBZ	Endoderm-like I
+J3_bcGTDB	Endoderm-like II
+J3_bcGTGZ	Endoderm-like I
+J3_bcGTKA	Muscle
+J3_bcGTKQ	Muscle
+J3_bcGTKW	Digestive
+J3_bcGTMY	Neural
+J3_bcGTNF	Endodermal Progenitor
+J3_bcGTNJ	Neoblast
+J3_bcGTNR	Neural
+J3_bcGTOC	Unknown
+J3_bcGTPP	Muscle
+J3_bcGTQQ	Epidermal
+J3_bcGTRC	Endoderm-like I
+J3_bcGTTG	Epidermal
+J3_bcGTVX	Neural
+J3_bcGTWI	Neoblast
+J3_bcGTZN	Muscle
+J3_bcGUDX	Endoderm-like I
+J3_bcGUHH	Neural
+J3_bcGUKA	Neoblast
+J3_bcGUKB	Unknown
+J3_bcGULX	Neural
+J3_bcGUMR	Muscle
+J3_bcGUQO	Digestive
+J3_bcGUSC	Neural
+J3_bcGVDP	Neoblast
+J3_bcGVEH	Muscle
+J3_bcGVEY	Neural
+J3_bcGVJN	Neoblast
+J3_bcGVNC	Endoderm-like I
+J3_bcGVPH	Unknown
+J3_bcGVQH	Muscle
+J3_bcGVRY	Epidermal
+J3_bcGVSK	Endoderm-like I
+J3_bcGVSV	Neural
+J3_bcGVTE	Neural
+J3_bcGVTJ	Endodermal Progenitor
+J3_bcGVWH	Neural
+J3_bcGVYA	Muscle
+J3_bcGVZI	Neural
+J3_bcGWEC	Digestive
+J3_bcGWLL	Muscle
+J3_bcGWNC	Muscle
+J3_bcGWQD	Muscle
+J3_bcGWVI	Endoderm-like I
+J3_bcGWWI	Digestive
+J3_bcGWZB	Epidermal Progenitor
+J3_bcGWZO	Endoderm-like II
+J3_bcGXAG	Digestive
+J3_bcGXBF	Digestive
+J3_bcGXBU	Muscle
+J3_bcGXGX	Digestive
+J3_bcGXHG	Neoblast
+J3_bcGXLZ	Digestive
+J3_bcGXMT	Endodermal Progenitor
+J3_bcGXNE	Epidermal Progenitor
+J3_bcGXNV	Neural
+J3_bcGXOC	Neoblast
+J3_bcGXOP	Endoderm-like II
+J3_bcGXQS	Digestive
+J3_bcGXUG	Unknown
+J3_bcGXZT	Neural
+J3_bcGYBZ	Epidermal
+J3_bcGYDR	Endoerm-like III
+J3_bcGYFC	Epidermal
+J3_bcGYIC	Muscle
+J3_bcGYIQ	Neoblast
+J3_bcGYIR	Endoderm-like I
+J3_bcGYKS	Digestive
+J3_bcGYLN	Muscle
+J3_bcGYNA	Neural
+J3_bcGYNI	Digestive
+J3_bcGYRS	Neural
+J3_bcGYSG	Neoblast
+J3_bcGYSJ	Digestive
+J3_bcGYTZ	Neoblast
+J3_bcGYWB	Neural
+J3_bcGYWF	Neural
+J3_bcGYWR	Endoerm-like III
+J3_bcGYXL	Epidermal
+J3_bcGZCW	Neural
+J3_bcGZEE	Muscle
+J3_bcGZEF	Neoblast
+J3_bcGZEG	Digestive
+J3_bcGZEY	Neoblast
+J3_bcGZFE	Muscle
+J3_bcGZGQ	Muscle
+J3_bcGZGS	Muscle
+J3_bcGZGW	Endoderm-like II
+J3_bcGZIE	Neural
+J3_bcGZIJ	Neural
+J3_bcGZMO	Neoblast
+J3_bcGZMQ	Neural
+J3_bcGZNL	Neoblast
+J3_bcGZOE	Muscle
+J3_bcGZRD	Epidermal
+J3_bcGZSJ	Muscle
+J3_bcGZVO	Digestive
+J3_bcGZXM	Unknown
+J3_bcHAAT	Digestive
+J3_bcHADZ	Neural
+J3_bcHAGK	Endodermal Progenitor
+J3_bcHAGW	Neural
+J3_bcHAHU	Digestive
+J3_bcHAIA	Neural
+J3_bcHAJF	Muscle
+J3_bcHAKI	Digestive
+J3_bcHAKL	Epidermal
+J3_bcHAME	Endodermal Progenitor
+J3_bcHAMM	Neural
+J3_bcHARS	Neural
+J3_bcHARW	Endodermal Progenitor
+J3_bcHATK	Muscle
+J3_bcHAUX	Epidermal Progenitor
+J3_bcHAWA	Neoblast
+J3_bcHAXQ	Endoerm-like III
+J3_bcHBEB	Neural
+J3_bcHBFG	Neural
+J3_bcHBNL	Muscle
+J3_bcHBQX	Muscle
+J3_bcHBRF	Epidermal
+J3_bcHBTJ	Neural
+J3_bcHBUN	Digestive
+J3_bcHBWA	Digestive
+J3_bcHBZM	Epidermal Progenitor
+J3_bcHCCF	Neural
+J3_bcHCCL	Neural
+J3_bcHCEL	Epidermal Progenitor
+J3_bcHCFD	Digestive
+J3_bcHCFV	Muscle
+J3_bcHCGH	Unknown
+J3_bcHCGX	Unknown
+J3_bcHCHZ	Muscle
+J3_bcHCJA	Neural
+J3_bcHCJQ	Digestive
+J3_bcHCKJ	Muscle
+J3_bcHCPA	Neoblast
+J3_bcHCPB	Muscle
+J3_bcHCPK	Digestive
+J3_bcHCQC	Neural
+J3_bcHCRR	Neural
+J3_bcHCTD	Endoderm-like II
+J3_bcHCUO	Epidermal Progenitor
+J3_bcHCXJ	Digestive
+J3_bcHCYN	Secretory
+J3_bcHCYV	Muscle
+J3_bcHCZQ	Neural
+J3_bcHDAQ	Endodermal Progenitor
+J3_bcHDBM	Digestive
+J3_bcHDCE	Neoblast
+J3_bcHDFW	Neural
+J3_bcHDHP	Secretory
+J3_bcHDJO	Muscle
+J3_bcHDLE	Epidermal
+J3_bcHDNK	Muscle
+J3_bcHDRA	Endoerm-like III
+J3_bcHDRG	Endoerm-like III
+J3_bcHDWM	Neoblast
+J3_bcHEAF	Neural
+J3_bcHECL	Neoblast
+J3_bcHEGH	Neural
+J3_bcHEJN	Muscle
+J3_bcHEKL	Muscle
+J3_bcHEVA	Muscle
+J3_bcHEVM	Muscle
+J3_bcHFBJ	Endodermal Progenitor
+J3_bcHFDB	Neoblast
+J3_bcHFEP	Muscle
+J3_bcHFFG	Digestive
+J3_bcHFPI	Digestive
+J3_bcHFWB	Digestive
+J3_bcHFXO	Neural
+J3_bcHGAG	Digestive
+J3_bcHGBV	Neural
+J3_bcHGDY	Unknown
+J3_bcHGEC	Digestive
+J3_bcHGHV	Endoerm-like III
+J3_bcHGHZ	Muscle
+J3_bcHGNL	Neural
+J3_bcHGWS	Muscle
+J3_bcHGZR	Muscle
+J3_bcHHAA	Neural
+J3_bcHHBG	Epidermal Progenitor
+J3_bcHHCD	Endoerm-like III
+J3_bcHHGB	Neural
+J3_bcHHIZ	Epidermal Progenitor
+J3_bcHHOP	Endoderm-like I
+J3_bcHHRO	Epidermal
+J3_bcHIEI	Neural
+J3_bcHIID	Muscle
+J3_bcHIIE	Epidermal
+J3_bcHIJY	Neural
+J3_bcHIKT	Endodermal Progenitor
+J3_bcHIQH	Digestive
+J3_bcHIXX	Neoblast
+J3_bcHJGJ	Neural
+J3_bcHJHC	Neoblast
+J3_bcHJKX	Muscle
+J3_bcHJLN	Neural
+J3_bcHJLU	Neural
+J3_bcHJMN	Neoblast
+J3_bcHJNQ	Digestive
+J3_bcHJPF	Epidermal Progenitor
+J3_bcHJQT	Neural
+J3_bcHJUK	Neural
+J3_bcHJWY	Neural
+J3_bcHJXH	Neural
+J3_bcHJXI	Neoblast
+J3_bcHJYH	Endoderm-like I
+J3_bcHJZI	Epidermal
+J3_bcHKBF	Neural
+J3_bcHKCM	Endoderm-like I
+J3_bcHKCV	Neoblast
+J3_bcHKEI	Muscle
+J3_bcHKEM	Neural
+J3_bcHKKO	Neural
+J3_bcHKLY	Muscle
+J3_bcHKMN	Endoderm-like I
+J3_bcHKMT	Neural
+J3_bcHKOG	Neural
+J3_bcHKOP	Secretory
+J3_bcHKPK	Epidermal
+J3_bcHKQA	Secretory
+J3_bcHKQL	Muscle
+J3_bcHKQV	Neoblast
+J3_bcHKRR	Neoblast
+J3_bcHKVV	Digestive
+J3_bcHKWY	Muscle
+J3_bcHKXG	Secretory
+J3_bcHKYH	Muscle
+J3_bcHKZG	Endodermal Progenitor
+J3_bcHKZR	Unknown
+J3_bcHLAF	Neoblast
+J3_bcHLAQ	Epidermal
+J3_bcHLCN	Endoerm-like III
+J3_bcHLIW	Muscle
+J3_bcHLIZ	Neural
+J3_bcHLLY	Epidermal Progenitor
+J3_bcHLOM	Muscle
+J3_bcHLOQ	Secretory
+J3_bcHLPC	Neoblast
+J3_bcHLQI	Muscle
+J3_bcHLRI	Digestive
+J3_bcHLSK	Neural
+J3_bcHLYJ	Epidermal
+J3_bcHMBG	Neural
+J3_bcHMEX	Endodermal Progenitor
+J3_bcHMFL	Endoderm-like I
+J3_bcHMFO	Muscle
+J3_bcHMGV	Endodermal Progenitor
+J3_bcHMHH	Neural
+J3_bcHMII	Muscle
+J3_bcHMJG	Muscle
+J3_bcHMKF	Neoblast
+J3_bcHMKR	Muscle
+J3_bcHMOD	Digestive
+J3_bcHMRW	Unknown
+J3_bcHMUF	Endoderm-like I
+J3_bcHMVI	Neural
+J3_bcHMVN	Neural
+J3_bcHMVX	Neural
+J3_bcHMZV	Endodermal Progenitor
+J3_bcHNLI	Muscle
+J3_bcHNLM	Neural
+J3_bcHNNF	Neural
+J3_bcHNRM	Neural
+J3_bcHNUB	Neoblast
+J3_bcHNXX	Secretory
+J3_bcHOAC	Secretory
+J3_bcHOFZ	Unknown
+J3_bcHOHD	Endoerm-like III
+J3_bcHOOX	Muscle
+J3_bcHOPP	Endoerm-like III
+J3_bcHOPY	Digestive
+J3_bcHOST	Neural
+J3_bcHOWI	Endodermal Progenitor
+J3_bcHOWK	Digestive
+J3_bcHOXM	Unknown
+J3_bcHOZW	Neural
+J3_bcHPCW	Neoblast
+J3_bcHPDP	Muscle
+J3_bcHPFK	Muscle
+J3_bcHPGK	Muscle
+J3_bcHPHW	Digestive
+J3_bcHPKO	Muscle
+J3_bcHPLA	Neural
+J3_bcHPLT	Neural
+J3_bcHPNL	Neural
+J3_bcHPPB	Neural
+J3_bcHPPR	Unknown
+J3_bcHPQQ	Neural
+J3_bcHPRB	Muscle
+J3_bcHPSF	Muscle
+J3_bcHPSV	Muscle
+J3_bcHPWJ	Unknown
+J3_bcHPXE	Neoblast
+J3_bcHPYA	Unknown
+J3_bcHQCU	Neural
+J3_bcHQHO	Neoblast
+J3_bcHQMT	Secretory
+J3_bcHQQV	Neoblast
+J3_bcHQRJ	Neural
+J3_bcHQUA	Digestive
+J3_bcHQUU	Endoderm-like I
+J3_bcHQVG	Digestive
+J3_bcHQXN	Muscle
+J3_bcHQZK	Neural
+J3_bcHRCU	Epidermal
+J3_bcHRCZ	Digestive
+J3_bcHRDL	Unknown
+J3_bcHRLE	Neural
+J3_bcHRLO	Neoblast
+J3_bcHROD	Endoderm-like I
+J3_bcHRRC	Epidermal Progenitor
+J3_bcHRRO	Digestive
+J3_bcHRUF	Neoblast
+J3_bcHRUZ	Neural
+J3_bcHRVN	Neural
+J3_bcHRXL	Neural
+J3_bcHRYR	Digestive
+J3_bcHRZL	Digestive
+J3_bcHRZR	Epidermal
+J3_bcHSCI	Muscle
+J3_bcHSDT	Digestive
+J3_bcHSFL	Endoerm-like III
+J3_bcHSGE	Muscle
+J3_bcHSIS	Muscle
+J3_bcHSIY	Muscle
+J3_bcHSNI	Endoerm-like III
+J3_bcHSQS	Neoblast
+J3_bcHSUO	Endoerm-like III
+J3_bcHSWV	Unknown
+J3_bcHTEA	Digestive
+J3_bcHTHF	Muscle
+J3_bcHTKN	Muscle
+J3_bcHTKX	Digestive
+J3_bcHTPB	Unknown
+J3_bcHTRR	Endodermal Progenitor
+J3_bcHTVB	Epidermal Progenitor
+J3_bcHTZI	Unknown
+J3_bcHUJA	Muscle
+J3_bcHUJC	Digestive
+J3_bcHUKI	Endodermal Progenitor
+J3_bcHUOJ	Digestive
+J3_bcHUPN	Endoderm-like I
+J3_bcHUQT	Endoderm-like I
+J3_bcHUSW	Endodermal Progenitor
+J3_bcHUTZ	Neural
+J3_bcHUUH	Endoderm-like I
+J3_bcHUUU	Endoderm-like I
+J3_bcHUVB	Muscle
+J3_bcHUWA	Muscle
+J3_bcHUWE	Endoderm-like I
+J3_bcHUYL	Unknown
+J3_bcHUZB	Endodermal Progenitor
+J3_bcHVID	Neural
+J3_bcHVJE	Endodermal Progenitor
+J3_bcHVTP	Muscle
+J3_bcHVZN	Muscle
+J3_bcHWEB	Neural
+J3_bcHWEL	Neural
+J3_bcHWHP	Epidermal Progenitor
+J3_bcHWHZ	Endoderm-like I
+J3_bcHWJA	Neural
+J3_bcHWJV	Neoblast
+J3_bcHWMK	Muscle
+J3_bcHWMZ	Muscle
+J3_bcHWNY	Digestive
+J3_bcHWOV	Neoblast
+J3_bcHWPX	Epidermal
+J3_bcHWSL	Neural
+J3_bcHWTH	Neural
+J3_bcHWTY	Epidermal
+J3_bcHWUA	Muscle
+J3_bcHWYA	Muscle
+J3_bcHWZH	Epidermal
+J3_bcHXCR	Neoblast
+J3_bcHXFX	Endodermal Progenitor
+J3_bcHXMK	Neural
+J3_bcHXOK	Neural
+J3_bcHXOO	Neural
+J3_bcHXPF	Muscle
+J3_bcHXRN	Neural
+J3_bcHXRW	Digestive
+J3_bcHXYS	Muscle
+J3_bcHYCH	Endoderm-like I
+J3_bcHYDM	Endoerm-like III
+J3_bcHYGB	Unknown
+J3_bcHYIH	Muscle
+J3_bcHYKA	Endoderm-like I
+J3_bcHYMW	Secretory
+J3_bcHYNS	Unknown
+J3_bcHYPM	Endoderm-like I
+J3_bcHYPO	Epidermal
+J3_bcHYRU	Neoblast
+J3_bcHYUP	Neural
+J3_bcHYWV	Muscle
+J3_bcHYXA	Muscle
+J3_bcHZAB	Neural
+J3_bcHZAN	Secretory
+J3_bcHZDM	Neural
+J3_bcHZFE	Neural
+J3_bcHZGB	Neural
+J3_bcHZLJ	Endodermal Progenitor
+J3_bcHZMC	Unknown
+J3_bcHZRZ	Neural
+J3_bcHZUB	Unknown
+J3_bcHZUK	Endoerm-like III
+J3_bcHZWT	Endoerm-like III
+J3_bcIADI	Digestive
+J3_bcIADW	Muscle
+J3_bcIAFB	Endoerm-like III
+J3_bcIAFH	Muscle
+J3_bcIAGD	Neoblast
+J3_bcIAQC	Digestive
+J3_bcIARC	Neural
+J3_bcIATI	Neoblast
+J3_bcIAVY	Epidermal Progenitor
+J3_bcIAZI	Neural
+J3_bcIBAT	Muscle
+J3_bcIBBT	Digestive
+J3_bcIBGF	Neural
+J3_bcIBHH	Neural
+J3_bcIBHO	Endodermal Progenitor
+J3_bcIBKG	Unknown
+J3_bcIBKL	Neoblast
+J3_bcIBKQ	Neural
+J3_bcIBRT	Neural
+J3_bcIBRZ	Muscle
+J3_bcIBSH	Secretory
+J3_bcIBXY	Endoderm-like I
+J3_bcIBYQ	Neural
+J3_bcICAG	Muscle
+J3_bcICET	Unknown
+J3_bcICFP	Secretory
+J3_bcICGU	Neural
+J3_bcICGX	Unknown
+J3_bcICHT	Neural
+J3_bcICMQ	Unknown
+J3_bcICTI	Epidermal
+J3_bcICTX	Muscle
+J3_bcICXS	Epidermal Progenitor
+J3_bcICXT	Neural
+J3_bcICZP	Epidermal
+J3_bcIDAI	Neural
+J3_bcIDBM	Endoderm-like II
+J3_bcIDBN	Endodermal Progenitor
+J3_bcIDEM	Endoderm-like I
+J3_bcIDHA	Endoerm-like III
+J3_bcIDHE	Neural
+J3_bcIDJH	Endoerm-like III
+J3_bcIDJW	Neoblast
+J3_bcIDKI	Neoblast
+J3_bcIDOI	Secretory
+J3_bcIDQB	Secretory
+J3_bcIDQT	Digestive
+J3_bcIDSN	Secretory
+J3_bcIDUF	Endoderm-like I
+J3_bcIDVV	Digestive
+J3_bcIDYI	Secretory
+J3_bcIEAF	Digestive
+J3_bcIEAI	Endodermal Progenitor
+J3_bcIECP	Muscle
+J3_bcIEIE	Neoblast
+J3_bcIEJX	Neural
+J3_bcIEMX	Neural
+J3_bcIENU	Neural
+J3_bcIENX	Neural
+J3_bcIEOT	Neural
+J3_bcIEPP	Neural
+J3_bcIERC	Neural
+J3_bcIERM	Neural
+J3_bcIETM	Neural
+J3_bcIEXX	Endodermal Progenitor
+J3_bcIEYK	Digestive
+J3_bcIEYS	Digestive
+J3_bcIEZT	Unknown
+J3_bcIFFR	Neural
+J3_bcIFFZ	Neural
+J3_bcIFGB	Digestive
+J3_bcIFHN	Unknown
+J3_bcIFIG	Digestive
+J3_bcIFJZ	Neural
+J3_bcIFMO	Unknown
+J3_bcIFMU	Unknown
+J3_bcIFND	Neural
+J3_bcIFOW	Neural
+J3_bcIFPG	Unknown
+J3_bcIFRS	Digestive
+J3_bcIFRX	Neoblast
+J3_bcIFSB	Digestive
+J3_bcIFTG	Neural
+J3_bcIFVM	Muscle
+J3_bcIFVP	Neural
+J3_bcIFVW	Neoblast
+J3_bcIFYY	Neoblast
+J3_bcIFZW	Epidermal
+J3_bcIGAS	Digestive
+J3_bcIGCC	Neural
+J3_bcIGCL	Endodermal Progenitor
+J3_bcIGEZ	Muscle
+J3_bcIGFS	Neural
+J3_bcIGGC	Neural
+J3_bcIGGW	Endoderm-like I
+J3_bcIGWD	Neural
+J3_bcIGZI	Neoblast
+J3_bcIGZW	Endoderm-like I
+J3_bcIHFO	Muscle
+J3_bcIHHP	Neural
+J3_bcIHKF	Neural
+J3_bcIHKG	Epidermal Progenitor
+J3_bcIHLM	Endodermal Progenitor
+J3_bcIHPI	Endoderm-like II
+J3_bcIHQA	Endodermal Progenitor
+J3_bcIHWG	Endodermal Progenitor
+J3_bcIHWH	Muscle
+J3_bcIHYP	Unknown
+J3_bcIHZN	Endoderm-like I
+J3_bcIIBG	Endoderm-like II
+J3_bcIIDJ	Muscle
+J3_bcIIHN	Digestive
+J3_bcIIIB	Digestive
+J3_bcIIIJ	Endodermal Progenitor
+J3_bcIIJD	Digestive
+J3_bcIIKT	Endoderm-like II
+J3_bcIIMR	Digestive
+J3_bcIINE	Digestive
+J3_bcIINH	Neural
+J3_bcIIOF	Neural
+J3_bcIIQS	Neural
+J3_bcIIRX	Digestive
+J3_bcIIUF	Digestive
+J3_bcIIZU	Muscle
+J3_bcIJDG	Neural
+J3_bcIJGG	Endoderm-like II
+J3_bcIJHA	Unknown
+J3_bcIJHK	Muscle
+J3_bcIJIF	Endoderm-like I
+J3_bcIJNR	Endodermal Progenitor
+J3_bcIJSP	Digestive
+J3_bcIJUG	Muscle
+J3_bcIJVZ	Muscle
+J3_bcIJYL	Neural
+J3_bcIKAL	Secretory
+J3_bcIKCH	Muscle
+J3_bcIKDC	Digestive
+J4_bcAAGQ	Neural
+J4_bcAAMS	Neoblast
+J4_bcAAOM	Endoderm-like I
+J4_bcAAPI	Muscle
+J4_bcAAQO	Digestive
+J4_bcABCR	Neural
+J4_bcABCY	Digestive
+J4_bcABDW	Muscle
+J4_bcABJZ	Neural
+J4_bcABNV	Endoerm-like III
+J4_bcABSP	Muscle
+J4_bcABVS	Neural
+J4_bcACHI	Epidermal
+J4_bcACIN	Muscle
+J4_bcACJJ	Neoblast
+J4_bcACLI	Neoblast
+J4_bcACNE	Neoblast
+J4_bcACNW	Neural
+J4_bcACOT	Endoderm-like I
+J4_bcACOY	Epidermal
+J4_bcACPR	Unknown
+J4_bcADDU	Neural
+J4_bcADGA	Neural
+J4_bcADKX	Neural
+J4_bcADNN	Endoderm-like I
+J4_bcADQL	Unknown
+J4_bcADXX	Digestive
+J4_bcAEBN	Muscle
+J4_bcAECG	Endoderm-like II
+J4_bcAEIM	Digestive
+J4_bcAEMT	Muscle
+J4_bcAEOQ	Neural
+J4_bcAERQ	Neural
+J4_bcAEST	Neural
+J4_bcAFAA	Neural
+J4_bcAFAL	Neoblast
+J4_bcAFFJ	Digestive
+J4_bcAFUI	Neoblast
+J4_bcAFWY	Digestive
+J4_bcAFYA	Endoderm-like I
+J4_bcAGCM	Neural
+J4_bcAGDS	Neural
+J4_bcAGEZ	Digestive
+J4_bcAGGD	Neural
+J4_bcAGGM	Epidermal
+J4_bcAGHM	Muscle
+J4_bcAGKX	Unknown
+J4_bcAGNM	Neural
+J4_bcAGQH	Endodermal Progenitor
+J4_bcAGRS	Digestive
+J4_bcAGUC	Endoderm-like II
+J4_bcAHFF	Neural
+J4_bcAHJB	Endodermal Progenitor
+J4_bcAHNS	Unknown
+J4_bcAHPW	Digestive
+J4_bcAHST	Endodermal Progenitor
+J4_bcAIGH	Neoblast
+J4_bcAIIU	Epidermal
+J4_bcAILP	Neural
+J4_bcAIQM	Digestive
+J4_bcAIVU	Neural
+J4_bcAJAT	Endodermal Progenitor
+J4_bcAJAX	Neoblast
+J4_bcAJDW	Neoblast
+J4_bcAJEU	Neural
+J4_bcAJNU	Neoblast
+J4_bcAJPH	Digestive
+J4_bcAJRP	Digestive
+J4_bcAJUG	Muscle
+J4_bcAJYF	Epidermal
+J4_bcAJYS	Secretory
+J4_bcAKER	Endodermal Progenitor
+J4_bcAKFJ	Neural
+J4_bcAKHE	Neural
+J4_bcAKHI	Neoblast
+J4_bcAKHY	Neoblast
+J4_bcAKMQ	Endoderm-like I
+J4_bcAKTJ	Endoderm-like I
+J4_bcAKTX	Muscle
+J4_bcALOM	Endoderm-like I
+J4_bcALOV	Neoblast
+J4_bcALVK	Muscle
+J4_bcALXS	Neoblast
+J4_bcAMAJ	Unknown
+J4_bcAMAV	Neoblast
+J4_bcAMJT	Digestive
+J4_bcAMPE	Digestive
+J4_bcAMSG	Secretory
+J4_bcANNK	Neural
+J4_bcANTP	Digestive
+J4_bcANWC	Neural
+J4_bcANXF	Neoblast
+J4_bcANXI	Endoerm-like III
+J4_bcAODU	Neural
+J4_bcAOIL	Muscle
+J4_bcAOPX	Neural
+J4_bcAORN	Muscle
+J4_bcAPBI	Digestive
+J4_bcAPGG	Endoerm-like III
+J4_bcAPQQ	Endoderm-like I
+J4_bcAPRO	Muscle
+J4_bcAPTT	Muscle
+J4_bcAQBA	Endoderm-like II
+J4_bcAQEL	Digestive
+J4_bcAQVI	Neural
+J4_bcARAI	Unknown
+J4_bcARAN	Neural
+J4_bcARQN	Epidermal
+J4_bcARTR	Unknown
+J4_bcASCW	Digestive
+J4_bcASEC	Muscle
+J4_bcASEM	Neural
+J4_bcASHL	Epidermal
+J4_bcASIR	Neural
+J4_bcASIT	Endoderm-like I
+J4_bcASKU	Digestive
+J4_bcATDP	Muscle
+J4_bcATFV	Unknown
+J4_bcATGF	Endoderm-like I
+J4_bcATLG	Muscle
+J4_bcATLQ	Neural
+J4_bcATLR	Neoblast
+J4_bcATXF	Neural
+J4_bcAUIQ	Muscle
+J4_bcAUKD	Digestive
+J4_bcAUKV	Neural
+J4_bcAULO	Muscle
+J4_bcAUPC	Muscle
+J4_bcAUSD	Digestive
+J4_bcAUTN	Neural
+J4_bcAUTW	Neural
+J4_bcAUWZ	Endoderm-like II
+J4_bcAVDR	Digestive
+J4_bcAVVG	Neoblast
+J4_bcAVWX	Neural
+J4_bcAWAN	Muscle
+J4_bcAWJG	Endoerm-like III
+J4_bcAWPQ	Digestive
+J4_bcAWQL	Muscle
+J4_bcAWSQ	Unknown
+J4_bcAXBG	Neoblast
+J4_bcAXHN	Epidermal
+J4_bcAXKC	Epidermal
+J4_bcAXUR	Endoderm-like I
+J4_bcAXVB	Neoblast
+J4_bcAXVO	Neural
+J4_bcAXVP	Neural
+J4_bcAXWT	Endoderm-like I
+J4_bcAXWV	Neural
+J4_bcAXWW	Endoerm-like III
+J4_bcAXYT	Neoblast
+J4_bcAXZE	Neural
+J4_bcAXZH	Neural
+J4_bcAXZZ	Epidermal
+J4_bcAYBA	Muscle
+J4_bcAYJJ	Neural
+J4_bcAYKO	Neural
+J4_bcAYVQ	Digestive
+J4_bcAYWP	Endodermal Progenitor
+J4_bcAYWW	Muscle
+J4_bcAYYC	Endoerm-like III
+J4_bcAYZT	Neural
+J4_bcAZCA	Endodermal Progenitor
+J4_bcAZCG	Muscle
+J4_bcAZFC	Endoerm-like III
+J4_bcAZFY	Endoderm-like I
+J4_bcAZGS	Endoderm-like I
+J4_bcAZIH	Neoblast
+J4_bcAZKV	Neural
+J4_bcAZPG	Neural
+J4_bcAZSV	Neural
+J4_bcAZSX	Secretory
+J4_bcAZTZ	Muscle
+J4_bcAZUM	Digestive
+J4_bcBACL	Endoderm-like I
+J4_bcBADQ	Endoderm-like I
+J4_bcBAMF	Digestive
+J4_bcBANH	Muscle
+J4_bcBAPG	Neural
+J4_bcBARD	Epidermal Progenitor
+J4_bcBASG	Neoblast
+J4_bcBBFY	Neural
+J4_bcBBHX	Digestive
+J4_bcBBIN	Muscle
+J4_bcBBKB	Neural
+J4_bcBBKW	Neural
+J4_bcBBNG	Secretory
+J4_bcBBOH	Neural
+J4_bcBBZW	Epidermal
+J4_bcBCCO	Digestive
+J4_bcBCCP	Muscle
+J4_bcBCLI	Digestive
+J4_bcBCPL	Endoderm-like I
+J4_bcBCPU	Neural
+J4_bcBCVW	Neural
+J4_bcBCYO	Unknown
+J4_bcBDEE	Epidermal
+J4_bcBDYG	Neural
+J4_bcBECD	Neoblast
+J4_bcBEDK	Digestive
+J4_bcBFBX	Muscle
+J4_bcBFCT	Neural
+J4_bcBFCV	Neural
+J4_bcBFRR	Neural
+J4_bcBFUN	Endoerm-like III
+J4_bcBFZE	Muscle
+J4_bcBGBR	Epidermal
+J4_bcBGHA	Neoblast
+J4_bcBGMF	Epidermal Progenitor
+J4_bcBHBK	Digestive
+J4_bcBHJT	Epidermal
+J4_bcBHKG	Digestive
+J4_bcBHOF	Epidermal
+J4_bcBHUY	Muscle
+J4_bcBHZN	Unknown
+J4_bcBIAJ	Neoblast
+J4_bcBIBL	Neoblast
+J4_bcBICA	Neural
+J4_bcBIEH	Neoblast
+J4_bcBIFE	Muscle
+J4_bcBIHZ	Endoderm-like I
+J4_bcBIIW	Epidermal Progenitor
+J4_bcBISL	Endoerm-like III
+J4_bcBIYM	Neural
+J4_bcBIYP	Muscle
+J4_bcBJCJ	Digestive
+J4_bcBJDH	Digestive
+J4_bcBJDY	Muscle
+J4_bcBJEE	Neural
+J4_bcBJEK	Neoblast
+J4_bcBJFQ	Endodermal Progenitor
+J4_bcBJIH	Endodermal Progenitor
+J4_bcBJOH	Epidermal Progenitor
+J4_bcBJRX	Neoblast
+J4_bcBJUY	Endoderm-like I
+J4_bcBKFA	Endoderm-like I
+J4_bcBKHD	Endodermal Progenitor
+J4_bcBKVP	Muscle
+J4_bcBLJO	Neoblast
+J4_bcBLJY	Neural
+J4_bcBLLC	Digestive
+J4_bcBLLD	Neural
+J4_bcBLMW	Neural
+J4_bcBLOF	Endoderm-like I
+J4_bcBLTC	Digestive
+J4_bcBLZO	Endoderm-like I
+J4_bcBMAH	Endoderm-like I
+J4_bcBMCO	Digestive
+J4_bcBMGN	Endoderm-like I
+J4_bcBMIM	Muscle
+J4_bcBMIT	Endoerm-like III
+J4_bcBMKP	Muscle
+J4_bcBMMM	Neoblast
+J4_bcBMOK	Secretory
+J4_bcBMPV	Muscle
+J4_bcBMRH	Muscle
+J4_bcBMRK	Muscle
+J4_bcBMVA	Epidermal
+J4_bcBMWL	Neoblast
+J4_bcBNGB	Endodermal Progenitor
+J4_bcBNHJ	Muscle
+J4_bcBNJW	Endoerm-like III
+J4_bcBNLR	Endodermal Progenitor
+J4_bcBOAX	Epidermal
+J4_bcBOFN	Digestive
+J4_bcBOIF	Endoderm-like II
+J4_bcBOJL	Neural
+J4_bcBOKE	Muscle
+J4_bcBOKZ	Digestive
+J4_bcBOOV	Epidermal
+J4_bcBOPP	Endodermal Progenitor
+J4_bcBOQA	Neural
+J4_bcBOUM	Epidermal
+J4_bcBPDK	Neural
+J4_bcBPEC	Neoblast
+J4_bcBPKP	Endoderm-like I
+J4_bcBPND	Endoderm-like I
+J4_bcBPUR	Neural
+J4_bcBPYN	Unknown
+J4_bcBPZR	Epidermal Progenitor
+J4_bcBQCG	Neural
+J4_bcBQEF	Endoderm-like I
+J4_bcBQHF	Muscle
+J4_bcBQKK	Neoblast
+J4_bcBQTA	Endodermal Progenitor
+J4_bcBQWD	Endodermal Progenitor
+J4_bcBROH	Epidermal
+J4_bcBROK	Endoderm-like I
+J4_bcBRRA	Digestive
+J4_bcBRSN	Neural
+J4_bcBRTO	Epidermal
+J4_bcBSDY	Unknown
+J4_bcBSUB	Endodermal Progenitor
+J4_bcBSVO	Unknown
+J4_bcBSXS	Digestive
+J4_bcBTAK	Neural
+J4_bcBTDJ	Digestive
+J4_bcBTGS	Unknown
+J4_bcBTKW	Neural
+J4_bcBTLG	Epidermal
+J4_bcBTOV	Endoderm-like I
+J4_bcBTPI	Neural
+J4_bcBUHW	Epidermal
+J4_bcBULV	Endoderm-like I
+J4_bcBUMD	Digestive
+J4_bcBUMZ	Neural
+J4_bcBUNS	Neural
+J4_bcBUWK	Digestive
+J4_bcBUXJ	Neural
+J4_bcBUYJ	Neoblast
+J4_bcBVCR	Digestive
+J4_bcBVEN	Endoderm-like I
+J4_bcBVFS	Muscle
+J4_bcBVHD	Digestive
+J4_bcBVNN	Digestive
+J4_bcBVXM	Endoerm-like III
+J4_bcBVYN	Neoblast
+J4_bcBVYQ	Muscle
+J4_bcBWEQ	Neural
+J4_bcBWFD	Neoblast
+J4_bcBWGM	Endoderm-like I
+J4_bcBWGU	Digestive
+J4_bcBWYA	Endoderm-like I
+J4_bcBXAT	Endodermal Progenitor
+J4_bcBXCF	Endoderm-like I
+J4_bcBXHG	Endodermal Progenitor
+J4_bcBXHT	Neoblast
+J4_bcBXIF	Endoderm-like I
+J4_bcBXKC	Muscle
+J4_bcBXMC	Muscle
+J4_bcBXNK	Digestive
+J4_bcBXWK	Epidermal
+J4_bcBXXY	Digestive
+J4_bcBXYQ	Neural
+J4_bcBYNG	Endoerm-like III
+J4_bcBYRR	Muscle
+J4_bcBYWN	Neural
+J4_bcBYZL	Muscle
+J4_bcBZCS	Endoderm-like II
+J4_bcBZGG	Endoderm-like I
+J4_bcBZJY	Neural
+J4_bcBZKQ	Neoblast
+J4_bcBZOY	Neoblast
+J4_bcBZPH	Neural
+J4_bcBZPM	Digestive
+J4_bcBZPR	Digestive
+J4_bcBZQB	Neural
+J4_bcBZRX	Epidermal Progenitor
+J4_bcBZTV	Neural
+J4_bcCADX	Unknown
+J4_bcCASE	Unknown
+J4_bcCAXC	Endoerm-like III
+J4_bcCBCW	Neural
+J4_bcCBKB	Muscle
+J4_bcCBKK	Digestive
+J4_bcCBOS	Muscle
+J4_bcCBPP	Unknown
+J4_bcCBPZ	Unknown
+J4_bcCBTV	Secretory
+J4_bcCBYJ	Neural
+J4_bcCCBZ	Secretory
+J4_bcCCDP	Muscle
+J4_bcCCGE	Muscle
+J4_bcCCLE	Muscle
+J4_bcCCLL	Epidermal
+J4_bcCCXW	Endoderm-like II
+J4_bcCCZJ	Neural
+J4_bcCDAA	Neural
+J4_bcCDAK	Neoblast
+J4_bcCDRR	Muscle
+J4_bcCDSZ	Digestive
+J4_bcCEBR	Epidermal
+J4_bcCECY	Digestive
+J4_bcCEJD	Muscle
+J4_bcCEPF	Muscle
+J4_bcCEWS	Muscle
+J4_bcCEXB	Muscle
+J4_bcCEYC	Unknown
+J4_bcCEZN	Endoderm-like II
+J4_bcCFDD	Neural
+J4_bcCFES	Muscle
+J4_bcCFIX	Neural
+J4_bcCFLY	Muscle
+J4_bcCFSS	Neural
+J4_bcCFTX	Endoderm-like I
+J4_bcCFZY	Neural
+J4_bcCGAO	Muscle
+J4_bcCGAR	Epidermal
+J4_bcCGMJ	Neoblast
+J4_bcCHKA	Digestive
+J4_bcCHLQ	Neural
+J4_bcCHMS	Digestive
+J4_bcCHNO	Neural
+J4_bcCHPC	Muscle
+J4_bcCHRS	Muscle
+J4_bcCHTT	Muscle
+J4_bcCICN	Muscle
+J4_bcCIDP	Digestive
+J4_bcCIJW	Muscle
+J4_bcCILD	Neural
+J4_bcCIMX	Endoderm-like I
+J4_bcCIRU	Neural
+J4_bcCIZF	Muscle
+J4_bcCJAJ	Neural
+J4_bcCJLO	Endoderm-like II
+J4_bcCJQJ	Neural
+J4_bcCJSL	Secretory
+J4_bcCJTF	Muscle
+J4_bcCJWR	Muscle
+J4_bcCJWZ	Muscle
+J4_bcCJYN	Unknown
+J4_bcCKAR	Neural
+J4_bcCKBI	Digestive
+J4_bcCKCK	Endoderm-like I
+J4_bcCKDI	Neural
+J4_bcCKHK	Neural
+J4_bcCKUF	Neural
+J4_bcCKUH	Endodermal Progenitor
+J4_bcCKXL	Endodermal Progenitor
+J4_bcCKYY	Endodermal Progenitor
+J4_bcCLNW	Endoderm-like I
+J4_bcCLQG	Secretory
+J4_bcCLRV	Muscle
+J4_bcCLTW	Neural
+J4_bcCLYZ	Endodermal Progenitor
+J4_bcCMBA	Muscle
+J4_bcCMDW	Endoderm-like II
+J4_bcCMEJ	Neural
+J4_bcCMFJ	Digestive
+J4_bcCMYP	Endoderm-like I
+J4_bcCNEW	Digestive
+J4_bcCNIA	Digestive
+J4_bcCNIC	Neoblast
+J4_bcCNMC	Muscle
+J4_bcCNNI	Neural
+J4_bcCNRP	Digestive
+J4_bcCNYE	Endoderm-like II
+J4_bcCOAA	Neural
+J4_bcCOAW	Neural
+J4_bcCOOP	Unknown
+J4_bcCOQX	Neural
+J4_bcCOTC	Digestive
+J4_bcCOTI	Neural
+J4_bcCOTP	Endoerm-like III
+J4_bcCOWJ	Muscle
+J4_bcCOYW	Muscle
+J4_bcCPCE	Digestive
+J4_bcCPDG	Neural
+J4_bcCPMY	Epidermal
+J4_bcCPQZ	Neoblast
+J4_bcCPSA	Neural
+J4_bcCPYL	Endoerm-like III
+J4_bcCQFZ	Endoderm-like I
+J4_bcCQHP	Digestive
+J4_bcCQQJ	Epidermal Progenitor
+J4_bcCQWC	Neural
+J4_bcCRAS	Neural
+J4_bcCRGD	Muscle
+J4_bcCRIJ	Endoderm-like I
+J4_bcCRZE	Neural
+J4_bcCSCT	Neural
+J4_bcCSID	Neural
+J4_bcCSSL	Epidermal
+J4_bcCSWQ	Digestive
+J4_bcCTCY	Epidermal
+J4_bcCTIM	Epidermal
+J4_bcCTOW	Epidermal Progenitor
+J4_bcCTWG	Neoblast
+J4_bcCTZF	Endoderm-like I
+J4_bcCTZM	Neoblast
+J4_bcCUGD	Neural
+J4_bcCUNG	Neural
+J4_bcCUOJ	Neural
+J4_bcCUQU	Endoderm-like II
+J4_bcCVAW	Endoderm-like I
+J4_bcCVEI	Muscle
+J4_bcCVGL	Secretory
+J4_bcCVJA	Neoblast
+J4_bcCVKS	Muscle
+J4_bcCVOY	Muscle
+J4_bcCVPK	Digestive
+J4_bcCVQO	Epidermal
+J4_bcCVUQ	Muscle
+J4_bcCVVL	Neural
+J4_bcCVWA	Digestive
+J4_bcCVWW	Neural
+J4_bcCVYW	Muscle
+J4_bcCVZH	Neural
+J4_bcCVZQ	Neural
+J4_bcCWBL	Endoderm-like I
+J4_bcCWDA	Neural
+J4_bcCWDB	Endoerm-like III
+J4_bcCWGE	Endodermal Progenitor
+J4_bcCWMA	Epidermal
+J4_bcCWPJ	Neural
+J4_bcCWQD	Epidermal
+J4_bcCWRA	Endoderm-like I
+J4_bcCXAT	Endoderm-like I
+J4_bcCXDA	Endodermal Progenitor
+J4_bcCXDL	Endoderm-like II
+J4_bcCXGO	Digestive
+J4_bcCXIO	Endoderm-like I
+J4_bcCXIQ	Endodermal Progenitor
+J4_bcCXOF	Digestive
+J4_bcCXWP	Digestive
+J4_bcCYHJ	Digestive
+J4_bcCYPN	Neural
+J4_bcCYUZ	Endoderm-like I
+J4_bcCZDC	Neural
+J4_bcCZJX	Neural
+J4_bcCZLI	Neural
+J4_bcCZQS	Digestive
+J4_bcCZVH	Neoblast
+J4_bcCZYC	Endoderm-like I
+J4_bcDAGV	Digestive
+J4_bcDALN	Digestive
+J4_bcDAYG	Endoderm-like II
+J4_bcDBID	Neural
+J4_bcDBMD	Endoderm-like II
+J4_bcDBOJ	Neoblast
+J4_bcDCDZ	Endoderm-like I
+J4_bcDCEH	Neoblast
+J4_bcDCES	Neural
+J4_bcDCFQ	Digestive
+J4_bcDCPU	Neural
+J4_bcDCSW	Endodermal Progenitor
+J4_bcDCVI	Neoblast
+J4_bcDCZE	Neoblast
+J4_bcDDGP	Digestive
+J4_bcDDHE	Endoderm-like I
+J4_bcDDHO	Muscle
+J4_bcDDJV	Digestive
+J4_bcDDOS	Neural
+J4_bcDDQZ	Muscle
+J4_bcDDSW	Epidermal Progenitor
+J4_bcDDUH	Neural
+J4_bcDDUY	Neural
+J4_bcDDWL	Muscle
+J4_bcDEDM	Epidermal
+J4_bcDEFF	Neural
+J4_bcDEHD	Epidermal
+J4_bcDEJT	Neural
+J4_bcDEOK	Endodermal Progenitor
+J4_bcDEWM	Endodermal Progenitor
+J4_bcDEXT	Epidermal
+J4_bcDEYX	Muscle
+J4_bcDEZA	Neoblast
+J4_bcDFHV	Endoerm-like III
+J4_bcDFMT	Neural
+J4_bcDFYY	Digestive
+J4_bcDGAF	Epidermal
+J4_bcDGAY	Digestive
+J4_bcDGBD	Muscle
+J4_bcDGDK	Muscle
+J4_bcDGDO	Neural
+J4_bcDGIR	Digestive
+J4_bcDGLE	Endodermal Progenitor
+J4_bcDGRL	Neural
+J4_bcDGSM	Epidermal Progenitor
+J4_bcDGTW	Epidermal
+J4_bcDGWC	Neural
+J4_bcDGWY	Digestive
+J4_bcDHEY	Neural
+J4_bcDHFI	Neural
+J4_bcDIXN	Muscle
+J4_bcDJDA	Neural
+J4_bcDJFP	Digestive
+J4_bcDJIO	Secretory
+J4_bcDJRH	Epidermal
+J4_bcDJUA	Muscle
+J4_bcDJUQ	Endoerm-like III
+J4_bcDKBE	Endodermal Progenitor
+J4_bcDKNP	Neural
+J4_bcDKNY	Neoblast
+J4_bcDKTB	Neural
+J4_bcDKVQ	Endodermal Progenitor
+J4_bcDLHY	Endodermal Progenitor
+J4_bcDLLW	Unknown
+J4_bcDMGK	Neoblast
+J4_bcDMSR	Neoblast
+J4_bcDMUF	Muscle
+J4_bcDMUQ	Secretory
+J4_bcDMVD	Neural
+J4_bcDMXD	Neural
+J4_bcDNIF	Epidermal
+J4_bcDNOE	Endodermal Progenitor
+J4_bcDNWI	Neoblast
+J4_bcDODO	Endoderm-like II
+J4_bcDOFS	Digestive
+J4_bcDOMD	Neural
+J4_bcDOVQ	Digestive
+J4_bcDPDM	Muscle
+J4_bcDPGG	Digestive
+J4_bcDPHN	Neural
+J4_bcDPKT	Epidermal
+J4_bcDPKZ	Unknown
+J4_bcDPPK	Muscle
+J4_bcDPQE	Neoblast
+J4_bcDQCJ	Muscle
+J4_bcDQHZ	Neural
+J4_bcDQLC	Endoderm-like I
+J4_bcDQXH	Unknown
+J4_bcDQXJ	Epidermal Progenitor
+J4_bcDRAD	Digestive
+J4_bcDREB	Endoerm-like III
+J4_bcDREV	Endoderm-like I
+J4_bcDRKE	Unknown
+J4_bcDROB	Digestive
+J4_bcDRPM	Endoderm-like I
+J4_bcDRPT	Neural
+J4_bcDRSQ	Epidermal
+J4_bcDRSX	Epidermal
+J4_bcDRVM	Endodermal Progenitor
+J4_bcDRZS	Neoblast
+J4_bcDSKX	Digestive
+J4_bcDSMM	Muscle
+J4_bcDSPD	Endoderm-like I
+J4_bcDSTM	Endoderm-like II
+J4_bcDSYJ	Endodermal Progenitor
+J4_bcDSZW	Endoderm-like I
+J4_bcDTCW	Muscle
+J4_bcDTKW	Muscle
+J4_bcDTNK	Neural
+J4_bcDTQJ	Endoderm-like I
+J4_bcDTQN	Neural
+J4_bcDTUQ	Digestive
+J4_bcDUGO	Neural
+J4_bcDUNJ	Neural
+J4_bcDUOL	Endodermal Progenitor
+J4_bcDUQU	Endoderm-like I
+J4_bcDUSX	Neural
+J4_bcDUTR	Epidermal Progenitor
+J4_bcDUWL	Muscle
+J4_bcDVAW	Muscle
+J4_bcDVBS	Neural
+J4_bcDVGQ	Neural
+J4_bcDVSF	Endoerm-like III
+J4_bcDWAY	Neural
+J4_bcDWBN	Digestive
+J4_bcDWDH	Digestive
+J4_bcDWJA	Endoerm-like III
+J4_bcDWLW	Neural
+J4_bcDWNA	Digestive
+J4_bcDWTI	Endodermal Progenitor
+J4_bcDWXR	Muscle
+J4_bcDXCQ	Neural
+J4_bcDXDE	Secretory
+J4_bcDXKW	Digestive
+J4_bcDXQL	Neoblast
+J4_bcDXVP	Neoblast
+J4_bcDYBS	Epidermal
+J4_bcDYJO	Endoderm-like I
+J4_bcDYLD	Neoblast
+J4_bcDYOH	Unknown
+J4_bcDYPM	Secretory
+J4_bcDZJG	Neoblast
+J4_bcDZKR	Neural
+J4_bcDZMH	Endodermal Progenitor
+J4_bcDZPV	Endodermal Progenitor
+J4_bcEAAP	Neoblast
+J4_bcEABN	Endoderm-like II
+J4_bcEBLN	Muscle
+J4_bcEBQZ	Neural
+J4_bcECML	Digestive
+J4_bcECTG	Unknown
+J4_bcECTN	Neural
+J4_bcEDBK	Epidermal Progenitor
+J4_bcEDBX	Unknown
+J4_bcEDHP	Unknown
+J4_bcEDIA	Neoblast
+J4_bcEDKM	Endodermal Progenitor
+J4_bcEDQA	Endodermal Progenitor
+J4_bcEDYV	Secretory
+J4_bcEDZV	Neural
+J4_bcEEDZ	Epidermal
+J4_bcEFAA	Digestive
+J4_bcEFQY	Neural
+J4_bcEGFO	Digestive
+J4_bcEGNN	Digestive
+J4_bcEGNY	Endoderm-like I
+J4_bcEGSL	Muscle
+J4_bcEGTH	Neural
+J4_bcEGTL	Neoblast
+J4_bcEGTU	Neural
+J4_bcEGWZ	Endoderm-like I
+J4_bcEGZL	Endoderm-like I
+J4_bcEHBN	Digestive
+J4_bcEHBT	Muscle
+J4_bcEHDJ	Neural
+J4_bcEHEW	Muscle
+J4_bcEHHC	Digestive
+J4_bcEHJR	Unknown
+J4_bcEHNF	Epidermal
+J4_bcEHOY	Endoderm-like I
+J4_bcEHPG	Neural
+J4_bcEHXP	Neural
+J4_bcEIAO	Muscle
+J4_bcEIDJ	Digestive
+J4_bcEIEY	Epidermal
+J4_bcEIIP	Endoderm-like I
+J4_bcEIIY	Muscle
+J4_bcEILK	Digestive
+J4_bcEINX	Neoblast
+J4_bcEIQJ	Endoderm-like I
+J4_bcEIQT	Digestive
+J4_bcEIVW	Digestive
+J4_bcEIWA	Endoderm-like II
+J4_bcEJDG	Neural
+J4_bcEJGH	Unknown
+J4_bcEJJO	Secretory
+J4_bcEJKA	Digestive
+J4_bcEJMA	Endoderm-like I
+J4_bcEJNY	Neural
+J4_bcEJPI	Digestive
+J4_bcEJPT	Neoblast
+J4_bcEJXT	Muscle
+J4_bcEKBP	Muscle
+J4_bcEKGA	Endoderm-like II
+J4_bcEKNL	Digestive
+J4_bcEKUJ	Digestive
+J4_bcELBF	Neural
+J4_bcELFY	Unknown
+J4_bcELGV	Neural
+J4_bcELGX	Epidermal
+J4_bcELIK	Endodermal Progenitor
+J4_bcELRA	Neural
+J4_bcELWZ	Endoderm-like II
+J4_bcEMCI	Neoblast
+J4_bcEMKD	Neural
+J4_bcEMLE	Muscle
+J4_bcEMLG	Digestive
+J4_bcEMMG	Digestive
+J4_bcEMRZ	Endodermal Progenitor
+J4_bcENBD	Endodermal Progenitor
+J4_bcENCY	Endodermal Progenitor
+J4_bcENGD	Digestive
+J4_bcENIZ	Neural
+J4_bcENML	Neural
+J4_bcENNE	Neural
+J4_bcENPE	Neural
+J4_bcENTI	Neoblast
+J4_bcENUX	Digestive
+J4_bcEOBS	Neural
+J4_bcEODB	Endodermal Progenitor
+J4_bcEODZ	Neural
+J4_bcEOKF	Muscle
+J4_bcEOMS	Neural
+J4_bcEOVJ	Muscle
+J4_bcEOWU	Unknown
+J4_bcEOZE	Neural
+J4_bcEPAB	Secretory
+J4_bcEPEI	Epidermal
+J4_bcEPEJ	Neural
+J4_bcEPFA	Digestive
+J4_bcEPME	Epidermal
+J4_bcEPSF	Neural
+J4_bcEPVY	Endodermal Progenitor
+J4_bcEQME	Epidermal
+J4_bcEQQL	Neural
+J4_bcEQSG	Neural
+J4_bcEQTE	Neural
+J4_bcEQTS	Neural
+J4_bcEQVZ	Neoblast
+J4_bcEQWD	Neoblast
+J4_bcEQXK	Epidermal
+J4_bcEQYP	Unknown
+J4_bcEQYZ	Epidermal
+J4_bcEQZD	Neural
+J4_bcEQZJ	Epidermal Progenitor
+J4_bcERAN	Digestive
+J4_bcERBN	Digestive
+J4_bcERBO	Endodermal Progenitor
+J4_bcERBU	Neural
+J4_bcERMH	Neoblast
+J4_bcERMZ	Unknown
+J4_bcERNB	Digestive
+J4_bcEROT	Muscle
+J4_bcERQH	Neural
+J4_bcERTA	Neoblast
+J4_bcERTU	Unknown
+J4_bcERVB	Secretory
+J4_bcERXP	Digestive
+J4_bcESBC	Digestive
+J4_bcESEL	Digestive
+J4_bcESES	Muscle
+J4_bcESKC	Digestive
+J4_bcESOJ	Digestive
+J4_bcESQT	Secretory
+J4_bcESRH	Muscle
+J4_bcESUG	Epidermal
+J4_bcESVA	Epidermal
+J4_bcETAE	Neoblast
+J4_bcETGG	Endoderm-like II
+J4_bcETIK	Neural
+J4_bcETJT	Neural
+J4_bcETML	Secretory
+J4_bcETTF	Endoderm-like I
+J4_bcETVQ	Unknown
+J4_bcETYB	Unknown
+J4_bcEUHM	Muscle
+J4_bcEUIA	Endoerm-like III
+J4_bcEUIO	Neural
+J4_bcEUTO	Endoderm-like I
+J4_bcEUUE	Endoerm-like III
+J4_bcEUWK	Digestive
+J4_bcEUXR	Epidermal
+J4_bcEVCL	Muscle
+J4_bcEVFD	Endodermal Progenitor
+J4_bcEVMI	Muscle
+J4_bcEVMW	Epidermal
+J4_bcEVSY	Neural
+J4_bcEVVK	Endodermal Progenitor
+J4_bcEWBY	Digestive
+J4_bcEWCA	Neural
+J4_bcEWEL	Neural
+J4_bcEWID	Neural
+J4_bcEWJT	Muscle
+J4_bcEWJZ	Neural
+J4_bcEWKQ	Unknown
+J4_bcEWLF	Neural
+J4_bcEWPK	Digestive
+J4_bcEWPM	Epidermal
+J4_bcEWQU	Muscle
+J4_bcEWRO	Epidermal
+J4_bcEWUQ	Endoderm-like II
+J4_bcEWVO	Epidermal Progenitor
+J4_bcEWXB	Neural
+J4_bcEWYZ	Digestive
+J4_bcEXCB	Endoderm-like I
+J4_bcEXDY	Muscle
+J4_bcEXFM	Muscle
+J4_bcEXJQ	Endodermal Progenitor
+J4_bcEXLF	Digestive
+J4_bcEXMD	Muscle
+J4_bcEXOW	Neural
+J4_bcEXUQ	Neural
+J4_bcEXYT	Endoderm-like I
+J4_bcEYDE	Endoderm-like I
+J4_bcEYHQ	Endodermal Progenitor
+J4_bcEYIH	Muscle
+J4_bcEYLE	Digestive
+J4_bcEYTU	Digestive
+J4_bcEYUS	Muscle
+J4_bcEYXF	Neural
+J4_bcEYYS	Neural
+J4_bcEZLF	Endodermal Progenitor
+J4_bcEZOB	Neural
+J4_bcEZTZ	Neoblast
+J4_bcEZWN	Muscle
+J4_bcEZWR	Neural
+J4_bcEZXH	Neural
+J4_bcEZXJ	Endoderm-like I
+J4_bcEZYY	Neoblast
+J4_bcFAEX	Endoerm-like III
+J4_bcFAKW	Neural
+J4_bcFANQ	Digestive
+J4_bcFAPX	Unknown
+J4_bcFATB	Neoblast
+J4_bcFBBX	Digestive
+J4_bcFBCW	Muscle
+J4_bcFBED	Neural
+J4_bcFBFY	Neoblast
+J4_bcFBIW	Epidermal Progenitor
+J4_bcFBLE	Neural
+J4_bcFBPD	Neoblast
+J4_bcFBPG	Endodermal Progenitor
+J4_bcFBRE	Unknown
+J4_bcFBSG	Neural
+J4_bcFBTU	Neural
+J4_bcFCOU	Endoderm-like I
+J4_bcFCQD	Neoblast
+J4_bcFCQK	Digestive
+J4_bcFCVK	Digestive
+J4_bcFCVV	Muscle
+J4_bcFDEI	Endoerm-like III
+J4_bcFDNW	Neural
+J4_bcFDZW	Unknown
+J4_bcFEDK	Neural
+J4_bcFEGD	Muscle
+J4_bcFEJI	Muscle
+J4_bcFEJK	Endoerm-like III
+J4_bcFEMV	Endoderm-like I
+J4_bcFEOS	Digestive
+J4_bcFEQG	Endoerm-like III
+J4_bcFETX	Endodermal Progenitor
+J4_bcFFME	Neural
+J4_bcFFSL	Endoderm-like II
+J4_bcFFTH	Muscle
+J4_bcFFZW	Digestive
+J4_bcFGCM	Digestive
+J4_bcFGFK	Digestive
+J4_bcFGFR	Neural
+J4_bcFGJB	Neural
+J4_bcFGQE	Endoderm-like I
+J4_bcFGSW	Endoerm-like III
+J4_bcFGTN	Neural
+J4_bcFGVU	Neural
+J4_bcFGWJ	Neural
+J4_bcFHDH	Digestive
+J4_bcFHHF	Muscle
+J4_bcFHJO	Neural
+J4_bcFHJT	Muscle
+J4_bcFHKU	Endoderm-like I
+J4_bcFHPH	Digestive
+J4_bcFICT	Muscle
+J4_bcFIEJ	Neural
+J4_bcFINJ	Digestive
+J4_bcFIQF	Endodermal Progenitor
+J4_bcFIQQ	Neoblast
+J4_bcFIUJ	Epidermal Progenitor
+J4_bcFIUL	Digestive
+J4_bcFIVF	Neoblast
+J4_bcFIWH	Endodermal Progenitor
+J4_bcFIYX	Neural
+J4_bcFJBZ	Muscle
+J4_bcFJCJ	Neoblast
+J4_bcFJCW	Epidermal Progenitor
+J4_bcFJFM	Digestive
+J4_bcFJGE	Muscle
+J4_bcFJQC	Secretory
+J4_bcFJRK	Digestive
+J4_bcFJUX	Digestive
+J4_bcFJUY	Neural
+J4_bcFJVF	Muscle
+J4_bcFJVO	Digestive
+J4_bcFJYO	Epidermal
+J4_bcFKFE	Epidermal Progenitor
+J4_bcFKFV	Neural
+J4_bcFKGE	Neural
+J4_bcFKJI	Endodermal Progenitor
+J4_bcFKJJ	Neoblast
+J4_bcFKJK	Endoerm-like III
+J4_bcFKKC	Unknown
+J4_bcFKKV	Neoblast
+J4_bcFKLL	Digestive
+J4_bcFKPR	Muscle
+J4_bcFKQV	Muscle
+J4_bcFKSB	Digestive
+J4_bcFKSG	Muscle
+J4_bcFKTA	Neural
+J4_bcFKUE	Epidermal
+J4_bcFLAA	Muscle
+J4_bcFLBD	Muscle
+J4_bcFLDL	Digestive
+J4_bcFLDV	Muscle
+J4_bcFLIA	Muscle
+J4_bcFLLL	Endoderm-like I
+J4_bcFLLW	Neural
+J4_bcFLOD	Epidermal
+J4_bcFLVC	Neural
+J4_bcFLXS	Neural
+J4_bcFMEF	Muscle
+J4_bcFMHL	Neoblast
+J4_bcFMLC	Digestive
+J4_bcFMLY	Unknown
+J4_bcFMMD	Muscle
+J4_bcFMOM	Muscle
+J4_bcFMRL	Neoblast
+J4_bcFMVH	Epidermal
+J4_bcFMVQ	Muscle
+J4_bcFNBB	Epidermal
+J4_bcFNDF	Neoblast
+J4_bcFNHA	Endodermal Progenitor
+J4_bcFNRL	Neural
+J4_bcFNSL	Epidermal
+J4_bcFOAF	Neural
+J4_bcFOEZ	Neural
+J4_bcFOFI	Neural
+J4_bcFOHW	Neoblast
+J4_bcFOOJ	Neural
+J4_bcFOTG	Endoderm-like I
+J4_bcFPBM	Neoblast
+J4_bcFPDZ	Endoderm-like II
+J4_bcFPHT	Muscle
+J4_bcFPJP	Neoblast
+J4_bcFPWL	Secretory
+J4_bcFPXU	Neural
+J4_bcFQAA	Digestive
+J4_bcFQAP	Digestive
+J4_bcFQAX	Neural
+J4_bcFQDA	Unknown
+J4_bcFQOA	Digestive
+J4_bcFQSE	Endodermal Progenitor
+J4_bcFQVH	Epidermal
+J4_bcFQWA	Endoderm-like I
+J4_bcFRDG	Secretory
+J4_bcFRGT	Epidermal Progenitor
+J4_bcFRPF	Unknown
+J4_bcFRQE	Neural
+J4_bcFRVK	Neural
+J4_bcFRVQ	Endodermal Progenitor
+J4_bcFRWA	Neural
+J4_bcFSBO	Neural
+J4_bcFSBP	Epidermal Progenitor
+J4_bcFSDJ	Neural
+J4_bcFSFA	Endoderm-like I
+J4_bcFSFT	Unknown
+J4_bcFSGD	Epidermal
+J4_bcFSJS	Neural
+J4_bcFSMG	Secretory
+J4_bcFSXT	Muscle
+J4_bcFSZU	Epidermal
+J4_bcFTAA	Neoblast
+J4_bcFTHX	Secretory
+J4_bcFTPC	Muscle
+J4_bcFTQB	Neoblast
+J4_bcFTSQ	Endodermal Progenitor
+J4_bcFTTH	Muscle
+J4_bcFTWN	Endoderm-like I
+J4_bcFTWU	Neoblast
+J4_bcFUAM	Endodermal Progenitor
+J4_bcFUCW	Neural
+J4_bcFUEW	Neoblast
+J4_bcFUIQ	Muscle
+J4_bcFUJC	Digestive
+J4_bcFUJY	Digestive
+J4_bcFULM	Epidermal
+J4_bcFUML	Muscle
+J4_bcFUVH	Neural
+J4_bcFUXI	Neural
+J4_bcFUZZ	Digestive
+J4_bcFVDB	Digestive
+J4_bcFVDR	Epidermal
+J4_bcFVDU	Neural
+J4_bcFVFI	Neural
+J4_bcFVGL	Digestive
+J4_bcFVJV	Digestive
+J4_bcFVKT	Digestive
+J4_bcFVPI	Muscle
+J4_bcFVUH	Neural
+J4_bcFVVX	Endoerm-like III
+J4_bcFWCU	Digestive
+J4_bcFWFS	Neural
+J4_bcFWHR	Digestive
+J4_bcFWXS	Digestive
+J4_bcFWYT	Neural
+J4_bcFXAQ	Muscle
+J4_bcFXEI	Digestive
+J4_bcFXFZ	Muscle
+J4_bcFXGY	Muscle
+J4_bcFXIK	Digestive
+J4_bcFXND	Digestive
+J4_bcFXOL	Epidermal
+J4_bcFXRV	Neural
+J4_bcFXYT	Endodermal Progenitor
+J4_bcFYGI	Neural
+J4_bcFYIK	Endoderm-like II
+J4_bcFYLA	Neural
+J4_bcFYMD	Neural
+J4_bcFYRB	Muscle
+J4_bcFYSI	Muscle
+J4_bcFYTH	Neural
+J4_bcFYVL	Neoblast
+J4_bcFYZN	Neural
+J4_bcFZCM	Muscle
+J4_bcFZDO	Neoblast
+J4_bcFZEY	Muscle
+J4_bcFZFQ	Endoerm-like III
+J4_bcFZFT	Unknown
+J4_bcFZNQ	Neoblast
+J4_bcFZTW	Endodermal Progenitor
+J4_bcFZYW	Endodermal Progenitor
+J4_bcGABJ	Neural
+J4_bcGACX	Digestive
+J4_bcGADU	Unknown
+J4_bcGAJL	Secretory
+J4_bcGAKG	Endoderm-like II
+J4_bcGAKO	Endodermal Progenitor
+J4_bcGALM	Epidermal Progenitor
+J4_bcGASW	Neural
+J4_bcGAUH	Neoblast
+J4_bcGBGK	Endoderm-like I
+J4_bcGBGO	Digestive
+J4_bcGBJG	Epidermal
+J4_bcGBKS	Neural
+J4_bcGBQF	Endoerm-like III
+J4_bcGBWJ	Neural
+J4_bcGBXC	Neural
+J4_bcGBYS	Neoblast
+J4_bcGBZU	Endoderm-like I
+J4_bcGCCY	Epidermal
+J4_bcGCGV	Epidermal Progenitor
+J4_bcGCIH	Muscle
+J4_bcGCNH	Endoderm-like I
+J4_bcGCNN	Digestive
+J4_bcGCQX	Neural
+J4_bcGCWY	Muscle
+J4_bcGCZF	Endodermal Progenitor
+J4_bcGCZM	Neural
+J4_bcGCZX	Epidermal
+J4_bcGDDK	Epidermal
+J4_bcGDHO	Endodermal Progenitor
+J4_bcGDLH	Neoblast
+J4_bcGDQG	Muscle
+J4_bcGEGK	Neoblast
+J4_bcGEOW	Unknown
+J4_bcGEQK	Unknown
+J4_bcGESB	Endoderm-like I
+J4_bcGEXF	Neural
+J4_bcGEZE	Unknown
+J4_bcGFBK	Endoerm-like III
+J4_bcGFFL	Neoblast
+J4_bcGFFM	Digestive
+J4_bcGFGX	Neural
+J4_bcGFHE	Neural
+J4_bcGFLP	Neoblast
+J4_bcGFYX	Neural
+J4_bcGFZC	Neoblast
+J4_bcGGCK	Neural
+J4_bcGGCP	Neural
+J4_bcGGEL	Endodermal Progenitor
+J4_bcGGIG	Endoerm-like III
+J4_bcGGIW	Neural
+J4_bcGGLR	Neural
+J4_bcGGLW	Neoblast
+J4_bcGGNF	Neoblast
+J4_bcGGTA	Muscle
+J4_bcGGXO	Secretory
+J4_bcGGYC	Endoderm-like II
+J4_bcGHAA	Neural
+J4_bcGHAE	Endoderm-like I
+J4_bcGHBX	Endoderm-like I
+J4_bcGHKM	Muscle
+J4_bcGHLX	Muscle
+J4_bcGHOB	Neural
+J4_bcGHQT	Unknown
+J4_bcGHSY	Neoblast
+J4_bcGIGE	Neoblast
+J4_bcGIGF	Neoblast
+J4_bcGIHL	Endoerm-like III
+J4_bcGIOY	Endoerm-like III
+J4_bcGIZX	Endoderm-like II
+J4_bcGJAX	Endoderm-like I
+J4_bcGJDY	Neural
+J4_bcGJGS	Secretory
+J4_bcGJGX	Muscle
+J4_bcGJHP	Muscle
+J4_bcGJHY	Neural
+J4_bcGJIB	Endoerm-like III
+J4_bcGJKY	Muscle
+J4_bcGJPE	Neural
+J4_bcGJSE	Epidermal
+J4_bcGJWG	Neoblast
+J4_bcGJWN	Digestive
+J4_bcGJXK	Endoderm-like I
+J4_bcGJXW	Neural
+J4_bcGJYD	Neural
+J4_bcGJZN	Neural
+J4_bcGKDS	Muscle
+J4_bcGKHP	Unknown
+J4_bcGKLQ	Digestive
+J4_bcGKMQ	Neural
+J4_bcGKQI	Muscle
+J4_bcGKYI	Epidermal Progenitor
+J4_bcGLBQ	Muscle
+J4_bcGLDV	Neural
+J4_bcGLEC	Digestive
+J4_bcGLKT	Muscle
+J4_bcGLOA	Muscle
+J4_bcGLOZ	Digestive
+J4_bcGMGS	Neural
+J4_bcGMIC	Endoerm-like III
+J4_bcGMOU	Neoblast
+J4_bcGMPD	Neoblast
+J4_bcGMRE	Epidermal
+J4_bcGMTC	Muscle
+J4_bcGMTN	Digestive
+J4_bcGMWJ	Epidermal
+J4_bcGMZD	Neural
+J4_bcGNDG	Digestive
+J4_bcGNHI	Neural
+J4_bcGNJH	Neural
+J4_bcGNLM	Neoblast
+J4_bcGNNI	Neural
+J4_bcGNQE	Endoerm-like III
+J4_bcGNQH	Neural
+J4_bcGNSG	Neural
+J4_bcGNSV	Digestive
+J4_bcGNTJ	Endoerm-like III
+J4_bcGNVW	Neural
+J4_bcGNWI	Digestive
+J4_bcGNYQ	Neoblast
+J4_bcGNZC	Digestive
+J4_bcGNZH	Neoblast
+J4_bcGOHE	Neural
+J4_bcGOKI	Neural
+J4_bcGOPJ	Secretory
+J4_bcGOVP	Endodermal Progenitor
+J4_bcGPEM	Endoderm-like II
+J4_bcGPNF	Neoblast
+J4_bcGPOU	Secretory
+J4_bcGPPC	Neural
+J4_bcGPQJ	Endoerm-like III
+J4_bcGPTM	Neural
+J4_bcGPXL	Neural
+J4_bcGQBC	Neural
+J4_bcGQIA	Endoderm-like I
+J4_bcGQPR	Unknown
+J4_bcGQRG	Digestive
+J4_bcGQTD	Digestive
+J4_bcGQUG	Unknown
+J4_bcGQVE	Epidermal Progenitor
+J4_bcGRDU	Unknown
+J4_bcGRGD	Neural
+J4_bcGRHX	Endoderm-like II
+J4_bcGRJS	Neoblast
+J4_bcGRPF	Unknown
+J4_bcGRYS	Neoblast
+J4_bcGSDO	Endodermal Progenitor
+J4_bcGSGD	Digestive
+J4_bcGSMT	Endoderm-like I
+J4_bcGSXN	Endodermal Progenitor
+J4_bcGTDM	Muscle
+J4_bcGTDQ	Endoderm-like I
+J4_bcGTDV	Unknown
+J4_bcGTIO	Muscle
+J4_bcGTLZ	Neural
+J4_bcGTNF	Endodermal Progenitor
+J4_bcGTQO	Epidermal Progenitor
+J4_bcGUAO	Epidermal Progenitor
+J4_bcGUAV	Neoblast
+J4_bcGUBV	Endoderm-like I
+J4_bcGUCG	Neural
+J4_bcGUGG	Muscle
+J4_bcGURN	Neural
+J4_bcGURO	Digestive
+J4_bcGUTG	Neural
+J4_bcGUTQ	Digestive
+J4_bcGUUA	Muscle
+J4_bcGUXP	Endoderm-like II
+J4_bcGVIL	Epidermal Progenitor
+J4_bcGVJB	Neural
+J4_bcGVTP	Endoderm-like I
+J4_bcGVVP	Secretory
+J4_bcGVVS	Neural
+J4_bcGVYE	Digestive
+J4_bcGVZG	Neural
+J4_bcGWDV	Neural
+J4_bcGWGH	Neural
+J4_bcGWKI	Neural
+J4_bcGWKS	Muscle
+J4_bcGWLY	Muscle
+J4_bcGWMZ	Digestive
+J4_bcGWNF	Epidermal Progenitor
+J4_bcGWPG	Digestive
+J4_bcGWUR	Endoderm-like I
+J4_bcGWZC	Unknown
+J4_bcGXBF	Digestive
+J4_bcGXBL	Digestive
+J4_bcGXEC	Muscle
+J4_bcGXEU	Digestive
+J4_bcGXGB	Muscle
+J4_bcGXLK	Endodermal Progenitor
+J4_bcGXLZ	Digestive
+J4_bcGXNE	Epidermal Progenitor
+J4_bcGXNV	Neural
+J4_bcGXSX	Unknown
+J4_bcGXXI	Epidermal
+J4_bcGYAH	Endoderm-like I
+J4_bcGYHW	Neural
+J4_bcGYIR	Endoderm-like I
+J4_bcGYLM	Endoerm-like III
+J4_bcGYOS	Endodermal Progenitor
+J4_bcGYPB	Muscle
+J4_bcGYUV	Endodermal Progenitor
+J4_bcGYVT	Muscle
+J4_bcGYXA	Epidermal
+J4_bcGYZQ	Epidermal Progenitor
+J4_bcGZBV	Neural
+J4_bcGZES	Digestive
+J4_bcGZFT	Digestive
+J4_bcGZGO	Neural
+J4_bcGZIZ	Epidermal
+J4_bcGZKR	Muscle
+J4_bcGZME	Neoblast
+J4_bcGZSC	Digestive
+J4_bcGZTX	Neural
+J4_bcGZYX	Digestive
+J4_bcHADG	Digestive
+J4_bcHADP	Muscle
+J4_bcHAJN	Endoderm-like I
+J4_bcHAKK	Endoderm-like II
+J4_bcHAUL	Neural
+J4_bcHAUN	Unknown
+J4_bcHAWG	Endoerm-like III
+J4_bcHAXT	Muscle
+J4_bcHBAU	Neoblast
+J4_bcHBFY	Muscle
+J4_bcHBLM	Endoderm-like I
+J4_bcHBNN	Endoderm-like I
+J4_bcHBUB	Endoderm-like II
+J4_bcHBWA	Digestive
+J4_bcHCDN	Neoblast
+J4_bcHCGQ	Neural
+J4_bcHCIQ	Neural
+J4_bcHCLU	Digestive
+J4_bcHCNB	Neural
+J4_bcHCPE	Neural
+J4_bcHDBV	Muscle
+J4_bcHDEQ	Neural
+J4_bcHDEW	Digestive
+J4_bcHDFN	Endodermal Progenitor
+J4_bcHDHX	Endodermal Progenitor
+J4_bcHDLE	Epidermal
+J4_bcHDLV	Neoblast
+J4_bcHDNE	Epidermal Progenitor
+J4_bcHDOI	Neural
+J4_bcHDRF	Muscle
+J4_bcHEAG	Endoderm-like II
+J4_bcHEDS	Endoderm-like II
+J4_bcHEEC	Secretory
+J4_bcHEEK	Neural
+J4_bcHEGA	Endoderm-like II
+J4_bcHEHL	Muscle
+J4_bcHEKM	Unknown
+J4_bcHEKR	Neural
+J4_bcHELJ	Neural
+J4_bcHELU	Unknown
+J4_bcHEUO	Muscle
+J4_bcHEVK	Epidermal
+J4_bcHEZY	Neural
+J4_bcHFCX	Neoblast
+J4_bcHFHC	Muscle
+J4_bcHFOE	Muscle
+J4_bcHFZE	Endoderm-like I
+J4_bcHGCB	Unknown
+J4_bcHGHO	Neoblast
+J4_bcHGKB	Unknown
+J4_bcHGLY	Muscle
+J4_bcHGQU	Muscle
+J4_bcHGSM	Muscle
+J4_bcHGSV	Endoerm-like III
+J4_bcHGWI	Epidermal
+J4_bcHGZV	Neural
+J4_bcHHBG	Epidermal Progenitor
+J4_bcHHBL	Neural
+J4_bcHHEM	Endodermal Progenitor
+J4_bcHHIZ	Epidermal Progenitor
+J4_bcHHMX	Neural
+J4_bcHHOP	Endoderm-like I
+J4_bcHHWA	Neural
+J4_bcHHZQ	Digestive
+J4_bcHICB	Neoblast
+J4_bcHIEX	Endoerm-like III
+J4_bcHIXC	Neural
+J4_bcHIYG	Neoblast
+J4_bcHIZF	Endoderm-like II
+J4_bcHJAT	Muscle
+J4_bcHJAX	Neural
+J4_bcHJGI	Endoderm-like I
+J4_bcHJHW	Neural
+J4_bcHJJA	Digestive
+J4_bcHJMN	Neoblast
+J4_bcHJMO	Digestive
+J4_bcHJNF	Endodermal Progenitor
+J4_bcHJNR	Neural
+J4_bcHJOI	Digestive
+J4_bcHJQG	Epidermal
+J4_bcHJWU	Endoderm-like I
+J4_bcHJYQ	Muscle
+J4_bcHKCS	Epidermal
+J4_bcHKDH	Endoerm-like III
+J4_bcHKIJ	Endoderm-like II
+J4_bcHKMN	Endoderm-like I
+J4_bcHKOP	Secretory
+J4_bcHKOQ	Neural
+J4_bcHKQV	Unknown
+J4_bcHKTK	Digestive
+J4_bcHKVO	Digestive
+J4_bcHKYT	Neural
+J4_bcHKZG	Endodermal Progenitor
+J4_bcHLAD	Muscle
+J4_bcHLII	Epidermal
+J4_bcHLKN	Neural
+J4_bcHLOW	Unknown
+J4_bcHLPI	Neural
+J4_bcHLSE	Epidermal Progenitor
+J4_bcHLSS	Neural
+J4_bcHMDP	Muscle
+J4_bcHMDT	Neural
+J4_bcHMGQ	Endodermal Progenitor
+J4_bcHMJR	Unknown
+J4_bcHMMO	Neural
+J4_bcHMPT	Muscle
+J4_bcHMRK	Neoblast
+J4_bcHMUF	Neural
+J4_bcHMUM	Neural
+J4_bcHMYR	Neoblast
+J4_bcHNRH	Endoderm-like I
+J4_bcHNSH	Muscle
+J4_bcHNTB	Neural
+J4_bcHNUO	Digestive
+J4_bcHNWH	Digestive
+J4_bcHNWY	Endoderm-like II
+J4_bcHOOD	Unknown
+J4_bcHOOW	Digestive
+J4_bcHOST	Muscle
+J4_bcHOVD	Secretory
+J4_bcHOVG	Endoerm-like III
+J4_bcHOVJ	Endoderm-like II
+J4_bcHOXJ	Endodermal Progenitor
+J4_bcHOYB	Neural
+J4_bcHPBD	Endoerm-like III
+J4_bcHPBS	Muscle
+J4_bcHPLK	Muscle
+J4_bcHPLM	Muscle
+J4_bcHPPR	Unknown
+J4_bcHPQM	Endoderm-like I
+J4_bcHPSB	Digestive
+J4_bcHPWQ	Endodermal Progenitor
+J4_bcHQIU	Epidermal
+J4_bcHQLV	Muscle
+J4_bcHQQN	Endoderm-like II
+J4_bcHQTS	Epidermal
+J4_bcHQUA	Digestive
+J4_bcHQXC	Neural
+J4_bcHRPF	Neural
+J4_bcHRRO	Digestive
+J4_bcHRUS	Digestive
+J4_bcHRWP	Muscle
+J4_bcHSFT	Digestive
+J4_bcHSNX	Neural
+J4_bcHSOO	Muscle
+J4_bcHSWR	Endodermal Progenitor
+J4_bcHSXU	Neural
+J4_bcHSZB	Neoblast
+J4_bcHSZM	Muscle
+J4_bcHTAV	Muscle
+J4_bcHTEN	Neoblast
+J4_bcHTGO	Neural
+J4_bcHTIR	Digestive
+J4_bcHTJH	Endoerm-like III
+J4_bcHTKZ	Endodermal Progenitor
+J4_bcHTMI	Digestive
+J4_bcHTNJ	Neural
+J4_bcHTOC	Neoblast
+J4_bcHTPN	Neural
+J4_bcHTRO	Endoderm-like I
+J4_bcHTUC	Neoblast
+J4_bcHUGB	Unknown
+J4_bcHURZ	Epidermal
+J4_bcHUSU	Neural
+J4_bcHUVQ	Endoderm-like I
+J4_bcHUZQ	Muscle
+J4_bcHVAX	Neural
+J4_bcHVDK	Epidermal
+J4_bcHVJE	Endodermal Progenitor
+J4_bcHVSM	Muscle
+J4_bcHVTO	Muscle
+J4_bcHVUB	Digestive
+J4_bcHVWA	Muscle
+J4_bcHVXA	Neoblast
+J4_bcHVXM	Neural
+J4_bcHVXZ	Endodermal Progenitor
+J4_bcHWBD	Unknown
+J4_bcHWBQ	Neural
+J4_bcHWGD	Endodermal Progenitor
+J4_bcHWHZ	Endoderm-like I
+J4_bcHWJI	Muscle
+J4_bcHWKL	Neural
+J4_bcHWOB	Neoblast
+J4_bcHWOV	Neoblast
+J4_bcHWQD	Muscle
+J4_bcHWQL	Neural
+J4_bcHWYJ	Muscle
+J4_bcHWZH	Epidermal
+J4_bcHWZT	Digestive
+J4_bcHWZY	Digestive
+J4_bcHXCB	Endoderm-like I
+J4_bcHXFR	Neural
+J4_bcHXLQ	Unknown
+J4_bcHXNO	Digestive
+J4_bcHXOO	Neural
+J4_bcHXQW	Muscle
+J4_bcHXSC	Muscle
+J4_bcHXSX	Muscle
+J4_bcHXUF	Digestive
+J4_bcHXVD	Neural
+J4_bcHXYS	Muscle
+J4_bcHYCH	Digestive
+J4_bcHYCL	Digestive
+J4_bcHYDM	Digestive
+J4_bcHYDQ	Muscle
+J4_bcHYFK	Neural
+J4_bcHYIS	Unknown
+J4_bcHYLA	Muscle
+J4_bcHYNX	Unknown
+J4_bcHYOG	Secretory
+J4_bcHYOR	Endodermal Progenitor
+J4_bcHYPQ	Neural
+J4_bcHYTJ	Neural
+J4_bcHYVJ	Unknown
+J4_bcHYWB	Neoblast
+J4_bcHYYL	Endoderm-like II
+J4_bcHYZT	Neural
+J4_bcHZAM	Neural
+J4_bcHZEY	Muscle
+J4_bcHZGO	Muscle
+J4_bcHZIW	Neural
+J4_bcHZMS	Secretory
+J4_bcHZUE	Endoderm-like II
+J4_bcHZUG	Neural
+J4_bcHZYS	Digestive
+J4_bcIAGA	Neoblast
+J4_bcIAHA	Neural
+J4_bcIAJJ	Epidermal
+J4_bcIANJ	Neural
+J4_bcIAOY	Digestive
+J4_bcIAPB	Digestive
+J4_bcIASJ	Unknown
+J4_bcIAUC	Neural
+J4_bcIBBI	Muscle
+J4_bcIBCT	Neoblast
+J4_bcIBEX	Muscle
+J4_bcIBPK	Neoblast
+J4_bcIBRK	Neural
+J4_bcIBRP	Endodermal Progenitor
+J4_bcIBRZ	Muscle
+J4_bcIBTM	Muscle
+J4_bcIBVR	Digestive
+J4_bcICET	Endoderm-like I
+J4_bcICIX	Neoblast
+J4_bcICLL	Neoblast
+J4_bcICTG	Endoderm-like I
+J4_bcICUB	Epidermal Progenitor
+J4_bcICXA	Endoerm-like III
+J4_bcIDBM	Endoderm-like II
+J4_bcIDBN	Endodermal Progenitor
+J4_bcIDDR	Endodermal Progenitor
+J4_bcIDEM	Endoderm-like I
+J4_bcIDHQ	Digestive
+J4_bcIDHW	Digestive
+J4_bcIDIE	Secretory
+J4_bcIDJU	Endoerm-like III
+J4_bcIDMP	Neural
+J4_bcIDND	Digestive
+J4_bcIDUF	Endoderm-like I
+J4_bcIDVJ	Muscle
+J4_bcIDWN	Neural
+J4_bcIDZN	Secretory
+J4_bcIEAE	Neoblast
+J4_bcIEAF	Digestive
+J4_bcIEIL	Unknown
+J4_bcIEOP	Epidermal Progenitor
+J4_bcIEPN	Neural
+J4_bcIEUI	Endoderm-like I
+J4_bcIEWP	Epidermal
+J4_bcIEXR	Digestive
+J4_bcIEXX	Endodermal Progenitor
+J4_bcIFBC	Muscle
+J4_bcIFEO	Digestive
+J4_bcIFGF	Endoerm-like III
+J4_bcIFLT	Unknown
+J4_bcIFLU	Neural
+J4_bcIFNC	Unknown
+J4_bcIFPG	Secretory
+J4_bcIFQQ	Muscle
+J4_bcIFRC	Neural
+J4_bcIFSY	Epidermal
+J4_bcIFTZ	Neural
+J4_bcIFZW	Epidermal
+J4_bcIGKZ	Unknown
+J4_bcIGSY	Endoderm-like II
+J4_bcIGTA	Digestive
+J4_bcIGZB	Neural
+J4_bcIHAE	Neural
+J4_bcIHGM	Neural
+J4_bcIHJC	Endodermal Progenitor
+J4_bcIHJE	Muscle
+J4_bcIHNB	Muscle
+J4_bcIHOI	Endodermal Progenitor
+J4_bcIHON	Endoderm-like I
+J4_bcIHQA	Endodermal Progenitor
+J4_bcIHQQ	Neural
+J4_bcIHRS	Unknown
+J4_bcIHWN	Muscle
+J4_bcIHWZ	Digestive
+J4_bcIHYF	Muscle
+J4_bcIIEB	Endoderm-like I
+J4_bcIIFF	Neural
+J4_bcIIFV	Digestive
+J4_bcIIHP	Endoderm-like II
+J4_bcIIIJ	Endodermal Progenitor
+J4_bcIIJX	Muscle
+J4_bcIIME	Muscle
+J4_bcIIMR	Digestive
+J4_bcIINR	Digestive
+J4_bcIIRS	Neural
+J4_bcIITL	Digestive
+J4_bcIIUF	Digestive
+J4_bcIIUM	Muscle
+J4_bcIIWM	Neural
+J4_bcIIXX	Endoderm-like I
+J4_bcIIYJ	Digestive
+J4_bcIJDX	Neural
+J4_bcIJIE	Neoblast
+J4_bcIJNR	Endodermal Progenitor
+J4_bcIJQN	Secretory
+J4_bcIJVF	Muscle
+J4_bcIJZW	Endoderm-like I
+J4_bcIKAL	Secretory
+J4_bcIKBC	Endoderm-like II
+J4_bcIKCL	Digestive
+J4_bcIKDH	Muscle
